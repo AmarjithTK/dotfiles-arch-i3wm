@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "使用替代文字取代圖片。"
+   },
+   "ALT_APPNAME": {
+      "message": "圖片 Alt 文字檢視器"
+   },
+   "ALT_INFOBAR": {
+      "message": "圖片已被 alt 文字取代。"
+   },
+   "ALT_UNDO": {
+      "message": "復原"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "允許所有動畫圖片。"
+   },
+   "ANIMATION_APPDESC": {
+      "message": "執行動畫 (僅限一次) 或完全停用動畫。"
+   },
+   "ANIMATION_APPNAME": {
+      "message": "動畫政策"
+   },
+   "ANIMATION_NONE": {
+      "message": "停用所有圖片動畫。"
+   },
+   "ANIMATION_ONCE": {
+      "message": "允許動畫圖片 (僅限一次)。"
+   },
+   "ANIMATION_POLICY": {
+      "message": "動畫政策："
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "使用動畫標明游標位置。"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "使用方向鍵瀏覽網頁文字。"
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "鍵盤瀏覽"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "鍵盤瀏覽選項"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "按下 \u003Cspan class='key'>F7\u003C/span> 鍵可開啟鍵盤瀏覽功能，再按一下則可關閉。"
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "使用快閃指示標明游標位置。"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>當你瀏覽到連結或控制項時，焦點會自動移至連結或控制項。   按下 \u003Cspan class='key'>Enter\u003C/span> 鍵可點選連結或按鈕。\u003C/p> \u003Cp>   當聚焦的控制項 (例如文字方塊或清單方塊) 偵測到方向鍵操作時，按下 \u003Cspan class='key'>Esc\u003C/span> 鍵和向左或向右鍵可繼續使用鍵盤瀏覽功能。\u003C/p> \u003Cp>   或者，按下 \u003Cspan class='key'>Tab\u003C/span> 鍵可移至下一個能聚焦的控制項。\u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "當插入點跳躍距離極大時："
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "鍵盤指令"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "按住 \u003Cspan class='key'>Option\u003C/span> 鍵可逐字移動。"
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "按住 \u003Cspan class='key'>Control\u003C/span> 鍵可逐字移動。"
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>使用方向鍵可在整份文件中來回移動。\u003C/p>\u003Cp>按一下任何位置，游標即會移至點選的位置。\u003C/p> \u003Cp>   按下 \u003Cspan class='key'>Shift\u003C/span> 鍵 + 方向鍵可選取文字。\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "無回饋，僅顯示游標。"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "啟用這項擴充功能後，網頁上會顯示可移動的游標，讓你使用鍵盤選取文字。"
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "這個網頁會一律啟用鍵盤瀏覽功能，歡迎立即體驗！"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "視覺回饋"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "啟用鍵盤瀏覽功能時："
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "色彩調整"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "可供自訂的色彩濾鏡，套用到網頁後可強化色彩感知度。"
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "取消"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "度數"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "啟用？"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "確定"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "重設"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "設定"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "設定："
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "步驟 2 - 調整滑桿，直到在所選列中看見\n        所有星星為止"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "藍色"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "步驟 1 - 選取星星亮度最微弱的一列："
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "綠色"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "紅色"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$ 的色彩配置：",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "更改或反轉色彩配置，讓網頁更容易閱讀。"
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "高對比"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "預設色彩配置："
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "停用"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "高對比功能已停用"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "啟用"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "高對比功能已啟用"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "清除網站自訂設定"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "灰階"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "增加對比"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "反轉色彩"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "反轉灰階"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "一般"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "設為預設配置"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "黑底黃字"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "為含有 aria-describedat 或 longdesc 屬性的元素加上框線。"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "對任何含有「longdesc」或「aria-describedat」屬性的元素按一下滑鼠右鍵，即可查看其完整說明。"
+   },
+   "LONGDESC_APPNAME": {
+      "message": "內容選單中的詳細說明"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "在新分頁中開啟詳細說明"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "選項"
+   }
+}

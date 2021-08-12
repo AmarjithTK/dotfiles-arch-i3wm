@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Substitua imagens pelo texto alternativo."
+   },
+   "ALT_APPNAME": {
+      "message": "Visualizador de texto \"Alt\" da imagem"
+   },
+   "ALT_INFOBAR": {
+      "message": "As imagens foram substituídas pelo texto alt correspondente."
+   },
+   "ALT_UNDO": {
+      "message": "Desfazer"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Permitir todas as imagens animadas."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Executar animações apenas uma vez ou desativar completamente as animações."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Política de animação"
+   },
+   "ANIMATION_NONE": {
+      "message": "Desativar todas as animações de imagem."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Permitir imagens animadas, mas apenas uma vez."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Política de animação:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Destaque a posição do cursor com uma animação."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Procure o texto de páginas da Web usando teclas de seta."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Caret Browsing"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Opções da extensão Caret Browsing"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Pressione \u003Cspan class='key'>F7\u003C/span> para ativar a extensão Caret Browsing. Pressione novamente para desativá-la."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Destaque a posição do cursor com um flash rápido."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Quando você acessa um link ou controle, o foco é ajustado automaticamente.   Pressione \u003Cspan class='key'>Enter\u003C/span> para clicar em um link ou botão. \u003C/p> \u003Cp>   Quando um controle em destaque (como uma caixa de texto ou uma caixa de lista) estiver capturando teclas de seta, pressione \u003Cspan class='key'>Esc\u003C/span> seguido pela seta para a esquerda ou direita para continuar com a Caret Browsing. \u003C/p> \u003Cp>   Como alternativa, pressione \u003Cspan class='key'>Tab\u003C/span> para passar ao próximo controle com foco. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Quando o cursor salta uma grande distância:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Comandos do teclado"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Mantenha a tecla \u003Cspan class='key'>Option\u003C/span> pressionada para se mover por palavras."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Mantenha a tecla \u003Cspan class='key'>Control\u003C/span> pressionada para se mover por palavras."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Use as teclas de seta para se mover pelo documento. \u003C/p>\u003Cp>Clique em qualquer lugar para mover o cursor até esse local. \u003C/p> \u003Cp>   Pressione \u003Cspan class='key'>Shift\u003C/span> + setas para selecionar o texto.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Sem feedback, mostrar apenas o cursor."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Esta extensão fornece um cursor móvel na página da Web, permitindo que você selecione o texto com o teclado."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Experimente agora. A extensão Caret Browsing está sempre ativada nesta página."
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Feedback visual"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Quando a extensão Caret Browsing está ativada:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Ajuste de cores"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Um filtro de cor personalizável aplicado a páginas da Web para melhorar a percepção das cores."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Cancelar"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Grau"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Ativar?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Redefinir"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Configuração"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Configuração:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Etapa 2: ajuste o controle deslizante até que todas as estrelas estejam visíveis na\n        linha selecionada"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Azul"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Etapa 1: selecione a linha com as estrelas mais fracas:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Verde"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Vermelho"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Esquema de cores para $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Altere ou inverta o esquema de cores para facilitar a leitura de páginas da Web."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "High Contrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Esquema de cores padrão:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Desativar"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "A extensão High Contrast está desativada"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Ativar"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "A extensão High Contrast está ativada"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Esquecer personalizações de site"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Escala de cinza"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Aumento de contraste"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Cor invertida"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Escala de cinza invertida"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normal"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Definir como esquema padrão"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Amarelo no preto"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Adicionar fronteira aos elementos com atributos aria-describedat ou Longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Clique com o botão direito do mouse em qualquer item que tenha um atributo \"longdesc\" ou \"aria-describedat\" para acessar a respectiva descrição longa."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Descrições longas no menu de contexto"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Abrir descrição longa em \"Nova guia\""
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Opções"
+   }
+}

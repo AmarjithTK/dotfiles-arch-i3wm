@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "ചിത്രങ്ങളുടെ പകരമുള്ള ടെക്സ്റ്റ് ഉപയോഗിച്ച് അവ പുനഃസ്ഥാപിക്കുക."
+   },
+   "ALT_APPNAME": {
+      "message": "ചിത്ര Alt ടെക്‌സ്‌റ്റ് വ്യൂവർ"
+   },
+   "ALT_INFOBAR": {
+      "message": "അവരുടെ alt ടെക്‌സ്റ്റ് ഉപയോഗിച്ചുകൊണ്ട് ചിത്രങ്ങൾ മാറ്റിസ്ഥാപിച്ചു."
+   },
+   "ALT_UNDO": {
+      "message": "പഴയപടിയാക്കുക"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "ആനിമേറ്റുചെയ്‌ത എല്ലാ ചിത്രങ്ങളും അനുവദിക്കുക."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "ആനിമേഷനുകൾ ഒരിക്കൽ മാത്രം പ്രവർത്തിപ്പിക്കുക അല്ലെങ്കിൽ പൂർണ്ണമായും പ്രവർത്തനരഹിതമാക്കുക."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "ആനിമേഷൻ നയം"
+   },
+   "ANIMATION_NONE": {
+      "message": "എല്ലാ ചിത്ര ആനിമേഷനും പ്രവർത്തനരഹിതമാക്കുക."
+   },
+   "ANIMATION_ONCE": {
+      "message": "ആനിമേറ്റുചെയ്‌ത ചിത്രങ്ങൾ ഒരുതവണത്തേക്ക് മാത്രം അനുവദിക്കുക."
+   },
+   "ANIMATION_POLICY": {
+      "message": "ആനിമേഷൻ നയം:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "ഒരു ആനിമേഷൻ ഉപയോഗിച്ച് കഴ്‌സറിന്റെ സ്ഥാനം ഹൈലൈറ്റുചെയ്യുക."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "അമ്പടയാള കീകൾ ഉപയോഗിച്ച് വെബ് പേജുകളുടെ ടെക്‌സ്റ്റ് ബ്രൗസ് ചെയ്യുക."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "കാരറ്റ് ബ്രൗസുചെയ്യൽ"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "കാരറ്റ് ബ്രൗസുചെയ്യൽ ഓപ്‌ഷനുകൾ"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "കാരറ്റ് ബ്രൗസുചെയ്യൽ ഓണാക്കുന്നതിന് \u003Cspan class='key'>F7\u003C/span> അമർത്തുക. ഓഫാക്കാൻ, അത് വീണ്ടും അമർത്തുക."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "പെട്ടെന്നുള്ള ഒരു ഫ്ലാഷ് ഉപയോഗിച്ച് കഴ്‌സറിന്റെ സ്ഥാനം ഹൈലൈറ്റുചെയ്യുക."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>നിങ്ങൾ ഒരു ലിങ്കിലേക്കോ നിയന്ത്രണത്തിലേക്കോ എത്തുമ്പോൾ, അത് സ്വയം ഫോക്കസ് ചെയ്യും. ഒരു ലിങ്കോ ബട്ടണോ ക്ലിക്ക് ചെയ്യുന്നതിന് \u003Cspan class='key'>Enter\u003C/span> അമർത്തുക. \u003C/p> \u003Cp> ഫോക്കസ് ചെയ്‌ത നിയന്ത്രണം (ടെക്സ്റ്റ് ബോക്സോ ലിസ്റ്റ് ബോക്സോ പോലുള്ളവ) അമ്പടയാള കീകൾ ക്യാപ്‌ചർ ചെയ്യുമ്പോൾ, കാരറ്റ് ബ്രൗസ് ചെയ്യൽ തുടരുന്നതിന് ഇടത് അല്ലെങ്കിൽ വലത് അമ്പടയാളത്തിന് ശേഷം \u003Cspan class='key'>Esc\u003C/span> അമർത്തുക. \u003C/p> \u003Cp> പകരമായി, ഫോക്കസ് ചെയ്യാനാകുന്ന അടുത്ത നിയന്ത്രണത്തിലേക്ക് നീക്കുന്നതിന്  \u003Cspan class='key'>Tab\u003C/span> അമർത്തുക. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "ഒരു വലിയ അകലത്തിൽ കാരറ്റ് നീങ്ങുമ്പോൾ:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "കീബോർഡ് കമാൻഡുകൾ"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "വാക്കുകൾ പ്രകാരം നീക്കുന്നതിന് \u003Cspan class='key'>ഓപ്‌ഷൻ\u003C/span> അമർത്തിപ്പിടിക്കുക."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "വാക്കുകൾ പ്രകാരം നീക്കുന്നതിന് \u003Cspan class='key'>Control\u003C/span> അമർത്തിപ്പിടിക്കുക."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>പ്രമാണത്തിലുടനീളം നീക്കുന്നതിന് അമ്പടയാള കീകൾ ഉപയോഗിക്കുക. \u003C/p>\u003Cp> ഒരു ലൊക്കേഷനിലേക്ക് കഴ്‌സർ നീക്കുന്നതിന് അവിടെ ക്ലിക്ക് ചെയ്യുക. \u003C/p> \u003Cp> ടെക്‌സ്റ്റ് തിരഞ്ഞെടുക്കുന്നതിന് \u003Cspan class='key'>Shift\u003C/span> + അമ്പടയാള കീകൾ അമർത്തുക.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "ഫീഡ്‌ബാക്ക് ഒന്നുമില്ല, കഴ്‌സർ കാണിക്കുക."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "ഈ വിപുലീകരണം, വെബ്‌ പേജിൽ കീബോർഡ് ഉപയോഗിച്ച് ടെക്‌സ്‌റ്റ് തിരഞ്ഞെടുക്കാൻ അനുവദിക്കുന്ന നീക്കാനാവുന്ന കഴ്‌സർ നിങ്ങൾക്ക് നൽകുന്നു."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "ഇത് ഇപ്പോൾ പരീക്ഷിക്കുക - കാരറ്റ് ബ്രൗസുചെയ്യൽ, ഈ പേജിൽ എപ്പോഴും പ്രവർത്തനക്ഷമമാക്കിയിരിക്കുന്നു!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "ദൃശ്യ ഫീഡ്‌ബാക്ക്"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "കാരറ്റ് ബ്രൗസുചെയ്യൽ പ്രവർത്തനക്ഷമമാക്കുമ്പോൾ:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "വർണ്ണ ക്രമീകരണം"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "വർണ്ണ സ്‌പഷ്‌ടത മെച്ചപ്പെടുത്താൻ വെബ്‌പേജുകൾ ഉപയോഗിക്കാനാവുന്ന ഒരു ഇഷ്ടാനുസൃത വർണ്ണ ഫിൽട്ടർ."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "വർണ്ണ മെച്ചപ്പെടുത്തൽ"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "റദ്ദാക്കൂ"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "കോൺ"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "പ്രവർത്തനക്ഷമമാക്കണോ?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "ശരി"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "വീണ്ടും സജ്ജീകരിക്കുക"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "സജ്ജമാക്കുക"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "സജ്ജീകരിക്കുക:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "ഘട്ടം 2: തിരഞ്ഞെടുത്ത നിരയിൽ എല്ലാ നക്ഷത്രങ്ങളും ദൃശ്യമാകുന്നതുവരെ സ്ലൈഡർ\n        ക്രമീകരിക്കുക"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "നീല"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "ഘട്ടം 1: വ്യക്തത ഇല്ലാത്ത നക്ഷത്രങ്ങളുള്ള നിര തിരഞ്ഞെടുക്കുക:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "പച്ച"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "ചുവപ്പ്"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$ എന്നതിനായുള്ള വർണ്ണ സ്‌കീം:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "വെബ്‌പേജുകൾ എളുപ്പത്തിൽ വായിക്കാവുന്നതാക്കാൻ, വർണ്ണ സ്‌കീമുകൾ മാറ്റുക അല്ലെങ്കിൽ വിപരീത ക്രമത്തിലാക്കുക."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "ഉയർന്ന ദൃശ്യതീവ്രത"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "ഡിഫോൾട്ട് വർണ്ണ സ്‌കീം:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "അപ്രാപ്‌തമാക്കുക"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "ഉയർന്ന ദൃശ്യതീവ്രത പ്രവർത്തനരഹിതമാക്കി"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "തയ്യാറാക്കുക"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "ഉയർന്ന ദൃശ്യതീവ്രത പ്രവർത്തനക്ഷമമാക്കി"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "സൈറ്റ് ഇഷ്‌ടാനുസൃതമാക്കൽ മറ‌ക്കുക"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "ഗ്രേസ്‌കെയിൽ"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "വർദ്ധിപ്പിച്ച ദൃശ്യതീവ്രത"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "വിപരീത വർണ്ണം"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "വിപരീതക്രമ ഗ്രേസ്‌കെയിൽ"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "സാധാരണം"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "ഡിഫോൾട്ട് സ്‌കീമായി സജ്ജീകരിക്കുക"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "കറുപ്പിൽ മഞ്ഞ"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "\"aria-describedat\" അല്ലെങ്കിൽ \"longdesc\" എന്ന ആട്രി‌ബ്യൂട്ടുള്ള ഘടകങ്ങളിലേക്ക് ബോർഡർ ചേർക്കുക."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "ഏതിന്‍റെയെങ്കിലും ദൈർഘ്യമുള്ള വിവരണത്തിലേക്ക് ആക്‌സസ് ചെയ്യുന്നതിന് \"aria-describedat\" അല്ലെങ്കിൽ \"longdesc\" എന്ന ആട്രി‌ബ്യൂട്ടിനൊപ്പം അതിൽ വലത് ക്ലിക്ക് ചെയ്യുക."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "സന്ദർഭമെനുവിലെ ദൈർഘ്യമേറിയ വിവരണം"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "ദൈർഘ്യവിവരണം പുതിയ ടാബിൽ തുറക്കുക"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "ഓപ്ഷനുകൾ"
+   }
+}

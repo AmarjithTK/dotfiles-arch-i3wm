@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Udskift billeder med deres \"alt\"-tekst."
+   },
+   "ALT_APPNAME": {
+      "message": "Visningsprogram for billeder og \"Alt\"-tekst"
+   },
+   "ALT_INFOBAR": {
+      "message": "Billeder er blevet erstattet af deres alternative tekst."
+   },
+   "ALT_UNDO": {
+      "message": "Fortryd"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Tillad alle animerede billeder."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Kør kun animationer én gang, eller deaktiver animationer helt."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animationspolitik"
+   },
+   "ANIMATION_NONE": {
+      "message": "Deaktiver alle billedanimationer."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Tillad animerede billeder, men kun én gang."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animationspolitik:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Fremhæv markørens position med en animation."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Gennemse teksten på websider ved hjælp af piletasterne."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Tastebrowsing"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Muligheder for tastebrowsing"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Tryk på \u003Cspan class='key'>F7\u003C/span> for at aktivere tastebrowsing. Tryk igen for at deaktivere."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Fremhæv markørens position med et hurtigt glimt."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Når du når til et link eller et kontrolelement, fremhæves det automatisk.   Tryk på \u003Cspan class='key'>Enter\u003C/span> for at klikke på et link eller en knap. \u003C/p> \u003Cp>   Når et fremhævet kontrolelement (som f.eks. et tekstfelt eller et listefelt) griber   piletaster, skal du trykke på \u003Cspan class='key'>Esc\u003C/span> efterfulgt af   venstre eller højre pil for at fortsætte tastebrowsing. \u003C/p> \u003Cp>   Alternativt kan du også trykke på \u003Cspan class='key'>Tab\u003C/span> for at gå til  det næste kontrolelement, der kan fremhæves. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Når markøren springer med stor afstand:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Tastaturkommandoer"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Hold \u003Cspan class='key'>Alt\u003C/span> nede for at flytte efter ord."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Hold \u003Cspan class='key'>Ctrl\u003C/span> nede for at flytte efter ord."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Brug piletasterne til at bevæge dig rundt i dokumentet. \u003C/p>\u003Cp>Klik et tilfældigt sted for at flytte markøren til det sted. \u003C/p> \u003Cp>   Tryk på \u003Cspan class='key'>Shift\u003C/span> + pilene for at vælge tekst.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Ingen feedback – vis kun markøren."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Denne udvidelse giver dig en bevægelig markør på websiden, så du kan vælge tekst med tastaturet."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Prøv det nu. Tastebrowsing er altid aktiveret på denne side."
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Visuel feedback"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Når tastebrowsing er aktiveret:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Farvejustering"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Et justerbart farvefilter anvendes på websider for at forbedre farveopfattelsen."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Farveforbedring"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Annuller"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Grad"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Vil du aktivere?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Nulstil"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Konfiguration"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Konfiguration:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Trin 2: Juster skyderen, indtil alle stjernerne er synlige i den\n        valgte række"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Blå"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Trin 1: Vælg rækken med de mest utydelige stjerner:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Grøn"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Rød"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Farvetema for $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Skift eller vend rundt på farvetemaet, så websiderne bliver nemmere at læse."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Stor kontrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Standardfarvetema:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Deaktiver"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Stor kontrast er deaktiveret"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Aktivér"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Stor kontrast er aktiveret"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Glem websitets tilpasninger"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Gråtone"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Øget kontrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Omvendt farve"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Omvendt gråtone"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normal"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Vælg som standardtema"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Gul og sort"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Føj en grænse til elementer med aria-describedat- eller longdesc-attributter."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Højreklik på indhold med en \"longdesc\"- eller \"Aria-describedat\"-attribut for at få adgang den lange version af beskrivelsen."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Lange beskrivelser i genvejsmenuen"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Åbn lang beskrivelse på en ny fane"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Valgmuligheder"
+   }
+}

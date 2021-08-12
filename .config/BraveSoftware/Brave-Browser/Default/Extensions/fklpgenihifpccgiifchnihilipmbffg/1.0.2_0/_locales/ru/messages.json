@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Замена изображений альтернативным текстом"
+   },
+   "ALT_APPNAME": {
+      "message": "Средство просмотра alt-текста изображений"
+   },
+   "ALT_INFOBAR": {
+      "message": "Изображения заменены альтернативным текстом."
+   },
+   "ALT_UNDO": {
+      "message": "Отмена"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Показывать все анимированные изображения."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Запускать анимацию только один раз или полностью ее отключить."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Правила демонстрации анимированных изображений"
+   },
+   "ANIMATION_NONE": {
+      "message": "Отключить анимацию изображений."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Разрешить анимацию изображений один раз."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Правила демонстрации анимированных изображений:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Выделять позицию курсора с помощью анимации"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Навигация по тексту веб-страниц при помощи клавиш со стрелками"
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Режим активного курсора"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Режим активного курсора"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Нажав клавишу \u003Cspan class='key'>F7\u003C/span>, вы можете включить или отключить режим активного курсора."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Выделять позицию курсора с помощью вспышки"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>При переходе к элементу управления (например, кнопке или ссылке) он автоматически активируется. Нажать на него можно с помощью клавиши \u003Cspan class='key'>Ввод\u003C/span>.\u003C/p>\u003Cp>Если вам встретится элемент, управляемый клавишами со стрелками (например, текстовое поле или список), для возврата в режим активного курсора нажмите клавишу \u003Cspan class='key'>Esc\u003C/span>, а затем стрелку вправо или влево.\u003C/p>\u003Cp>Для перехода к следующему элементу управления нажмите клавишу \u003Cspan class='key'>Tab\u003C/span>.\u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "При переносе курсора в другую часть страницы:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Клавиатурные команды"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Удерживайте клавишу \u003Cspan class='key'>Option\u003C/span> для перемещения по словам."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Удерживайте клавишу \u003Cspan class='key'>Ctrl\u003C/span> для перемещения по словам."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Для перемещения по документу используйте клавиши со стрелками.\u003C/p>\u003Cp>Нажмите на нужную область документа, чтобы установить курсор.\u003C/p>\u003Cp>Выделить текст можно с помощью клавиши \u003Cspan class='key'>Shift\u003C/span> и стрелок.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Отключить эффекты при появлении курсора"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Это расширение позволяет перемещать курсор и выделять текст на веб-странице с помощью клавиатуры."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "На этой странице можно включить режим активного курсора. Попробуйте!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Эффекты при появлении курсора"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Когда режим активного курсора включен:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Регулировка цвета"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Фильтр для веб-страниц, позволяющий улучшить цветовосприятие."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Цветовой фильтр"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Отмена"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Интенсивность"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Включить"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "ОК"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Сбросить"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Настройка"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Настроить:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Шаг 2. Перемещайте ползунок до тех пор, пока все звездочки не станут видны\n        в выбранной строке"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Синий"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Шаг 1. Выберите строку с неяркой звездочкой:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Зеленый"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Красный"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Цветовая схема сайта $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Настройка цветовой схемы для чтения веб-страниц"
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Резкий контраст"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Цветовая схема по умолчанию:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Отключить"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Резкий контраст отключен"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Включить"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Резкий контраст включен"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Сбросить настройки"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Оттенки серого"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Резкий контраст"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Инверсия цвета"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Негатив"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Обычный"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Установить по умолчанию"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Желтый на черном"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Добавить границу к элементам с атрибутами aria-describedat или longdesc"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Нажмите правой кнопкой мыши на элемент с атрибутами longdesc или aria-describedat, чтобы просмотреть его подробное описание."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Подробные описания в контекстном меню"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Открыть подробное описание в новой вкладке"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Параметры"
+   }
+}

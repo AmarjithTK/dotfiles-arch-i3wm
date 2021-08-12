@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Замяна на изображенията с текста от атрибута им alt."
+   },
+   "ALT_APPNAME": {
+      "message": "Image Alt Text Viewer"
+   },
+   "ALT_INFOBAR": {
+      "message": "Изображенията бяха заменени с алтернативния текст за тях."
+   },
+   "ALT_UNDO": {
+      "message": "Отмяна"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Разрешаване на всички анимирани изображения."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Анимациите се изпълняват само веднъж или се деактивират напълно."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Правило за анимациите"
+   },
+   "ANIMATION_NONE": {
+      "message": "Деактивиране на всички анимирани изображения."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Разрешаване на анимираните изображения, но само веднъж."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Правило за анимациите:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Открояване на позицията на курсора с анимация."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Разглеждайте текста на уеб страниците посредством клавишите със стрелки."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Caret Browsing"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Опции за Caret Browsing"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Натиснете \u003Cspan class='key'>F7\u003C/span> веднъж, за да включите функцията Caret Browsing, и втори път, за да я изключите."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Открояване на позицията на курсора с бързо премигване."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Когато стигнете до връзка или контрола, фокусът автоматично се премества върху нея. Натиснете \u003Cspan class='key'>Enter\u003C/span>, за да кликнете върху връзка или бутон.\u003C/p> \u003Cp>Когато фокусът е върху контрола, която улавя натисканията на клавишите със стрелки (например текстово или списъчно поле), натиснете \u003Cspan class='key'>Esc\u003C/span> и стрелката за наляво или надясно, за да продължите да сърфирате с клавишите.\u003C/p> \u003Cp>Друга възможност е да натиснете \u003Cspan class='key'>Tab\u003C/span>, за да преместите фокуса върху следващата контрола. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Когато курсорът се премести на голямо разстояние:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Клавишни команди"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Натиснете и задръжте \u003Cspan class='key'>Option\u003C/span>, за да се придвижвате дума по дума."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Натиснете и задръжте \u003Cspan class='key'>Control\u003C/span>, за да се придвижвате дума по дума."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Използвайте клавишите със стрелки, за да се придвижвате в документа. \u003C/p>\u003Cp>Кликнете върху произволно място, за да преместите курсора там.\u003C/p> \u003Cp>Натиснете \u003Cspan class='key'>Shift\u003C/span> + клавишите със стрелки, за да изберете текст.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Без обратна връзка – показване само на курсора."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Това разширение ви предоставя курсор, който може да се мести в уеб страниците, и ви позволява да избирате текст с клавиатурата."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Изпробвайте разширението Caret Browsing още сега – то е винаги активирано на тази страница!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Визуална обратна връзка"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Когато функцията Caret Browsing е активирана:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Коригиране на цветовете"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Цветови филтър, който може да се персонализира и да се прилага за уеб страници с цел подобряване на възприемането на цветовете."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Отказ"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Степен"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Да се активира ли?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Нулиране"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Настройване"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Настройване:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Стъпка 2: Местете плъзгача, докато не започнете да виждате всички звезди в\nизбрания ред"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "синьо"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Стъпка 1: Изберете реда с най-бледите звезди:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "зелено"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "червено"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Цветова схема за $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Променяйте или обръщайте цветовата схема, за да четете по-лесно уеб страниците."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "High Contrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Стандартна цветова схема:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Деактивиране"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Разширението High Contrast е деактивирано"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Активиране"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Разширението High Contrast е активирано"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Забравяне на персонализиранията за сайта"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Сива скала"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Увеличен контраст"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Негатив"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Сива скала с негативен ефект"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Нормално"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Задаване като стандартна схема"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Жълто върху черно"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Добавяне на контури към елементите с атрибути „aria-describedat“ или „longdesc“."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Кликнете с десния бутон на мишката върху всеки елемент с атрибут „aria-describedat“ или „longdesc“, за да осъществите достъп до дългото му описание."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Long Descriptions in Context Menu"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Отваряне на дългото описание в нов раздел"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Опции"
+   }
+}

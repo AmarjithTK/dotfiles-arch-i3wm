@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Thay thế hình ảnh bằng văn bản thay thế."
+   },
+   "ALT_APPNAME": {
+      "message": "Trình xem văn bản thay thế hình ảnh"
+   },
+   "ALT_INFOBAR": {
+      "message": "Hình ảnh đã được thay thế bởi văn bản thay thế của hình ảnh."
+   },
+   "ALT_UNDO": {
+      "message": "Hoàn tác"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Cho phép tất cả hình ảnh động."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Chạy hoạt ảnh chỉ một lần hoặc tắt hoàn toàn hoạt ảnh."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Chính sách hoạt ảnh"
+   },
+   "ANIMATION_NONE": {
+      "message": "Tắt tất cả hoạt ảnh."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Cho phép hình ảnh động nhưng chỉ được xuất hiện một lần."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Chính sách hoạt ảnh:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Đánh dấu vị trí con trỏ bằng hoạt ảnh."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Duyệt qua văn bản của trang web bằng các phím mũi tên."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Duyệt với con nháy"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Tùy chọn Duyệt với con nháy"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Nhấn \u003Cspan class='key'>F7\u003C/span> để bật chế độ Duyệt với con nháy. Nhấn lại để tắt."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Đánh dấu nhanh vị trí con trỏ."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Khi bạn tới một liên kết hoặc nút điều khiển, liên kết hoặc nút điều khiển đó sẽ tự động được lấy làm tiêu điểm.   Nhấn \u003Cspan class='key'>Enter\u003C/span> để nhấp vào liên kết hoặc nút. \u003C/p> \u003Cp>   Khi một nút điều khiển được lấy làm tiêu điểm (như hộp văn bản hoặc hộp danh sách) đang chụp các phím mũi tên, nhấn \u003Cspan class='key'>Esc\u003C/span> rồi đến mũi tên trái hoặc phải để tiếp tục chế độ Duyệt với con nháy. \u003C/p> \u003Cp>   Hoặc, nhấn vào \u003Cspan class='key'>Tab\u003C/span> để chuyển tới nút điều khiển có thể lấy làm tiêu điểm tiếp theo. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Khi con nháy nhảy một khoảng cách rộng:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Lệnh bàn phím"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Nhấn và giữ \u003Cspan class='key'>Tùy chọn\u003C/span> để di chuyển theo từ."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Nhấn và giữ \u003Cspan class='key'>Control\u003C/span> để di chuyển theo từ."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Sử dụng các phím mũi tên để di chuyển trong toàn bộ tài liệu. \u003C/p>\u003Cp>Nhấp vào nơi bất kỳ để di chuyển con trỏ tới vị trí đó. \u003C/p> \u003Cp>   Nhấn \u003Cspan class='key'>Shift\u003C/span> + các mũi tên để chọn văn bản.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Không có phản hồi, chỉ hiển thị con trỏ."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Tiện ích này cung cấp cho bạn một con trỏ di động trong trang web, cho phép bạn chọn văn bản bằng bàn phím."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Hãy dùng thử ngay bây giờ - chế độ Duyệt với con nháy luôn được bật trên trang này!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Phản hồi trực quan"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Khi chế độ Duyệt với con nháy được bật:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Điều chỉnh màu"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Bộ lọc màu tùy chỉnh được áp dụng cho các trang web để tăng cường nhận biết màu."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Trình tăng cường màu"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Hủy"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Mức độ"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Bật?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Đặt lại"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Thiết lập"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Thiết lập:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Bước 2: Điều chỉnh thanh trượt cho đến khi tất cả ngôi sao hiển thị trong\n        hàng đã chọn"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Xanh lam"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Bước 1: Chọn hàng có các ngôi sao nhạt nhất:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Xanh lục"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Đỏ"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Lược đồ màu dành cho $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Thay đổi hoặc đảo ngược lược đồ màu để giúp trang web dễ đọc hơn."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Độ tương phản cao"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Lược đồ màu mặc định:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Vô hiệu hóa"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Độ tương phản cao đang bị tắt"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Bật"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Độ tương phản cao đang được bật"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Bỏ qua các tùy chỉnh đối với trang web"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Thang độ xám"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Độ tương phản tăng"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Màu đảo ngược"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Thang độ xám đảo ngược"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Bình thường"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Đặt làm giao thức mặc định"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Vàng trên nền đen"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Thêm đường viền vào phần tử có thuộc tính aria-describedat hoặc longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Nhấp chuột phải vào bất cứ nội dung nào có thuộc tính \"longdesc\" hoặc \"aria-describedat\" để truy cập vào mô tả dài của nội dung đó."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Mô tả dài trong menu ngữ cảnh"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Mở mô tả dài trong tab mới"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Tùy chọn"
+   }
+}

@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Resimleri \"alt\" metinleri ile değiştirme."
+   },
+   "ALT_APPNAME": {
+      "message": "Resim \"Alt\" Metni Görüntüleyici"
+   },
+   "ALT_INFOBAR": {
+      "message": "Resimler, alternatif metinleriyle değiştirildi."
+   },
+   "ALT_UNDO": {
+      "message": "Geri al"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Tüm animasyonlu resimlere izin verin."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Animasyonları bir kez çalıştırın veya animasyonu tamamıyla devre dışı bırakın."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animasyon Politikası"
+   },
+   "ANIMATION_NONE": {
+      "message": "Tüm resim animasyonunu devre dışı bırakın."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Animasyonlu resimlere yalnızca bir defalığına izin verin."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animasyon Politikası:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "İmleç konumunu bir animasyon ile vurgulama."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Web sayfalarının metinlerine ok tuşlarını kullanarak göz atın."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Klavye Göz Atma"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Caret Browsing Seçenekleri"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Caret Browsing'i etkinleştirmek için \u003Cspan class='key'>F7\u003C/span> tuşuna basın. Kapatmak için yine aynı tuşa basın."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "İmleç konumunu hızlı bir yanıp sönme ile vurgulama."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Bir bağlantı ya da kontrol öğesine geldiğinizde, bu bağlantı ya da öğeye otomatik olarak odaklanılır. Bir bağlantı veya düğmeyi tıklamak için \u003Cspan class='key'>Enter\u003C/span> tuşuna basın. \u003C/p> \u003Cp>   Odaklanılmış bir kontrol öğesi (metin kutusu veya liste kutusu gibi) ok tuşlarını yakaladığında, Caret Browsing'e devam etmek için \u003Cspan class='key'>Esc\u003C/span> tuşuna ardından da sol veya sağ ok tuşuna basın. \u003C/p> \u003Cp> Alternatif olarak, bir sonraki odaklanılabilir kontrol öğesine geçmek üzere \u003Cspan class='key'>Sekme\u003C/span> tuşuna da basabilirsiniz.\u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Klavye imleci uzun mesafe atlarsa:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Klavye komutları"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Kelime kelime hareket etmek için \u003Cspan class='key'>Seçenek\u003C/span> tuşunu basılı tutun."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Kelime kelime hareket etmek için \u003Cspan class='key'>Control\u003C/span> tuşunu basılı tutun."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Doküman içinde hareket etmek için ok tuşlarını kullanın.\u003C/p>\u003Cp>İmleci belli bir konuma götürmek için ilgili konumu tıklayın.\u003C/p> \u003Cp> Metni seçmek için \u003Cspan class='key'>ÜstKrktr\u003C/span> + ok tuşlarına basın.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Geri bildirim yok, sadece imleci göster."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Bu uzantı size web sayfasında hareket ettirilebilen bir imleç sunarak klavye ile seçim yapmanıza olanak sağlar."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Caret Browsing bu sayfada her zaman etkindir, hemen deneyin!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Görsel Geri Bildirim"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Caret Browsing etkinleştirildiğinde:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Renk düzenleme"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Renk algısını iyileştirmek için web sayfalarına uygulanan özelleştirilebilir bir renk filtresi."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "İptal"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Derece"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Etkinleştirilsin mi?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "Tamam"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Sıfırla"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Kurulum"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Kurulum:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "2. Adım: Kaydırma çubuğunu, seçilen satırdaki tüm yıldızların görünür hale geleceği şekilde ayarlayın"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Mavi"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "1. Adım: En sönük yıldızlı satırı seçin:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Yeşil"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Kırmızı"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$ için renk düzeni:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Web sayfalarının daha kolay okunabilmesini sağlamak için renk düzenini değiştirin veya ters çevirin."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Yüksek Kontrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Varsayılan renk düzeni:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Devre dışı bırak"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Yüksek Kontrast Devre Dışı"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Etkinleştir"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Yüksek Kontrast Etkin"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Site özelleştirmelerini unut"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Gri Tonlama"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Artırılmış Kontrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Ters Renk"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Ters Gri Tonlaması"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normal"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Varsayılan düzen olarak belirle"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Siyah üzerine sarı"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat veya longdesc özelliği olan öğelere sınır ekleyin."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "\"longdesc\" veya \"aria-describedat\" özelliği olan herhangi bir şeyi sağ tıklayıp uzun açıklamasına erişin."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "İçerik Menüsünde Uzun Açıklamalar"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Uzun Açıklamayı Yeni Sekmede Aç"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Seçenekler"
+   }
+}

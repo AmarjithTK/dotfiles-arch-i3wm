@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "त्यांच्या वैकल्पिक मजकूरासह इमेज बदला."
+   },
+   "ALT_APPNAME": {
+      "message": "इमेज Alt टेक्स्ट व्ह्यूअर"
+   },
+   "ALT_INFOBAR": {
+      "message": "इमेज त्यांच्या alt मजकूराद्वारे पुनर्स्थित केल्या गेल्या आहेत."
+   },
+   "ALT_UNDO": {
+      "message": "पहिल्यासारखे करा"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "सर्व अ‍ॅनिमेटेड प्रतिमांना अनुमती द्या."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "अ‍ॅनिमेशन केवळ एकदाच चालवा किंवा अ‍ॅनिमेशन पूर्णपणे अक्षम करा."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "अ‍ॅनिमेशन धोरण"
+   },
+   "ANIMATION_NONE": {
+      "message": "सर्व इमेज अॅनिमेशन अक्षम करा"
+   },
+   "ANIMATION_ONCE": {
+      "message": "ॲनिमेटेड प्रतिमांना, केवळ एकदाच अनुमती द्या."
+   },
+   "ANIMATION_POLICY": {
+      "message": "अ‍ॅनिमेशन धोरण:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "अॅनिमेशनसह कर्सर स्‍थिती हायलाइट करा."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "बाण की चा वापर करून वेबपृष्‍ठांचा मजकूर ब्राऊझ करा."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "कॅरेट ब्राउझिंग"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "कॅरेट ब्राउझिंग पर्याय"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "कॅरेट ब्राउझिंग चालू करण्यासाठी \u003Cspan class='key'>F7\u003C/span> दाबा. ते बंद करण्‍यासाठी ती पुन्‍हा दाबा."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "द्रुत फ्‍लॅशने कर्सर स्‍थिती हायलाइट करा."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>तुम्ही दुव्‍यावर किंवा नियंत्रणावर पोहचता तेव्‍हा, ते आपोआप फोकस केले जाते. दुवा किंवा बटण क्लिक करण्यासाठी \u003Cspan class='key'>Enter\u003C/span> दाबा. \u003C/p> \u003Cp> फोकस केलेले नियंत्रण (जसे की, मजकूर बॉक्‍स किंवा सूची बॉक्‍स) बाण की, कॅप्‍चर करतात तेव्‍हा, कॅरेट ब्राउझिंग करणे सुरु ठेवण्‍यासाठी \u003Cspan class='key'>Esc\u003C/span> त्यानंतर डावा किंवा उजवा बाण दाबा. \u003C/p> \u003Cp> वैकल्पिकपणे, पुढील फोकस करण्‍यायोग्य नियंत्रणावर हलविण्‍यासाठी \u003Cspan class='key'>Tab\u003C/span> दाबा. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "कॅरेट खूप अंतरावर जाते तेव्‍हा:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "कीबोर्ड आदेश"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "शब्दांनुसार हलविण्‍यासाठी \u003Cspan class='key'>पर्याय\u003C/span> धरून ठेवा."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "शब्दांनुसार हलवण्‍यासाठी \u003Cspan class='key'>Control\u003C/span> धरून ठेवा."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>संपूर्ण दस्‍तऐवजामधून हलवण्‍यासाठी अॅरो की चा वापर करा. \u003C/p>\u003Cp>त्या स्‍थानावर कर्सर हलवण्‍यासाठी कुठेही क्लिक करा. \u003C/p> \u003Cp> मजकूर निवडण्यासाठी \u003Cspan class='key'>Shift\u003C/span> + अॅरो दाबा.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "अभिप्राय नाही, फक्त कर्सर दर्शवा"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "हा विस्‍तार तुम्हाला कीबोर्डसह मजकूर निवडण्‍याची अनुमती देणारा, वेबपेजमधील हलणारा कर्सर देतो."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "हे आता वापरून पहा - कॅरेट ब्राउझिंग या पृष्‍ठावर नेहमी सक्षम केले असते!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "दृश्‍यमान अभिप्राय"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "कॅरेट ब्राउझिंग सक्षम केले असते तेव्‍हा:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "रंग ॲडजस्टमेंट"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "रंग आकलन सुधारण्यासाठी वेबपृषठांवर लागू केलेला एक सानुकूल करण्यायोग्य रंग फिल्टर."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "रंग संवर्धक"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "रद्द करा"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "प्रमाण"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "सुरू करायचे?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "ठीक आहे"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "रीसेट करा"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "सेटअप"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "सेटअप:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "चरण 2: निवडलेल्‍या पंक्तीमध्‍ये सर्व तारे दृश्‍यमान होईपर्यंत स्लायडर समायोजित करा"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "निळा"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "चरण 1: सर्वाधिक अंधुक तारे असलेली पंक्ती निवडा:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "हिरवा"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "लाल"
+   },
+   "HIGHCONTRAST_": {
+      "message": "यासाठी रंग योजना $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "वेबपृष्‍ठे वाचणे सोपे करण्‍यासाठी रंग योजना बदला किंवा उलट करा."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "उच्च तीव्रता"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "डीफॉल्‍ट रंग योजना:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "अक्षम करा"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "उच्च तीव्रता अक्षम केली आहे"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "सुरू करा"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "उच्च तीव्रता सक्षम केली आहे"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "साइट सानुकूलने विसरा"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "ग्रेस्केल"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "वाढविलेली तीव्रता"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "उलट रंग"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "उलटी ग्रेस्केल"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "सामान्य"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "डीफॉल्‍ट योजना म्‍हणून सेट करा"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "काळ्‍यावर पिवळे"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat किंवा longdesc विशेषतांसह घटकांमध्ये सीमा जोडा."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "त्याच्या मोठ्या वर्णना अॅक्सेस करण्यासाठी \"longdesc\" किंवा \"aria-describedat\" विशेषतेसह कशावरही उजवीकडे-क्लिक करा."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "काँटेक्स्ट मेनूमधील दीर्घ वर्णने"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "दीर्घ वर्णन नवीन टॅबमध्‍ये उघडा"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "पर्याय"
+   }
+}

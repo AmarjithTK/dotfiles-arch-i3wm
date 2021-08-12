@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "画像の代わりに代替テキストを表示します。"
+   },
+   "ALT_APPNAME": {
+      "message": "Image Alt Text Viewer"
+   },
+   "ALT_INFOBAR": {
+      "message": "画像の代わりに代替（alt）テキストを表示しています。"
+   },
+   "ALT_UNDO": {
+      "message": "元に戻す"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "すべての画像アニメーションを許可する。"
+   },
+   "ANIMATION_APPDESC": {
+      "message": "アニメーションを一度だけ実行するか、アニメーションを完全に無効にします。"
+   },
+   "ANIMATION_APPNAME": {
+      "message": "アニメーションのポリシー"
+   },
+   "ANIMATION_NONE": {
+      "message": "すべての画像アニメーションを無効にする。"
+   },
+   "ANIMATION_ONCE": {
+      "message": "画像アニメーションを一度だけ許可する。"
+   },
+   "ANIMATION_POLICY": {
+      "message": "アニメーションのポリシー:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "カーソルの位置をアニメーションで強調表示する。"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "矢印キーを使ってウェブページのテキストを閲覧します。"
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "カーソル ブラウジング"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "カーソル ブラウジングのオプション"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "\u003Cspan class='key'>F7\u003C/span> を押すとカーソル ブラウジングがオンになり、もう一度押すとオフになります。"
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "カーソルの位置を短い点滅で強調表示する。"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>リンクやコントロールに行き着くとそれが自動的にフォーカスされます。\u003Cspan class='key'>Enter\u003C/span> キーを押すとそのリンクまたはボタンをクリックしたことになります。\u003C/p> \u003Cp>フォーカス状態のコントロール（テキスト ボックス、リストボックスなど）から出てカーソル ブラウジングを続けるには、\u003Cspan class='key'>Esc\u003C/span> キーを押した後、左または右矢印キーで移動します。\u003C/p> \u003Cp>\u003Cspan class='key'>Tab\u003C/span> キーを押して次のフォーカス可能なコントロールに移動することもできます。\u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "カーソルが離れた場所に移動した場合:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "キーボード コマンド"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "単語単位で移動するには \u003Cspan class='key'>Option\u003C/span> キーを押したままにします。"
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "単語単位で移動するには \u003Cspan class='key'>Control\u003C/span> キーを押したままにします。"
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>矢印キーを使ってドキュメント全体を移動できます。\u003C/p>\u003Cp>クリックした場所にカーソルを移動することもできます。\u003C/p> \u003Cp>テキストを選択するには \u003Cspan class='key'>Shift\u003C/span> キーを押しながら矢印キーを使用します。\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "効果なしでカーソルのみを表示する。"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "この拡張機能を使用すると、ウェブページでカーソルを移動でき、キーボードを使ってテキストを選択できます。"
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "お試しください - このページではカーソル ブラウジングが常に有効になっています。"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "視覚効果"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "カーソル ブラウジングが有効な場合:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "色の調整"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "カスタマイズ可能なカラーフィルタをウェブページに適用して色を認識しやすくします。"
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "カラー エンハンサー"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "キャンセル"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "適用度"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "有効にする"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "リセット"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "設定"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "設定:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "ステップ 2: 選択した行ですべてのスターが見えるようにスライダーを調整します"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "青"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "ステップ 1: 最も見えにくいスターがある行を選択します。"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "緑"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "赤"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$ の配色:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "配色を変更または反転してウェブページを読みやすくします。"
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "ハイ コントラスト"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "既定の配色:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "無効にする"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "ハイ コントラストは無効です"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "有効にする"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "ハイ コントラストが有効です"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "サイトのカスタマイズを無視"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "グレースケール"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "コントラスト大"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "反転色"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "反転グレースケール"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "ノーマル"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "既定の配色として設定"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "黒の背景に黄色の文字"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat または longdesc 属性が指定された要素を枠線付きで表示する"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "「longdesc」または「aria-describedat」属性が指定された要素を右クリックすると、詳しい説明が表示されます。"
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Long Descriptions in Context Menu"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "詳しい説明を新しいタブで開く"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "オプション"
+   }
+}

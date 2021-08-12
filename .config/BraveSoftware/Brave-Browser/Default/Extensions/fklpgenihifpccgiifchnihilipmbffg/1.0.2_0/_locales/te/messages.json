@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "చిత్రాలను వాటి ప్రత్యామ్నాయ వచనంతో భర్తీ చేయండి."
+   },
+   "ALT_APPNAME": {
+      "message": "చిత్రం ప్రత్యామ్నాయ వచన వ్యూయర్"
+   },
+   "ALT_INFOBAR": {
+      "message": "చిత్రాలు వాటి alt వచనంతో భర్తీ చేయబడ్డాయి."
+   },
+   "ALT_UNDO": {
+      "message": "చర్య రద్దు"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "అన్ని యానిమేట్ చేసిన చిత్రాలను చూపండి."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "యానిమేషన్‌లను కేవలం ఒకసారి అమలు చేస్తుంది లేదా యానిమేషన్‌ను పూర్తిగా నిలిపివేస్తుంది."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "యానిమేషన్ విధానం"
+   },
+   "ANIMATION_NONE": {
+      "message": "చిత్ర యానిమేషన్ మొత్తాన్ని నిలిపివేయండి."
+   },
+   "ANIMATION_ONCE": {
+      "message": "యానిమేట్ చేసిన చిత్రాలను చూపండి, కానీ ఒకసారి మాత్రమే."
+   },
+   "ANIMATION_POLICY": {
+      "message": "యానిమేషన్ విధానం:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "కర్సర్ స్థానాన్ని యానిమేషన్‌తో హైలైట్ చేయండి."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "బాణం కీలను ఉపయోగించి వెబ్ పేజీల వచనాన్ని బ్రౌజ్ చేయండి."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "కేరెట్ బ్రౌజింగ్"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "కేరెట్ బ్రౌజింగ్ ఎంపికలు"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "కేరెట్ బ్రౌజింగ్‌ను ఆన్ చేయడానికి \u003Cspan class='key'>F7\u003C/span> నొక్కండి. అలాగే ఆఫ్ చేయడానికి దాన్నే మళ్లీ నొక్కండి."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "కర్సర్ స్థానాన్ని త్వరిత ఫ్లాష్‌తో హైలైట్ చేయండి."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>మీరు లింక్ లేదా నియంత్రణ వద్ద ఉంటే, ఆటోమేటిక్‌గా దానిపై దృష్టి కేంద్రీకరించబడుతుంది.   లింక్ లేదా బటన్‌ను క్లిక్ చేయడానికి \u003Cspan class='key'>Enter\u003C/span> నొక్కండి. \u003C/p> \u003Cp>   దృష్టి కేంద్రీకృత నియంత్రణ (వచన బాక్స్‌ లేదా జాబితా బాక్స్‌ వంటిది) బాణం కీలను క్యాప్చర్ చేస్తున్నప్పుడు, క్యారెట్‌ బ్రౌజింగ్‌ను కొనసాగించడానికి \u003Cspan class='key'>Esc\u003C/span> నొక్కి, ఆపై   ఎడమ లేదా కుడి బాణం నొక్కండి. \u003C/p> \u003Cp>   ప్రత్యామ్నాయంగా, తదుపరి దృష్టి కేంద్రీకృత నియంత్రణకు తరలించడానికి \u003Cspan class='key'>Tab\u003C/span> నొక్కండి. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "కేరెట్ చాలా దూరం జరిగినప్పుడు:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "కీబోర్డ్ ఆదేశాలు"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "పదాల వారీగా తరలించడానికి \u003Cspan class='key'>Option\u003C/span>ని నొక్కి పట్టుకోండి."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "పదాల వారీగా తరలించడానికి \u003Cspan class='key'>Control\u003C/span>ను నొక్కి పట్టుకోండి."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>పత్రం అంతటా సంచరించడానికి బాణం కీలను ఉపయోగించండి. \u003C/p>\u003Cp>కర్సర్ ఉంచాలనుకుంటున్న చోట క్లిక్ చేసి కర్సర్‌ను ఆ స్థానానికి తీసుకురండి. \u003C/p> \u003Cp>   వచనాన్ని ఎంచుకోవడానికి \u003Cspan class='key'>Shift\u003C/span> + బాణాలను నొక్కండి.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "అభిప్రాయం వద్దు, కేవలం కర్సర్‌ను చూపండి."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "ఈ ఎక్స్‌టెన్ష‌న్‌ మీకు వెబ్ పేజీలో తరలించదగిన కర్సర్‌ను అందిస్తుంది. కీబోర్డ్‌తో వచనాన్ని ఎంచుకోవడానికి మిమ్మల్ని అనుమతిస్తుంది."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "ఇప్పుడే దీన్ని ప్రయత్నించండి - కేరెట్ బ్రౌజింగ్ ఈ పేజీలో ఎల్లప్పుడూ ప్రారంభించబడి ఉంటుంది!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "దృశ్య అభిప్రాయం"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "కేరెట్ బ్రౌజింగ్ ప్రారంభించబడినప్పుడు:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "రంగు సర్దుబాటు"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "రంగు గ్రాహ్యతను మెరుగుపరచడానికి వెబ్‌పేజీలకు వర్తింపజేసే అనుకూలీకరించగల రంగు ఫిల్టర్."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "కలర్ ఎన్‌హాన్సర్"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "రద్దు చేయి"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "డిగ్రీ"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "ప్రారంభించాలా?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "సరే"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "రీసెట్ చేయి"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "సెటప్ చేయి"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "సెటప్:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "దశ 2: ఎంచుకున్న అడ్డు వరుసలో అన్ని నక్షత్రాలు కనిపించే విధంగా స్లయిడర్‌ను\n        సర్దుబాటు చేయండి"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "నీలం"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "దశ 1: మిరుమిట్లు గొలిపే నక్షత్రాలు గల అడ్డు వరుసను ఎంచుకోండి:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "ఆకుపచ్చ"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "ఎరుపు"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$ కోసం రంగు స్కీమ్:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "వెబ్‌పేజీలను చదవడం సులభం చేయడానికి రంగు స్కీమ్‌ను మార్చండి లేదా విలోమీకరించండి."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "అధిక కాంట్రాస్ట్"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "డిఫాల్ట్ రంగు స్కీమ్:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "నిలిపివేయి"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "అధిక కాంట్రాస్ట్ నిలిపివేయబడింది"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "ప్రారంభించండి"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "అధిక కాంట్రాస్ట్ ప్రారంభించబడింది"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "సైట్ అనుకూలీకరణలను విస్మరించు"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "బూడిద రంగు ప్రమాణం"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "పెరిగిన కాంట్రాస్ట్"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "విలోమ రంగు"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "విలోమ బూడిద రంగు ప్రమాణం"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "సాధారణ"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "డిఫాల్ట్ స్కీమ్‌గా సెట్ చేయి"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "నలుపులో పసుపు రంగు"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat లేదా longdesc ఫీచర్‌లు ఉన్న మూలకాలకు హద్దును జోడించు."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "\"longdesc\" లేదా \"aria-describedat\" లక్షణం ఉన్న ఏదైనా అంశం యొక్క సుదీర్ఘ వివరణను యాక్సెస్‌ చేయడానికి దానిపై కుడి క్లిక్ చేయండి."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "సందర్భ మెనూలో సుదీర్ఘ వివరణలు"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "సుదీర్ఘ వివరణను కొత్త ట్యాబ్‌లో తెరువు"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "ఎంపికలు"
+   }
+}

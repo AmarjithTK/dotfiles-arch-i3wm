@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "استبدال الصور بالنص البديل لهم."
+   },
+   "ALT_APPNAME": {
+      "message": "‏عارض النص \"Alt\" للصورة"
+   },
+   "ALT_INFOBAR": {
+      "message": "تم استبدال الصور بواسطة النص البديل"
+   },
+   "ALT_UNDO": {
+      "message": "تراجع"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "اسمح بجميع الصور المتحركة."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "شغّل الصور المتحركة مرة واحدة فقط، أو أوقف الصور المتحركة تمامًا."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "سياسة الصور المتحركة"
+   },
+   "ANIMATION_NONE": {
+      "message": "أوقف جميع صور الرسوم المتحركة."
+   },
+   "ANIMATION_ONCE": {
+      "message": "السماح بالصور المتحركة، ولكن لمرة واحدة فقط."
+   },
+   "ANIMATION_POLICY": {
+      "message": "سياسة الصور المتحركة:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "أبرز موضع المؤشر بالرسوم المتحركة."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "تصفح نص صفحات الويب باستخدام مفاتيح الأسهم."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "التصفح النصي بالمؤشر"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "خيارات التصفح النصي بالمؤشر"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "‏لتشغيل التصفح النصي بالمؤشر انقر فوق \u003Cspan class='key'>F7\u003C/span> ولإيقاف تشغيله انقر فوقه مرة أخرى."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "أبرز موضع المؤشر بومضة سريعة."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "‏\u003Cp>عندما تصل إلى رابط أو عنصر تحكم فإنه يتم التركيز عليه تلقائيًا. انقر على \u003Cspan class='key'>Enter\u003C/span> للنقر على رابط أو زر. \u003C/ P> \u003Cp> عندما يقوم عنصر تحكم مُركز عليه بالتقاط مفاتيح الأسهم (مثل مربع نص أو مربع قائمة)، اضغط على \u003Cspan class='key'>Esc\u003C/span> SPAN> تليها السهم الأيمن أو الأيسر لمواصلة التصفح النصي بالمؤشر \u003C/ P> \u003CP> وبدلاً من ذلك، اضغط \u003Cspan class='key'>Tab\u003C/span> للانتقال إلى عنصر التحكم التالي القابل للتركيز عليه \u003C/ P>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "عندما يقفز مؤشر النص لمسافة كبيرة:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "أوامر لوحة المفاتيح"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "‏اضغط مع الاستمرار على \u003Cspan class='key'>Option\u003C/span> للتنقل خلال الكلمات."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "‏اضغط مع الاستمرار على \u003Cspan class='key'>Control\u003C/span> للتنقل خلال الكلمات."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "‏\u003Cp>استخدام مفاتيح الأسهم للتحرك في جميع أنحاء المستند \u003C/ P> \u003CP> انقر في أي مكان لتحريك المؤشر إلى ذلك الموقع. \u003C/ P> \u003CP> اضغط على \u003Cspan class='key'>Shift\u003C/span> + الأسهم لتحديد النص.\u003C/ P>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "لا توجد تعليقات، فقط أعرض المؤشر."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "هذه الإضافة تتيح لك مؤشرًا متحركًا في صفحة الويب، مما يسمح لك بتحديد النص باستخدام لوحة المفاتيح."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "التصفح النصي بالمؤشر متاح دائمًا على هذه الصفحة - جرّبه الآن!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "التعليقات البصرية"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "عندما يتم تفعيل التصفح النصي بالمؤشر."
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "تعديل اللون"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "تم تطبيق فلتر لون قابل للتخصيص إلى صفحات الويب لتحسين إدراك اللون."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "مُحسّن اللون"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "إلغاء"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "درجة"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "هل تريد التمكين؟"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "موافق"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "إعادة الضبط"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "الإعداد"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "الإعداد:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "الخطوة الثانية: ضبط شريط التمرير؛ حتى تكون جميع النجوم مرئية في\n        الصف المحدد"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "أزرق"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "الخطوة الأولى: تحدد الصف مع النجوم الأضعف:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "أخضر"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "أحمر"
+   },
+   "HIGHCONTRAST_": {
+      "message": "نظام ألوان $1$ :",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "تغيير أو عكس نظام الألوان لتسهيل قراءة صفحات الويب."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "تباين مرتفع"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "مخطط اللون التلقائي:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "إيقاف"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "التباين العالي غير مفعّل"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "تفعيل الإضافات"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "تم تفعيل التباين العالي"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "نسيان تخصيصات موقع الويب"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "تدرج الرمادي"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "زيادة التباين"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "لون معكوس"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "تدرج الرمادي معكوس"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "عادي"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "تعيين كمخطط تلقائي"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "أصفر على أسود"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "‏إضافة حد إلى العناصر التي تعمل بسمات aria-describedat أو longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "‏انقر بزر الماوس الأيمن على أي شيء يعمل بخاصية \"longdesc\" أو \"aria-describedat\" للدخول إلى الوصف المفصل."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "وصف مفصل في قائمة السياقات"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "فتح وصف مفصل في علامة تبويب جديدة"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "خيارات"
+   }
+}

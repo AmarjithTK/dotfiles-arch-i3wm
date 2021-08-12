@@ -1,0 +1,22 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "javascript/eventPage.js" ]
+   },
+   "chrome_url_overrides": {
+      "newtab": "newtab.html"
+   },
+   "description": "Starty is a simple speed dial functionally similar to the one used in Opera.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlQ/MOpwMHoklHeRK5pvW739UcEmbN+8vUnh3BYJyNlC91rAUW6vMXnbmnq/V8buYsVnETId3a49Cyqbh2v+XMZ4VohhTX9MuLCDskbaRuDtdmWuCxB7NZNO/lEc4+0pmzMvF1qAq04wHR4S3ijyK5aFJGdVn16fm4OwMyRaXmpG1k9xdXQv91LAVbusrCdwTH41sKnGwWT+mFyLUox4Idy2bb9ipTo1CJIED3rLOEmfz5UM7H11qWeNR0MALjhGShuDpG6clEyCpqemW007n2d1wbxCGQ58JbfDR4hZHmuDM+Xwzx0UhCeFjmv+Z/hL9sUyV1bR5HvdikiBjX7lLGQIDAQAB",
+   "manifest_version": 2,
+   "name": "Starty",
+   "options_page": "options.html",
+   "permissions": [ "background", "bookmarks", "storage" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

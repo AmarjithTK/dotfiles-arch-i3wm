@@ -1,0 +1,29 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "caret_19.png",
+      "default_title": "__MSG_CARET_BROWSING_APPNAME__"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "caretbrowsing.css" ],
+      "js": [ "axs_testing.js", "traverse_util.js", "caretbrowsing.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_CARET_BROWSING_APPDESC__",
+   "icons": {
+      "128": "caret_128.png",
+      "16": "caret_16.png",
+      "48": "caret_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0l+pl8DGaMN/HlEtIG8By5o5yD1n4TFVgZ9Q9Sg4N4JVeHrurJgTMIiCi2wffXK8q30XUI2FMt379cCMCf0Ym66JyFsNZgp4mJsN83c2k1sJrsd3zoITS/ozi13CeV6Ev8mgWl2SFRckursQZw15eyZ7Kyk7Iz+B0G5qAtlAJ3JXqEIy5Q461g5IWfPhYlaCZJE1W5i4k+n7aHq5Zsk+gQVC6zyETK5SNoWV4rRmv145bNC6Y4nOWhSM4FJelJxzpLz4eiHWMoNQURhBlHYapHADqZptjm7gBsjaDpxoPokv//7+cWUDyHiVbgI7FvBeXYfQQV2p+8a0A1rG2RrcHQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_CARET_BROWSING_APPNAME__",
+   "options_page": "options.html",
+   "permissions": [ "\u003Call_urls>", "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}

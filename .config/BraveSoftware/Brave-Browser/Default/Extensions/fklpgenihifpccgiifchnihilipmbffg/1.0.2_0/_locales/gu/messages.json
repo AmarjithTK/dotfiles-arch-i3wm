@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "તેમની વૈકલ્પિક ટેક્સ્ટ સાથે છબીઓ બદલાવો."
+   },
+   "ALT_APPNAME": {
+      "message": "છબી 'Alt' ટેક્સ્ટ દર્શક"
+   },
+   "ALT_INFOBAR": {
+      "message": "છબીઓ તેમની વૈકલ્પિક ટેક્સ્ટ દ્વારા બદલવામાં આવી છે."
+   },
+   "ALT_UNDO": {
+      "message": "છેલ્લો ફેરફાર રદ કરો"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "બધી એનિમેટ થતી છબીઓને મંજૂરી આપો."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "એનિમેશન્સ માત્ર એકજ વાર ચલાવો અથવા સંપૂર્ણપણે એનિમેશન્સ બંધ કરો."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "એનિમેશન નીતિ"
+   },
+   "ANIMATION_NONE": {
+      "message": "બધા છબી એનિમેશન બંધ કરો."
+   },
+   "ANIMATION_ONCE": {
+      "message": "એનિમેટ થતી છબીઓને મંજૂરી આપો, પરંતુ માત્ર એકજ વાર."
+   },
+   "ANIMATION_POLICY": {
+      "message": "એનિમેશન નીતિ:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "એનિમેશન સાથે કર્સરની સ્થિતિને હાઇલાઇટ કરો."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "તીર કીઝનો ઉપયોગ કરીને વેબ પૃષ્ઠોની ટેક્સ્ટને બ્રાઉઝ કરો."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "કૅરેટ બ્રાઉઝિંગ"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "કૅરેટ બ્રાઉઝિંગ વિકલ્પો"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "કૅરેટ બ્રાઉઝિંગ ચાલુ કરવા માટે \u003Cspan class='key'>F7\u003C/span> દબાવો. તેને બંધ કરવા માટે તેને ફરીથી દબાવો."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "એક ઝડપી ફ્લેશ સાથે કર્સરની સ્થિતિને હાઇલાઇટ કરો."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>જ્યારે તમે કોઈ લિંક અથવા કન્ટ્રોલ પર પહોંચો છો, ત્યારે તે ઑટોમૅટિક રીતે ફોકસ થાય છે. લિંક અથવા બટનને ક્લિક કરવા માટે \u003Cspan class='key'>Enter\u003C/span> દબાવો. \u003C/p> \u003Cp>   જ્યારે કોઈ ફોકસ કરેલ કન્ટ્રોલ (જેમ કે ટેક્સ્ટ બોક્સ અથવા કોઈ સૂચિ બોક્સ) Arrow કીને કેપ્ચર કરી રહી હોય, ત્યારે કૅરેટ બ્રાઉઝિંગને ચાલુ રાખવા માટે ડાબા અથવા જમણા તીર પછી \u003Cspan class='key'>Esc\u003C/span> દબાવો. \u003C/p> \u003Cp>   વૈકલ્પિક રીતે, ફોકસ કરવા યોગ્ય કન્ટ્રોલ પર ખસવા માટે \u003Cspan class='key'>Tab\u003C/span> દબાવો. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "જ્યારે કૅરેટ એક મોટા અંતર સાથે જમ્પ કરે છે:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "કીબોર્ડ આદેશો"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "શબ્દો દ્વારા ખસવા માટે \u003Cspan class='key'>વિકલ્પ\u003C/span> ને પકડી રાખો."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "શબ્દ દ્વારા ખસવા માટે \u003Cspan class='key'>Control\u003C/span> દબાવી રાખો."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>સમગ્ર દસ્તાવેજમાં ખસવા માટે તીર કીનો ઉપયોગ કરો. \u003C/p>\u003Cp>કર્સરને તે સ્થાને ખસેડવા માટે ગમે ત્યાં ક્લિક કરો. \u003C/p> \u003Cp>   ટેક્સ્ટ પસંદ કરવા માટે \u003Cspan class='key'>Shift\u003C/span> + તીર દબાવો.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "કોઈ પ્રતિસાદ નથી, માત્ર કર્સર દર્શાવો."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "કીબોર્ડ દ્વારા ટેક્સ્ટ પસંદ કરવા દઈને, આ એક્સ્ટેંશન તમને વેબ પેજમાં એક ખસેડવા યોગ્ય કર્સર આપે છે."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "તેને હમણાં અજમાવી જુઓ - કૅરેટ બ્રાઉઝિંગ આ પૃષ્ઠ પર હંમેશા સક્ષમ હોય છે!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "વિઝ્યુઅલ પ્રતિસાદ"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "જ્યારે કૅરેટ બ્રાઉઝિંગ સક્ષમ હોય:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "રંગ સમાયોજન"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "રંગ વિભાવના સુધારવા માટે વેબ પેજીસને કસ્ટમાઇઝ કરી શકાય તેવું રંગ ફિલ્ટર લાગુ કરવામાં આવ્યું."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "રંગ એન્હેન્સર"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "રદ કરો"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "ડિગ્રી"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "ચાલુ કરીએ?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "બરાબર, સમજાઇ ગયું"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "રીસેટ કરો"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "સેટઅપ"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "સેટઅપ:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "પગલું 2: પસંદ કરેલ પંક્તિમાં બધા તારાઓ દૃશ્યક્ષમ ન થાય ત્યાં સુધી \n         સમાયોજિત કરો"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "વાદળી"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "પગલું 1: ફિન્ટેસ્ટ તારાઓ સાથે પંક્તિ પસંદ કરો:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "લીલો"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "લાલ"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$ માટે રંગ યોજના:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "વેબપૃષ્ઠોને વાંચવામાં વધુ સરળ બનાવવા માટે રંગ યોજનાને બદલો અથવા વિપરિત કરો."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "ઉચ્ચ કોન્ટ્રાસ્ટ"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "ડિફૉલ્ટ રંગ યોજના:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "બંધ કરો"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "ઉચ્ચ કોન્ટ્રાસ્ટ અક્ષમ છે"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "ચાલુ કરો"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "ઉચ્ચ કોન્ટ્રાસ્ટ સક્ષમ છે"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "સાઇટ કસ્ટમાઇઝેશન ભૂલી જાઓ"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "ગ્રેસ્કેલ"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "વધારેલ કોન્ટ્રાસ્ટ"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "વિપરિત રંગ"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "વિપરીત ગ્રેસ્કેલ"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "સામાન્ય"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "ડિફૉલ્ટ યોજના તરીકે સેટ કરો"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "કાળા પર પીળો"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat અથવા longdesc લક્ષણો દ્વારા ઘટકો પર કિનારી ઉમેરો."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "કોઈપણ  વસ્તુનું લાંબુ વર્ણન ઍક્સેસ કરવા માટે, તેના પર \"longdesc\" અથવા \"aria-describedat\" લક્ષણ વડે રાઇટ-ક્લિક કરો."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "સંદર્ભ મેનુમાં લાંબા વર્ણનો"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "નવા ટૅબમાં લાંબુ વર્ણન ખોલો"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "વિકલ્પો"
+   }
+}

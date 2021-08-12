@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Aizstāt attēlus ar to alternatīvo tekstu."
+   },
+   "ALT_APPNAME": {
+      "message": "Attēlu “ALT” teksta skatītājs"
+   },
+   "ALT_INFOBAR": {
+      "message": "Attēli ir aizstāti, izmantojot to alternatīvo tekstu."
+   },
+   "ALT_UNDO": {
+      "message": "Atsaukt"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Atļaut visus animētos attēlus."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Izpildīt animācijas tikai vienreiz vai pilnībā tās atspējot."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animāciju politika"
+   },
+   "ANIMATION_NONE": {
+      "message": "Atspējot visu attēlu animāciju."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Atļaut animētos attēlus, bet tikai vienreiz."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animāciju politika:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Izcelt kursora pozīciju ar animāciju."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Pārlūkot tīmekļa lapu tekstu, izmantojot bulttaustiņus."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Taustiņpārlūkošana"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Taustiņpārlūkošanas opcijas"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Lai ieslēgtu taustiņpārlūkošanu, nospiediet taustiņu \u003Cspan class='key'>F7\u003C/span>. Lai to izslēgtu, vēlreiz nospiediet šo taustiņu."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Izcelt kursora pozīciju ar ātru mirgošanu."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Kad sasniedzat saiti vai vadīklu, tā tiek automātiski fokusēta. Lai noklikšķinātu uz saites vai pogas, nospiediet taustiņu \u003Cspan class='key'>Enter\u003C/span>. \u003C/p> \u003Cp>Kad fokusētā vadīklā (piemēram, tekstlodziņā vai saraksta lodziņā) tiek tverti bulttaustiņi, nospiediet taustiņu \u003Cspan class='key'>Esc\u003C/span> un pēc tam — kreiso vai labo bulttaustiņu, lai turpinātu taustiņpārlūkošanu. \u003C/p> \u003Cp> Varat arī nospiest taustiņu \u003Cspan class='key'>Tab\u003C/span>, lai pārvietotos uz nākamo fokusējamo vadīklu.\u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Kad kursors tiek pārvietots ļoti tālu"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Tastatūras komandas"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Lai pārvietotos pa vārdiem, turiet nospiestu taustiņu \u003Cspan class='key'>Option\u003C/span>."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Lai pārvietotos pa vārdiem, turiet nospiestu taustiņu \u003Cspan class='key'>Control\u003C/span>."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Lai pārvietotos visā dokumentā, izmantojiet bulttaustiņus. \u003C/p>\u003Cp>Lai pārvietotu kursoru uz kādu vietu, noklikšķiniet attiecīgajā vietā. \u003C/p> \u003Cp>Lai atlasītu tekstu, nospiediet taustiņu \u003Cspan class='key'>Shift\u003C/span> un attiecīgo bultiņu.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Nerādīt atsauksmes; rādīt tikai kursoru."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Ja izmantojat šo paplašinājumu, tīmekļa lapā tiek rādīts kustīgs kursors, lai jūs varētu atlasīt tekstu, lietojot tastatūru."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Izmēģiniet tūlīt — šajā lapā vienmēr ir iespējota taustiņpārlūkošana!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Vizuālas atsauksmes"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Kad ir iespējota taustiņpārlūkošana"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Krāsu pielāgošana"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Pielāgojams krāsu filtrs, kas tiek lietots vietnēs, lai uzlabotu krāsu uztveri."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Krāsu uzlabotājs"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Atcelt"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Pakāpe"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Vai iespējot?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "Labi"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Atiestatīt"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Iestatīšana"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Iestatīšana:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "2. darbība. Pielāgojiet slīdni, līdz visas zvaigznītes atlasītajā rindā\n        ir redzamas"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Zila"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "1. darbība. Atlasiet rindu ar blāvākajām zvaigznēm:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Zaļa"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Sarkana"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Vietnes $1$ krāsu shēma:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Mainīt vai apgriezt krāsu shēmu, lai interneta lapas kļūtu vieglāk lasāmas."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Liels kontrasts"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Noklusējuma krāsu shēma:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Atspējot"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Lielais kontrasts ir atspējots"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Iespējot"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Lielais kontrasts ir iespējots"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Aizmirst vietnes pielāgojumus"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Pelēktoņi"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Palielināts kontrasts"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Apgrieztas krāsas"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Apgriezti pelēktoņi"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Parasts"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Iestatīt kā noklusējuma shēmu"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Dzeltens uz melna"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Pievienot apmali elementiem, kuriem ir atribūts “aria-describedat” vai “longdesc”."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Lai piekļūtu garajam aprakstam, ar peles labo pogu noklikšķiniet uz jebkura elementa, kuram ir atribūts “longdesc” vai “aria-describedat”."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Garais apraksts kontekstizvēlnē"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Atvērt garo aprakstu jaunā cilnē"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Opcijas"
+   }
+}

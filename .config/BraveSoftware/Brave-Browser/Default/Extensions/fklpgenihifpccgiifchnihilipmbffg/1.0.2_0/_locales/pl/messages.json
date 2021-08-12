@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Zastąp obrazy ich tekstem alternatywnym."
+   },
+   "ALT_APPNAME": {
+      "message": "Przeglądarka alternatywnego tekstu obrazu"
+   },
+   "ALT_INFOBAR": {
+      "message": "Obrazy zastępuje tekst alternatywny."
+   },
+   "ALT_UNDO": {
+      "message": "Cofnij"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Zezwalaj na wszystkie animowane obrazy."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Uruchamiaj animacje tylko raz lub wyłącz je całkowicie."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Zasady animacji"
+   },
+   "ANIMATION_NONE": {
+      "message": "Wyłącz wszystkie animacje obrazów."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Zezwalaj na wyświetlanie animowanych obrazów, ale tylko raz."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Zasady animacji:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Oznacz pozycję kursora przy użyciu animacji."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Przeglądaj tekst na stronach internetowych, używając klawiszy strzałek."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Przeglądanie przy użyciu kursora"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Opcje przeglądania przy użyciu kursora"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Naciśnij \u003Cspan class='key'>F7\u003C/span>, by włączyć przeglądanie przy użyciu kursora. Naciśnij F7 ponownie, by je wyłączyć."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Oznacz pozycję kursora przy użyciu krótkiego błysku."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Gdy najedziesz na link lub element sterujący, staną się one automatycznie aktywne.   Naciśnij \u003Cspan class='key'>Enter\u003C/span>, by kliknąć link lub przycisk. \u003C/p> \u003Cp>   Gdy element sterujący, który jest aktywny, (np. pole tekstowe lub pole listy) przechwytuje   klawisze strzałek, naciśnij \u003Cspan class='key'>Esc\u003C/span>, a następnie   strzałkę w lewo lub prawo, by kontynuować przeglądanie przy użyciu kursora. \u003C/p> \u003Cp>   Możesz też nacisnąć \u003Cspan class='key'>Tab\u003C/span>, by przejść do   następnego elementu sterującego, który można aktywować. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Gdy kursor przeskoczy o dużą odległość:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Polecenia wydawane z klawiatury"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Przytrzymaj \u003Cspan class='key'>Option\u003C/span>, by przechodzić do kolejnych słów."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Przytrzymaj \u003Cspan class='key'>Control\u003C/span>, by przechodzić do kolejnych słów."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Użyj klawiszy strzałek, by poruszać się po dokumencie. \u003C/p>\u003Cp>Kliknij w dowolnym miejscu, by przenieść tam kursor. \u003C/p> \u003Cp>   Naciśnij \u003Cspan class='key'>Shift\u003C/span> + strzałki, by zaznaczyć tekst.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Brak potwierdzenia – po prostu wyświetl kursor."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "To rozszerzenie dodaje ruchomy kursor na stronie internetowej, dzięki czemu możesz zaznaczać tekst, używając klawiatury."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Wypróbuj teraz – przeglądanie przy użyciu kursora jest zawsze włączone na tej stronie."
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Potwierdzenie wizualne"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Gdy przeglądanie przy użyciu kursora jest włączone:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Dostosowanie kolorów"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Dostosowywany filtr kolorów, który działa na stronach internetowych i poprawia widoczność kolorów."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Korektor kolorów"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Anuluj"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Stopień"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Włączyć?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Resetuj"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Konfiguracja"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Konfiguracja:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Krok 2 – przesuń suwak, by wszystkie gwiazdki w wybranym wierszu\n        były widoczne"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Niebieski"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Krok 1 – wybierz wiersz zawierający najbledsze gwiazdki:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Zielony"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Czerwony"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Schemat kolorów dla $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Zmień lub odwróć schemat kolorów, by treść stron internetowych była bardziej czytelna."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Wysoki kontrast."
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Domyślny schemat kolorów:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Wyłącz"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Wysoki kontrast jest wyłączony"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Włącz"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Wysoki kontrast jest włączony"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Zapomnij dostosowania zapisane w witrynie"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Skala odcieni szarości"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Większy kontrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Odwrócony kolor"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Odwrócona skala odcieni szarości"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normalny"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Ustaw jako schemat domyślny"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Żółty tekst na czarnym tle"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Dodaj obramowanie do elementów z atrybutem aria-describedat lub longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Kliknij prawym przyciskiem myszy dowolny element z atrybutem „longdesc” lub „aria-describedat”, by zobaczyć długi opis."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Długie opisy w menu kontekstowym"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Otwórz długi opis w nowej karcie"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Opcje"
+   }
+}

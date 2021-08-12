@@ -1,0 +1,218 @@
+<!DOCTYPE HTML>
+<html>
+
+	<head>
+		<title>Starty Options</title>
+        <link type="text/css" rel="stylesheet" href="css/options.css" />
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+	</head>
+
+	<body>
+        <div class="container">
+		    <div id="content">
+			    <h1>Starty Options</h1>
+                    <form class="form-horizontal">
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label class="control-label">Number of Columns</label>
+                            </div>
+                            <div class="col-md-6">
+                                <select class="form-control" id="dial_columns">
+                                    <option value="2">2 Columns</option>
+                                    <option value="3">3 Columns</option>
+                                    <option value="4">4 Columns</option>
+                                    <option value="5">5 Columns</option>
+                                    <option value="6">6 Columns</option>
+                                    <option value="7">7 Columns</option>
+                                    <option value="8">8 Columns</option>
+                                    <option value="9">9 Columns</option>
+                                    <option value="10">10 Columns</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label class="control-label">Dial Width</label>
+                            </div>
+                            <div class="col-md-6">
+                                <select class="form-control" id="dial_width">
+                                    <option value="40">40%</option>
+                                    <option value="50">50%</option>
+                                    <option value="60">60%</option>
+                                    <option value="70">70%</option>
+                                    <option value="80">80%</option>
+                                    <option value="90">90%</option>
+                                    <option value="100">100%</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label class="control-label">Default Folder to Show</label>
+                            </div>
+                            <div class="col-md-6">
+                                <div id="folder"></div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="background_color">Background Color</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="color" id="background_color">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="show_new_entry">Show [+] Button</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="checkbox" id="show_new_entry">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="show_folder_list">Show Folder Selector</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="checkbox" id="show_folder_list">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="drag_and_drop">Enable Drag & Drop</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="checkbox" id="drag_and_drop">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="center_vertically">Enable Vertical Centering</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="checkbox" id="center_vertically">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="show_options_gear">Show Options/Settings Gear</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="checkbox" id="show_options_gear">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="show_subfolder_icons">Show Sub-folder Icons</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="checkbox" id="show_subfolder_icons">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="folder_color">Color of Folder Icons</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="color" id="folder_color">
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <div class="col-md-6">
+                                <label for="enable_sync">Enable Synchronization</label>
+                            </div>
+                            <div class="col-md-6">
+                                <input type="checkbox" id="enable_sync">
+                            </div>
+                        </div>
+
+                    </form>
+
+                    <p>
+                        <input type="checkbox" id="show_advanced">
+                        <label for="show_advanced"> Show Advanced Settings</label>
+                    </p>
+
+                    <div id="advanced">
+                        <h1>Advanced Options</h1>
+                        <p>Incorrect application of these settings can break Speedy.</p>
+                        <form class="form-horizontal">
+
+                            <div class="form-group">
+                                <div class="col-md-6">
+                                    <label for="force_http">Force HTTPS to HTTP</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="checkbox" id="force_http">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-6">
+                                    <label class="control-label">Thumbnailing service</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <p>[URL] token will be replaced by the speed dial URL</p>
+                                    <input type="text" id="thumbnailing_service" class="text">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-6">
+                                    <label for="custom_icon_data">Custom Icon JSON Settings</label>
+                                </div>
+                                <div class="col-md-6">
+							        <p>This raw JSON string must be valid! <br>
+							        This shows your custom icon settings so you can copy & paste between computers</p>
+							        <textarea id="custom_icon_data" rows="4" cols="38" ></textarea>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-6">
+                                    <label class="control-label">Reset Local Settings to Default Values</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="button" class="btn btn-danger" id="reset_local_settings" value="Reset Local Values">
+                                </div>
+					        </div>
+
+                            <div class="form-group">
+                                <div class="col-md-6">
+                                    <label class="control-label">Delete Synchronized Data from Server</label>
+                                </div>
+                                <div class="col-md-6">
+                                    <input type="button" class="btn btn-danger" id="reset_synced_settings" value="Reset Sync Data">
+                                </div>
+                            </div>
+
+                        </form>
+
+			         </div>
+
+			    <input class="btn btn-primary" type="button" id="save" value="Save">
+			    <input class="btn btn-default" type="button" id="cancel" value="Cancel">
+
+            </form>
+		</div>
+        </div>
+        <script type="text/javascript" src="javascript/jquery.min.js"></script>
+		<script type="text/javascript" src="javascript/common.js"></script>
+		<script type="text/javascript" src="javascript/options.js"></script>
+		<script type="text/javascript" src="javascript/eventPage.js"></script>
+	</body>
+
+</html>

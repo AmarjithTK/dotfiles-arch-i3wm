@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "แทนที่รูปภาพด้วยข้อความ alt ของภาพ"
+   },
+   "ALT_APPNAME": {
+      "message": "โปรแกรมดูข้อความของภาพ Alt"
+   },
+   "ALT_INFOBAR": {
+      "message": "มีการแทนที่รูปภาพด้วยข้อความ alt ของรูปภาพเหล่านั้น"
+   },
+   "ALT_UNDO": {
+      "message": "เลิกทำ"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "อนุญาตภาพเคลื่อนไหวทั้งหมด"
+   },
+   "ANIMATION_APPDESC": {
+      "message": "เรียกใช้ภาพเคลื่อนไหวเพียงครั้งเดียว หรือปิดใช้ภาพเคลื่อนไหวอย่างสมบูรณ์"
+   },
+   "ANIMATION_APPNAME": {
+      "message": "นโยบายภาพเคลื่อนไหว"
+   },
+   "ANIMATION_NONE": {
+      "message": "ปิดใช้ภาพเคลื่อนไหวทั้งหมด"
+   },
+   "ANIMATION_ONCE": {
+      "message": "อนุญาตภาพเคลื่อนไหว แต่ครั้งเดียวเท่านั้น"
+   },
+   "ANIMATION_POLICY": {
+      "message": "นโยบายภาพเคลื่อนไหว"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "ไฮไลต์ตำแหน่งเคอร์เซอร์ที่มีภาพเคลื่อนไหว"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "เรียกดูข้อความของหน้าเว็บโดยใช้แป้นลูกศร"
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "การเรียกดูด้วยแป้นพิมพ์"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "ตัวเลือกการเรียกดูด้วยแป้นพิมพ์"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "กด \u003Cspan class='key'>F7\u003C/span> เพื่อเปิดการเรียกดูด้วยแป้นพิมพ์ กดอีกครั้งเพื่อปิด"
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "ไฮไลต์ตำแหน่งเคอร์เซอร์ด้วยการกะพริบเร็วๆ"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>เมื่อคุณจะเข้าถึงลิงก์หรือการควบคุม จะมีการโฟกัสโดยอัตโนมัติ   กด \u003Cspan class='key'>Enter\u003C/span> เพื่อคลิกลิงก์หรือปุ่ม \u003C/p> \u003Cp>   เมื่อการควบคุมที่โฟกัส (เช่น ช่องข้อความหรือช่องรายการ) กำลังตรวจจับ   คีย์ลูกศร ให้กด \u003Cspan class='key'>Esc\u003C/span> ตามด้วย   ลูกศรซ้ายหรือขวาเพื่อดำเนินการเรียกดูด้วยแป้นพิมพ์ต่อไป\u003C/p> \u003Cp>   นอกจากนี้ ให้กด \u003Cspan class='key'>Tab\u003C/span> เพื่อเลื่อนไปยัง   การควบคุมโฟกัสได้ถัดไป\u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "เมื่อเครื่องหมาย caret ข้ามไปยังระยะที่ห่างมาก"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "คำสั่งแป้นพิมพ์"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "กด\u003Cspan class='key'>ตัวเลือก\u003C/span>ค้างไว้เพื่อเลื่อนไปทีละคำ"
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "กด \u003Cspan class='key'>Control\u003C/span> ค้างไว้เพื่อเลื่อนไปทีละคำ"
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>ใช้คีย์ลูกศรเพื่อเลื่อนไปยังส่วนต่างๆ ของเอกสาร \u003C/p>\u003Cp>คลิกตำแหน่งหนึ่งๆ เพื่อย้ายเคอร์เซอร์ไปยังตำแหน่งนั้น\u003C/p> \u003Cp>   กด \u003Cspan class='key'>Shift\u003C/span> + ลูกศร เพื่อเลือกข้อความ\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "ไม่มีการตอบสนอง แสดงเคอร์เซอร์เท่านั้น"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "ส่วนขยายนี้จะให้คุณมีเคอร์เซอร์ที่เลื่อนไปยังที่ต่างๆ ได้ในหน้าเว็บ ซึ่งทำให้คุณสามารถเลือกข้อความด้วยแป้นพิมพ์ได้"
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "ลองใช้งานเลย การเรียกดูด้วยแป้นพิมพ์จะเปิดใช้บนหน้านี้เสมอ!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "การตอบสนองที่เป็นภาพ"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "เมื่อเปิดใช้การเรียกดูด้วยแป้นพิมพ์"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "การปรับสี"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "ฟิลเตอร์สีแบบกำหนดค่าได้ซึ่งใช้กับหน้าเว็บเพื่อปรับปรุงการรับรู้สี"
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "โปรแกรมเพิ่มประสิทธิภาพสี"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "ยกเลิก"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "ระดับ"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "เปิดใช้ไหม"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "ตกลง"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "รีเซ็ต"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "ตั้งค่า"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "การตั้งค่า:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "ขั้นตอนที่ 2: ปรับแถบเลื่อนจนสามารถเห็นดาวทั้งหมดได้ใน\n        แถวที่เลือก"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "สีน้ำเงิน"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "ขั้นตอนที่ 1: เลือกแถวที่มีดาวสว่างน้อยที่สุด:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "สีเขียว"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "สีแดง"
+   },
+   "HIGHCONTRAST_": {
+      "message": "รูปแบบชุดสีสำหรับ $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "เปลี่ยนหรือสลับรูปแบบชุดสีเพื่อทำให้หน้าเว็บอ่านง่ายขึ้น"
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "ความเปรียบต่างสูง"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "รูปแบบชุดสีเริ่มต้น:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "ปิดการใช้งาน"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "ปิดความเปรียบต่างสูงอยู่"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "เปิดการใช้งาน"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "เปิดความเปรียบต่างอยู่"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "ลืมการกำหนดค่าไซต์เอง"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "ระดับสีเทา"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "ความเปรียบต่างที่เพิ่มขึ้น"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "สีสลับ"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "ระดับสีเทาแบบสลับ"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "ปกติ"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "ตั้งค่าเป็นรูปแบบเริ่มต้น"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "สีเหลืองบนสีดำ"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "เพิ่มขอบให้กับองค์ประกอบด้วยแอตทริบิวต์ aria-describedat หรือ longdesc"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "คลิกขวาที่ใดก็ได้ด้วยแอตทริบิวต์ \"longdesc\" หรือ \"aria-describedat\" เพื่อเข้าถึงคำอธิบายแบบยาว"
+   },
+   "LONGDESC_APPNAME": {
+      "message": "คำอธิบายแบบยาวในเมนูบริบท"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "เปิดคำอธิบายแบบยาวในแท็บใหม่"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "ตัวเลือก"
+   }
+}

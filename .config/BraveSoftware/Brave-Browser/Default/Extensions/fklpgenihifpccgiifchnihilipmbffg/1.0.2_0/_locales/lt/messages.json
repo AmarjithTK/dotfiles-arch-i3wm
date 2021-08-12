@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Pakeisti vaizdus jų „alt“ tekstu."
+   },
+   "ALT_APPNAME": {
+      "message": "Image Alt Text Viewer"
+   },
+   "ALT_INFOBAR": {
+      "message": "Vaizdai pakeisti alternatyviu tekstu."
+   },
+   "ALT_UNDO": {
+      "message": "Anuliuoti"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Rodyti visus animuotus vaizdus."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Animacijas paleisti tik vieną kartą arba išjungti visiškai."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animacijos politika"
+   },
+   "ANIMATION_NONE": {
+      "message": "Išjungti visų vaizdų animacijas."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Leisti animuotus vaizdus, bet tik vieną kartą."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animacijos politika:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Paryškinti žymeklio vietą naudojant animaciją."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Naršykite tinklalapių tekstą naudodami rodyklių klavišus."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Caret Browsing"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "„Caret Browsing“ parinktys"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Paspauskite \u003Cspan class='key'>F7\u003C/span>, kad įjungtumėte „Caret Browsing“. Paspauskite klavišą dar kartą, kad funkciją išjungtumėte."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Paryškinti žymeklio vietą naudojant greito mirksėjimo funkciją."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Kai pasiekiate nuorodą ar valdiklį, jis automatiškai išryškinamas. Paspauskite \u003Cspan class='key'>Enter\u003C/span>, kad spustelėtumėte nuorodą ar mygtuką. \u003C/p> \u003Cp>   Kai išryškintas valdiklis (pvz., teksto laukelis ar sąrašo laukelis) išjungia rodyklių klavišus, paspauskite \u003Cspan class='key'>Esc\u003C/span> ir rodyklę kairėn ar dešinėn, kad toliau naudotumėte „Caret Browsing“ funkciją. \u003C/p> \u003Cp>   Taip pat paspauskite \u003Cspan class='key'>tabuliavimo klavišą\u003C/span>, kad pereitumėte į kitą išryškinamą valdiklį. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Kai žymeklis peršoka labai toli:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Klaviatūros komandos"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Laikykite paspaudę \u003Cspan class='key'>Option\u003C/span>, kad pereitumėte žodžiais."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Laikykite paspaudę \u003Cspan class='key'>Control\u003C/span>, kad pereitumėte žodžiais."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Naudokite rodyklių klavišus, kad pereitumėte per dokumentą. \u003C/p>\u003Cp>Spustelėkite bet kurioje vietoje, kad perkeltumėte žymeklį į tą vietą. \u003C/p> \u003Cp>   Paspauskite \u003Cspan class='key'>Shift\u003C/span> ir rodyklių klavišus, kas pasirinktumėte tekstą.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Jokių atsiliepimų, tik rodyti žymeklį."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Naudojant šį plėtinį tinklalapyje pateikiamas perkeliamas žymeklis, kad galėtumėte pasirinkti tekstą naudodami klaviatūrą."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Išbandykite dabar – „Caret Browsing“ visada įgalinta šiame puslapyje!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Vizuali reakcija"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Kai „Caret Browsing“ įgalinta:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Spalvų reguliavimas"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Visiems tinklalapiams pritaikytas tinkintas spalvų filtras, kad spalvos būtų rodomos geriau."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Spalvų tobulinimo priemonė"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Atšaukti"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Laipsnis"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Įgalinti?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "Gerai"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Nustatyti iš naujo"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Sąranka"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Sąranka:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "2 veiksmas: koreguokite šliaužiklį, kol visos žvaigždutės bus matomos\n        pasirinktoje eilutėje"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Mėlyna"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "1 veiksmas: pasirinkite eilutę su blankiausiomis žvaigždutėmis:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Žalia"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Raudona"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Spalvų schema, skirta svetainei $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Pakeiskite arba invertuokite spalvų schemą, kad tinklalapių tekstą būtų galima lengviau skaityti."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Didelis kontrastas"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Numatytoji spalvų schema:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Neleisti"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Didelis kontrastas išjungtas"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Įgalinti"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Didelis kontrastas įgalintas"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Pamiršti svetainės tinkinimus"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Pilkumo tonas"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Didesnis kontrastas"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Invertuotoji spalva"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Invertuotasis pilkumo tonas"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Įprastas"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Nustatyti kaip numatytąją schemą"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Geltona ant juodos"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Pridėkite kraštines prie elementų naudodami atributą „aria-describedat“ arba „longdesc“."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Dešiniuoju pelės klavišu spustelėkite bet kurį elementą su atributu „aria-describedat“ arba „longdesc“, kad peržiūrėtumėte ilgą aprašą."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Long Descriptions in Context Menu"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Atidaryti ilgą aprašą naujame skirtuke"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Parinktys"
+   }
+}

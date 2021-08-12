@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Nahradenie obrázkov ich alternatívnym textom."
+   },
+   "ALT_APPNAME": {
+      "message": "Zobrazovač textu obrázkov"
+   },
+   "ALT_INFOBAR": {
+      "message": "Obrázky boli nahradené textom z atribútu alt."
+   },
+   "ALT_UNDO": {
+      "message": "Späť"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Povoliť všetky animované obrázky"
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Spustite animáciu iba raz alebo ju úplne zakážte."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Pravidlá pre animácie"
+   },
+   "ANIMATION_NONE": {
+      "message": "Zakázať všetky animácie obrázkov"
+   },
+   "ANIMATION_ONCE": {
+      "message": "Povoliť animované obrázky, no iba raz"
+   },
+   "ANIMATION_POLICY": {
+      "message": "Pravidlá pre animácie:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Zvýrazniť pozíciu kurzora pomocou animácie."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Prehliadajte text na webových stránkach pomocou klávesov šípok."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Prehliadanie Caret"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Možnosti prehliadania Caret"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Ak chcete zapnúť prehliadanie Caret, stlačte kláves \u003Cspan class='key'>F7\u003C/span>. Opätovným stlačením ho vypnete."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Zvýrazniť pozíciu kurzora krátkym zábleskom."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Keď dosiahnete odkaz alebo ovládací prvok, automaticky sa vyberie.   Ak chcete na odkaz alebo tlačidlo kliknúť, stlačte kláves \u003Cspan class='key'>Enter\u003C/span>. \u003C/p> \u003Cp>   Keď vybraný ovládací prvok (napríklad textové pole alebo pole zoznamu) registruje klávesy šípok, stlačte kláves \u003Cspan class='key'>Esc\u003C/span> a šípku doľava či doprava a pokračujte tak v prehliadaní Caret. \u003C/p> \u003Cp>   Prípadne stlačte kláves \u003Cspan class='key'>Tab\u003C/span> a prejdite na ďalší ovládací prvok, ktorý je možné takýmto spôsobom vybrať. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Keď pri prehliadaní Caret preskočíte ďalej:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Príkazy na klávesnici"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Ak sa chcete posúvať po slovách, stlačte kláves \u003Cspan class='key'>Option\u003C/span>."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Stlačením klávesa \u003Cspan class='key'>Control\u003C/span> a jeho podržaním prechádzajte po slovách."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Pomocou klávesov šípok môžete prechádzať dokument. \u003C/p>\u003Cp>Kliknutím na ľubovoľné miesto presuniete kurzor na toto miesto. \u003C/p> \u003Cp>   Stlačením klávesa \u003Cspan class='key'>Shift\u003C/span> a šípok vyberiete text.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Žiadna odozva, iba zobraziť kurzor"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Toto rozšírenie vám poskytne pohyblivý kurzor na webovej stránke, ktorý vám umožní vyberať text pomocou klávesnice."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Vyskúšajte to – prehliadanie Caret je na tejto stránke vždy povolené!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Vizuálna odozva"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Keď je prehliadanie Caret povolené:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Úprava farieb"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Prispôsobiteľný filter farieb použitý na webových stránkach, ktorý zlepšuje vnímanie farieb."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Zrušiť"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Stupeň"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Povoliť?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Resetovať"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Nastaviť"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Nastavenie:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Krok 2 – upravte posúvač tak, aby boli viditeľné všetky hviezdičky\n        vo vybratom riadku"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Modrá"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Krok 1 – vyberte riadok s najslabšími hviezdičkami:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Zelená"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Červená"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Farebná schéma pre stránky $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Zmena alebo invertovanie farebnej schémy, aby sa dali webové stránky ľahšie čítať."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Vysoký kontrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Predvolebná farebná schéma:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Zakázať"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Vysoký kontrast je zakázaný"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Aktivovať"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Vysoký kontrast je povolený"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Odstrániť prispôsobenia stránok"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Odtiene sivej"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Zvýšený kontrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Invertované farby"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Invertované odtiene sivej"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normálny"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Nastaviť ako predvolenú schému"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Žlté na čiernom"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Pridať ohraničenie k prvkom s atribútom aria-describedat alebo longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Kliknutím pravým tlačidlom na ľubovoľný prvok s atribútom „longdesc“ alebo „aria-describedat“ získate jeho dlhý popis."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Dlhé popisy v kontextovej ponuke"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Otvoriť dlhý popis na novej karte"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Možnosti"
+   }
+}

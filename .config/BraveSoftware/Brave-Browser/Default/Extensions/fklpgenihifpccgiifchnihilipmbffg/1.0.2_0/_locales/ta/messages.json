@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "மாற்று உரையின் மூலம் படங்களை இடமாற்றவும்"
+   },
+   "ALT_APPNAME": {
+      "message": "இமேஜ் Alt டெக்ஸ்ட் வியூவர்"
+   },
+   "ALT_INFOBAR": {
+      "message": "படங்கள் அவற்றிற்கான மாற்று உரையால் மாற்றப்படும்."
+   },
+   "ALT_UNDO": {
+      "message": "செயல்தவிர்"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "எல்லா அனிமேஷன் படங்களையும் அனுமதிக்கவும்."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "ஒருமுறை மட்டும் அனிமேஷன்களை இயக்கவும் அல்லது அதை முழுமையாக முடக்கவும்."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "அனிமேஷன் கொள்கை"
+   },
+   "ANIMATION_NONE": {
+      "message": "எல்லா பட அனிமேஷனையும் முடக்கவும்."
+   },
+   "ANIMATION_ONCE": {
+      "message": "ஒருமுறை மட்டும் அனிமேஷன் படங்களை அனுமதிக்கவும்."
+   },
+   "ANIMATION_POLICY": {
+      "message": "அனிமேஷன் கொள்கை:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "அனிமேஷன் மூலம் கர்சரின் இடத்தை ஹைலைட் செய்யவும்."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "அம்புக்குறி விசைகளைப் பயன்படுத்தி இணைய பக்கங்களின் உரையில் உலாவவும்."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "சுட்டி உலாவல்"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "சுட்டி உலாவல் விருப்பங்கள்"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "சுட்டி உலாவலை இயக்க, \u003Cspan class='key'>F7\u003C/span>ஐ இயக்கவும். அதை முடக்க, மீண்டும் அழுத்தவும்."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "விரைவான ஃபிளாஷ் மூலம் கர்சரின் நிலையை ஹைலைட் செய்யவும்."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>நீங்கள் இணைப்பு அல்லது கட்டுப்பாட்டை அடையும்போது, இது தானாகவே மையப்படுத்தப்படும்.   இணைப்பு அல்லது பொத்தானைக் கிளிக் செய்ய, \u003Cspan class='key'>Enter\u003C/span> என்பதை அழுத்தவும். \u003C/p> \u003Cp> மையப்படுத்தப்பட்ட (உரைப் பெட்டி அல்லது பட்டியல் பெட்டி போன்றது) கட்டுப்பாடானது, அம்புக்குறிகளைப் பிடிக்கும்போது, சுட்டி உலாவலைத் தொடர, இடது அல்லது வலது அம்புக்குறியைத் தொடர்ந்து \u003Cspan class='key'>Esc\u003C/span> அழுத்தவும். \u003C/p> \u003Cp>   மாற்றாக, மையப்படுத்தப்பட்ட அடுத்த கட்டுப்பாட்டிற்கு நகர, \u003Cspan class='key'>Tab\u003C/span> அழுத்தவும். \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "சுட்டி அதிக தொலைவிற்கு குதிக்கும் போது:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "விசைப்பலகை கட்டளைகள்"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "வார்த்தைகளில் நகர \u003Cspan class='key'>Option\u003C/span> என்ற விசையை அழுத்திப்பிடிக்கவும்."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "வார்த்தைகளில் நகர \u003Cspan class='key'>Control\u003C/span> விசையை அழுத்திப் பிடிக்கவும்."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>ஆவணம் முழுவதும் செல்ல அம்புக்குறிகளைப் பயன்படுத்தவும். \u003C/p>\u003Cp>கர்சரை ஒரு இடத்திற்கு நகர்த்த அங்கு கிளிக் செய்யவும். \u003C/p> \u003Cp>   உரையைத் தேர்வுசெய்ய \u003Cspan class='key'>Shift\u003C/span> + அம்புக்குறிகளை அழுத்தவும்.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "கருத்து இல்லையெனில், கர்சரைக் காட்டவும்."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "இந்த நீட்டிப்பில் கிடைக்கும் இணைய பக்கத்தில் நகரும் கர்சர், உங்களை விசைப்பலகை மூலம் உரையைத் தேர்வுசெய்ய அனுமதிக்கிறது."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "இப்போதே முயற்சிக்கவும் - இந்தப் பக்கத்தில் சுட்டி உலாவல் எப்போதும் இயக்கப்பட்டிருக்கும்!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "விஷுவல் கருத்து"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "சுட்டி உலாவல் இயக்கத்திலிருக்கும்போது:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "வண்ணம் சரிசெய்தல்"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "வண்ண உணர்வுக்காட்சியை மேம்படுத்த, இணையப் பக்கங்களில் தனிப்பயனாக்கக்கூடிய வண்ண வடிப்பான் பயன்படுத்தப்பட்டது."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "வண்ண மேம்படுத்தி"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "ரத்து செய்"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "டிகிரி"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "இயக்கவா?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "சரி"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "மீட்டமை"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "அமைவு"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "அமைவு:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "படி 2: தேர்ந்தெடுக்கப்பட்ட வரிசையில் எல்லா நட்சத்திரங்களும் தெரியும் வரை\n        ஸ்லைடரைச் சரிசெய்யவும்"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "நீலம்"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "படி 1: மங்கலான நட்சத்திரங்களைக் கொண்ட வரிசையைத் தேர்ந்தெடுக்கவும்:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "பச்சை"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "சிவப்பு"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$க்கான வண்ணத் திட்டம்:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "வலைப்பக்கங்களைப் படிக்க எளிதாக்க வண்ணங்களை மாற்றவும் அல்லது தலைகீழாக்கவும்."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "அதிக ஒளி மாறுபாடு"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "இயல்புநிலை வண்ணங்கள்:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "முடக்கு"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "உயர் ஒளி மாறுபாடு முடக்கப்பட்டது"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "இயக்கு"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "உயர் ஒளி மாறுபாடு இயக்கப்பட்டது"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "தள தனிப்பயனாக்கங்களை நினைவில்கொள்ளாதே"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "கிரேஸ்கேல்"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "அதிகரிக்கப்பட்ட ஒளி மாறுபாடு"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "தலைகீழ் வண்ணம்"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "நிறம் மாறும் கிரேஸ்கேல்"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "இயல்பு"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "இயல்புநிலைத் திட்டமாக அமை"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "கருமையில் மஞ்சள்"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat அல்லது longdesc பண்புக்கூறுகளுடன் உறுப்புகளுக்குக் கரையைச் சேர்க்கவும்."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "விரிவான விளக்கத்தை அணுக \"longdesc\" அல்லது \"aria-describedat\" பண்புக்கூறுடன் உள்ள எதன் மீதாவது வலது கிளிக் செய்யலாம்."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "சூழல் மெனுவில் கிடைக்கும் நீண்ட விளக்கம்"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "நீண்ட விளக்கத்தைப் புதிய தாவலில் திற"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "விருப்பத்தேர்வுகள்"
+   }
+}

@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "A képek lecserélése az „alt” szövegükre."
+   },
+   "ALT_APPNAME": {
+      "message": "Kép „alt” szövegének megtekintője"
+   },
+   "ALT_INFOBAR": {
+      "message": "A képeket lecserélte a rendszer az ALT szövegükre."
+   },
+   "ALT_UNDO": {
+      "message": "Visszavonás"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Az összes animált kép engedélyezése."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Animációk futtatása csak egyszer, vagy az animációk teljes letiltása."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animációra vonatkozó irányelv"
+   },
+   "ANIMATION_NONE": {
+      "message": "Az összes képanimáció letiltása."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Az animált képek engedélyezése, de csak egyszer."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animációra vonatkozó irányelv:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "A kurzor pozíciójának kiemelése animációval."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Böngészés weboldalakon a nyílbillentyűkkel."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Caret Browsing"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Caret Browsing – beállítások"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "A Caret Browsing bekapcsolásához nyomja meg az \u003Cspan class='key'>F7\u003C/span> billentyűt. A kikapcsoláshoz nyomja meg újra."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "A kurzor pozíciójának kiemelése egy gyors villanással."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Link vagy más vezérlőelem elérésekor a link vagy vezérlőelem automatikusan fókuszba kerül.   Linkre vagy gombra kattintáshoz nyomja meg az \u003Cspan class='key'>Enter\u003C/span> billentyűt. \u003C/p> \u003Cp>   Amikor egy fókuszban lévő vezérlőelem (pl. egy szöveg- vagy listamező) elfogja a nyílbillentyűket, a Caret Browsing használatának folytatásához nyomja meg az \u003Cspan class='key'>Esc\u003C/span> billentyűt, majd a balra vagy jobbra nyilat. \u003C/p> \u003Cp>   A \u003Cspan class='key'>Tab\u003C/span> billentyű megnyomásával a következő, fókuszba helyezhető vezérlőelemre ugorhat. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Amikor a kurzor messzire ugrik:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Billentyűparancsok"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "A szavanként történő mozgáshoz tartsa lenyomva az \u003Cspan class='key'>Option\u003C/span> billentyűt."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "A szavanként történő mozgáshoz tartsa lenyomva a \u003Cspan class='key'>Control\u003C/span> billentyűt."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>A nyílbillentyűkkel mozoghat a dokumentumban. \u003C/p>\u003Cp>Kattintson bárhova a kurzor adott helyre viteléhez. \u003C/p> \u003Cp>   A \u003Cspan class='key'>Shift\u003C/span> + nyílbillentyűk megnyomásával jelölhet ki szöveget.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Nincs visszajelzés, csak a kurzor látható."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Ez a bővítmény mozgatható kurzort biztosít a weboldalakon, lehetővé téve szöveg kijelölését a billentyűzettel."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Próbálja ki most! A Caret Browsing mindig engedélyezve van ezen az oldalon."
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Vizuális visszajelzés"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Amikor a Caret Browsing aktiválva van:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Színbeállítás"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Személyre szabható színszűrők alkalmazása weboldalakon a színérzékelés javításához."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Színjavító"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Mégse"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Fokozat"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Engedélyezi?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Visszaállítás"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Beállítás"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Beállítás:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "2. lépés: Állítsa be a csúszkát úgy, hogy az összes csillag látható legyen\n        a kijelölt sorban"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Kék"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "1. lépés: Válassza ki a sort, ahol a leghalványabb csillagok láthatók:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Zöld"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Piros"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Színséma a(z) $1$ webhelyhez:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "A színséma módosítása vagy invertálása a weboldalak könnyebb olvashatósága érdekében."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "High Contrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Alapértelmezett színséma:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Kikapcsolás"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "A High Contrast le van tiltva"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Engedélyezés"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "A High Contrast engedélyezve van"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Webhelyek személyre szabásának elfelejtése"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Szürkeárnyalat"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Megnövelt kontraszt"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Inverz szín"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Inverz szürkeárnyalat"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normál"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Beállítás alapértelmezett sémaként"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Fekete alapon sárga"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Szegély hozzáadása az aria-describedat és a longdesc attribútumokkal rendelkező elemekhez."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Kattintson jobb gombbal bármelyik „longdesc” vagy az „aria-describedat” attribútumot tartalmazó elemnél a hosszú leírás eléréséhez."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Hosszú leírások a helyi menüben"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Hosszú leírás megnyitása új lapon"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Beállítások"
+   }
+}

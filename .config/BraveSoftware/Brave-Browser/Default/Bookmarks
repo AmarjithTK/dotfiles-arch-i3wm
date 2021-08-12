@@ -1,0 +1,83 @@
+{
+   "checksum": "3de32f239b52d7e636a22798dcbde764",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13273158639893967",
+               "guid": "420203e9-fd53-4037-9be6-d8e873a8db1f",
+               "id": "7",
+               "name": "Google",
+               "type": "url",
+               "url": "http://www.google.in/"
+            }, {
+               "date_added": "13273158725071696",
+               "guid": "103e3024-8ba8-4773-a021-25cff58eba53",
+               "id": "8",
+               "name": "Arch Wiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/"
+            }, {
+               "date_added": "13273158836695443",
+               "guid": "7c6feba1-05e8-457e-9909-a9fb69f79249",
+               "id": "11",
+               "name": "AUR (en) - Home",
+               "type": "url",
+               "url": "https://aur.archlinux.org/"
+            }, {
+               "date_added": "13273159960463354",
+               "guid": "8b62201a-0eab-49c5-a701-c15580167948",
+               "id": "14",
+               "name": "Beautiful Free Images & Pictures | Unsplash",
+               "type": "url",
+               "url": "https://unsplash.com/"
+            }, {
+               "date_added": "13273171273329917",
+               "guid": "00716b3a-bf3e-4490-97f0-e151e1d5b517",
+               "id": "17",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13273241411059442",
+               "guid": "cf83ee9a-a359-40b1-835e-4ac01fa80a17",
+               "id": "19",
+               "name": "(3) WhatsApp",
+               "type": "url",
+               "url": "https://web.whatsapp.com/"
+            } ],
+            "date_added": "13273171210801964",
+            "date_modified": "13273241411059442",
+            "guid": "23402d17-faff-4586-9815-407d21179ca4",
+            "id": "16",
+            "name": "Speedial",
+            "type": "folder"
+         } ],
+         "date_added": "13273157949094144",
+         "date_modified": "13273171210802521",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13273157949094148",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13273157949094155",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

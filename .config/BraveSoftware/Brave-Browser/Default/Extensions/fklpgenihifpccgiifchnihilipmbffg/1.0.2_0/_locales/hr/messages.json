@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Zamijenite slike njihovim alternativnim tekstom."
+   },
+   "ALT_APPNAME": {
+      "message": "Preglednik alternativnog teksta slike"
+   },
+   "ALT_INFOBAR": {
+      "message": "Slike su zamijenjene alternativnim tekstom."
+   },
+   "ALT_UNDO": {
+      "message": "Poništi"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Dopusti sve animirane slike."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Pokreće animacije samo jedanput ili ih potpuno onemogućuje."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Pravila o animacijama"
+   },
+   "ANIMATION_NONE": {
+      "message": "Onemogući sve animirane slike."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Dopusti animirane slike, ali samo jednom."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Pravila o animacijama:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Istakni položaj kursora animacijom."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Pregledavajte tekst web-stranica pomoću tipki strelica."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Pregledavanje kursorom"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Opcije Pregledavanja kursorom"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Pritisnite \u003Cspan class='key'>F7\u003C/span> da biste uključili Pregledavanje kursorom. Pritisnite ponovo za isključivanje."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Istakni položaj kursora brzim bljeskanjem."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Veza ili kontrola automatski se fokusiraju kada za njima posegnete. Pritisnite \u003Cspan class='key'>Enter\u003C/span> da biste kliknuli vezu ili gumb. \u003C/p> \u003Cp> Kada fokusirana kontrola (primjerice, tekstni okvir ili okvir s popisom) obuhvaća tipke strelica, pritisnite \u003Cspan class='key'>Esc\u003C/span>, a zatim lijevu ili desnu strelicu za nastavak Pregledavanja kursorom. \u003C/p> \u003Cp> Inače pritisnite \u003Cspan class='key'>Tab\u003C/span> da biste se premjestili na sljedeću kontrolu koja se može fokusirati. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Kada kursor skoči s velike udaljenosti:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Tipkovne naredbe"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Držite tipku \u003Cspan class='key'>Option\u003C/span> da biste se pomicali po riječima."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Držite tipku \u003Cspan class='key'>Control\u003C/span> da biste se pomicali po riječima."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Koristite se tipkama strelica za pomicanje kroz dokument. \u003C/p>\u003Cp>Kliknite bilo gdje da biste pomaknuli kursor na tu lokaciju. \u003C/p> \u003Cp>   Pritisnite \u003Cspan class='key'>Shift\u003C/span> i strelice da biste odabrali tekst.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Bez povratnih informacija, samo prikaži kursor."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "To proširenje pruža pokretni kursor na web-stranici, tako da tekst možete odabrati pomoću tipkovnice."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Isprobajte odmah – Pregledavanje kursorom uvijek je omogućeno na toj stranici!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Vizualne povratne informacije"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Kada je omogućeno Pregledavanje kursorom:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Prilagodba boja"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Prilagodljivi filtar boja koji se primjenjuje na web-stranice radi boljeg raspoznavanja boja."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Odustani"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Stupanj"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Omogućiti?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "U redu"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Ponovno postavi"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Postavi"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Postavljanje:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "2. korak: pomičite klizač dok sve zvjezdice ne postanu vidljive u\n        odabranom retku"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Plava"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "1. korak: odaberite redak s najbljeđim zvjezdicama:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Zelena"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Crvena"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Shema boja za $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Promjena ili preokretanje sheme boja radi bolje čitljivosti web-stranica."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Visoki kontrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Zadana shema boja:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Onemogući"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Visoki kontrast nije omogućen"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Omogući"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Visoki kontrast omogućen je"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Zaboravi prilagodbe web-lokacije"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Sivi tonovi"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Povećani kontrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Preokrenuta boja"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Obrnuti sivi tonovi"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Uobičajeno"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Postavi kao zadanu shemu"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Žuto na crnom"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Dodajte granicu elementima s atributima aria-describedat ili longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Kliknite desnom tipkom bilo koju stavku s atributima \"longdesc\" ili \"aria-describedat\" da biste pristupili dugom opisu."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Dugi opisi na kontekstnom izborniku"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Otvori dugi opis na novoj kartici"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Opcije"
+   }
+}

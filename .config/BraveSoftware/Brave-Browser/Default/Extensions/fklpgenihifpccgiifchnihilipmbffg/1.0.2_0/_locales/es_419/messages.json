@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Reemplazar las imágenes por su texto alternativo"
+   },
+   "ALT_APPNAME": {
+      "message": "Visualizador de texto \"Alt\" de imágenes"
+   },
+   "ALT_INFOBAR": {
+      "message": "Las imágenes se reemplazaron por su texto \"alt\"."
+   },
+   "ALT_UNDO": {
+      "message": "Deshacer"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Permitir todas las imágenes animadas"
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Ejecuta animaciones solo una vez o las inhabilita por completo."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Política de animaciones"
+   },
+   "ANIMATION_NONE": {
+      "message": "Inhabilitar toda la animación de imágenes"
+   },
+   "ANIMATION_ONCE": {
+      "message": "Permitir imágenes animadas solo una vez"
+   },
+   "ANIMATION_POLICY": {
+      "message": "Política de animaciones:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Resaltar la posición del cursor con una animación"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Explorar el texto o las páginas web con las teclas de flecha"
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Navegación por cursor de texto"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Opciones de navegación por cursor de texto"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Presiona \u003Cspan class='key'>F7\u003C/span> para habilitar la navegación por cursor de texto. Presiona la misma tecla nuevamente para desactivarla."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Resaltar la posición del cursor con un parpadeo rápido"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Cuando llegues a un vínculo o control, se activará automáticamente.   Presiona \u003Cspan class='key'>Entrar\u003C/span> para hacer clic en un vínculo o un botón. \u003C/p> \u003Cp>   Cuando un control activado (como un cuadro de texto o un cuadro de lista) reconozca teclas de flecha, presiona \u003Cspan class='key'>Esc\u003C/span> seguido por la flecha hacia la izquierda o la derecha para continuar con la navegación por cursor de texto. \u003C/p> \u003Cp>   También puedes presionar la tecla \u003Cspan class='key'>Tab\u003C/span> para desplazarte al próximo control activable. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Cuando el cursor de texto avanza a una parte alejada:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Comandos de teclado"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Mantén presionado \u003Cspan class='key'>Opción\u003C/span> para moverte por palabra."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Mantén presionado \u003Cspan class='key'>Control\u003C/span> para moverte por palabra."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Usa las teclas de flecha para desplazarte por el documento. \u003C/p>\u003Cp>Haz clic en cualquier lugar para mover el cursor a esa ubicación. \u003C/p> \u003Cp>   Presiona \u003Cspan class='key'>Shift\u003C/span> + las flechas para seleccionar el texto.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Sin comentarios, solo mostrar el cursor"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Esta extensión ofrece un cursor desplazable en la página web que te permite seleccionar texto con el teclado."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Pruébalo ahora. La navegación por cursor de texto siempre está habilitada en esta página."
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Comentarios visuales"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Cuando la navegación por cursor de texto está habilitada:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Ajuste del color"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Un filtro de color personalizable aplicado a las páginas web para mejorar la percepción del color"
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Cancelar"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Grado"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "¿Habilitar?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "Aceptar"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Restablecer"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Configuración"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Configuración:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Paso 2. Ajusta el control deslizante hasta que todas las estrellas sean visibles en la\n        fila seleccionada."
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Azul"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Paso 1. Selecciona la fila con las estrellas más tenues:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Verde"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Rojo"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Combinación de colores para $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Cambia o invierte la combinación de colores para que sea más fácil leer las páginas web."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Alto contraste"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Combinación de colores predeterminada:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Inhabilitar"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "El alto contraste está inhabilitado."
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Habilitar"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "El alto contraste está habilitado."
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Olvidar personalizaciones del sitio"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Escala de grises"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Mayor contraste"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Color invertido"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Escala de grises invertida"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normal"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Establecer como combinación predeterminada"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Amarillo sobre negro"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Agregar borde a elementos con atributos aria-describedat o longdesc"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Haz clic con el botón secundario en cualquier elemento con un atributo \"longdesc\" o \"aria-describedat\" para acceder a una descripción larga."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Descripciones largas en el menú contextual"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Abrir descripción larga en nueva pestaña"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Opciones"
+   }
+}

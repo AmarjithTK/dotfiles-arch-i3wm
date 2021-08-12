@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Gantikan imej dengan teks alternatifnya."
+   },
+   "ALT_APPNAME": {
+      "message": "Alat Lihat Teks Alt Imej"
+   },
+   "ALT_INFOBAR": {
+      "message": "Imej telah digantikan dengan teks altnya."
+   },
+   "ALT_UNDO": {
+      "message": "Buat asal"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Benarkan semua imej animasi."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Jalankan animasi sekali sahaja atau lumpuhkan animasi sepenuhnya."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Dasar Animasi"
+   },
+   "ANIMATION_NONE": {
+      "message": "Lumpuhkan semua animasi imej."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Benarkan imej animasi, tetapi sekali sahaja."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Dasar Animasi:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Serlahkan kedudukan kursor dengan animasi."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Semak imbas teks tapak web menggunakan kekunci anak panah."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Penyemakan Imbas Karet"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Pilihan Penyemakan Imbas Karet"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Tekan \u003Cspan class='key'>F7\u003C/span> untuk menghidupkan Penyemakan Imbas Karet. Tekan sekali lagi untuk mematikannya."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Serlahkan kedudukan kursor dengan kilat pantas."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Apabila anda sampai ke pautan atau kawalan, ia akan difokuskan secara automatik.   Tekan \u003Cspan class='key'>Enter\u003C/span> untuk mengklik pautan atau butang. \u003C/p> \u003Cp>   Apabila kawalan yang difokuskan itu (seperti kotak teks atau kotak senarai) menangkap   kekunci anak panah, tekan \u003Cspan class='key'>Esc\u003C/span> diikuti dengan   anak panah kiri atau kanan untuk meneruskan Penyemakan Imbas Karet. \u003C/p> \u003Cp>   Atau pun, tekan \u003Cspan class='key'>Tab\u003C/span> untuk beralih ke   kawalan boleh fokus yang seterusnya. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Apabila karet melompat dengan jarak yang besar:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Perintah Papan Kekunci"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Tekan dan tahan \u003Cspan class='key'>Pilihan\u003C/span> untuk bergerak perkataan demi perkataan."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Tekan dan tahan \u003Cspan class='key'>Kawalan\u003C/span> untuk bergerak perkataan demi perkataan."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Gunakan kekunci anak panah untuk bergerak di sepanjang dokumen. \u003C/p>\u003Cp>Klik di mana-mana sahaja untuk menggerakkan kursor ke lokasi tersebut. \u003C/p> \u003Cp>   Tekan \u003Cspan class='key'>Shift\u003C/span> + anak panah untuk memilih teks.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Tiada maklum balas, hanya tunjukkan kursor."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Sambungan ini memberi anda kursor boleh alih di halaman web yang membolehkan anda memilih teks menggunakan papan kekunci."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Cubalah sekarang - Penyemakan Imbas Karet sentiasa didayakan di halaman ini!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Maklum Balas Visual"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Apabila Penyemakan Imbas Karet didayakan:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Pelarasan warna"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Penapis warna boleh disesuaikan digunakan pada halaman web untuk meningkatkan tanggapan warna."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Penambah Warna"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Batal"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Darjah"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Dayakan?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Tetapkan semula"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Persediaan"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Persediaan:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Langkah 2: Laraskan gelangsar sehingga semua bintang kelihatan dalam \n        baris yang dipilih"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Biru"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Langkah 1: Pilih baris dengan bintang paling malap:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Hijau"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Merah"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Skim warna untuk $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Tukar atau songsangkan skim warna untuk menjadikan tapak web lebih mudah dibaca."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Kontras Tinggi"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Skim warna lalai:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Lumpuhkan"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Kontras Tinggi Dilumpuhkan"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Dayakan"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Kontras Tinggi Didayakan"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Lupakan pemperibadian tapak"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Skala Kelabu"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Kontras Lebih Tinggi"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Warna Songsang"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Skala Kelabu Songsang"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Biasa"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Tetapkan sebagai skim lalai"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Kuning pada Hitam"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Tambahkan sempadan kepada unsur yang mempunyai atribut aria-describedat atau longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Klik kanan pada apa-apa yang mempunyai atribut \"longdesc\" atau \"aria-describedat\" untuk mengakses penerangan panjang."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Keterangan Panjang dalam Menu Konteks"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Buka Keterangan Panjang di Tab Baharu"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Pilihan"
+   }
+}

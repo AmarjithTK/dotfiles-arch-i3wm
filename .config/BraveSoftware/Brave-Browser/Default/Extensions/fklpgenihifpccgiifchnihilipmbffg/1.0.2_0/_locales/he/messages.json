@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "‏החלף תמונות בטקסט alt שלהן."
+   },
+   "ALT_APPNAME": {
+      "message": "‏מציג טקסט Alt של תמונה"
+   },
+   "ALT_INFOBAR": {
+      "message": "‏תמונות הוחלפו על-ידי טקסט ה-alt שלהן."
+   },
+   "ALT_UNDO": {
+      "message": "ביטול הפעולה"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "אפשר את כל התמונות המכילות אנימציה."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "הפעל אנימציות פעם אחת בלבד, או השבת אנימציות לחלוטין."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "מדיניות בנושא אנימציה"
+   },
+   "ANIMATION_NONE": {
+      "message": "השבת כליל אנימציה בתמונות."
+   },
+   "ANIMATION_ONCE": {
+      "message": "אפשר תמונות המכילות אנימציה, אך רק פעם אחת."
+   },
+   "ANIMATION_POLICY": {
+      "message": "מדיניות בנושא אנימציה:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "הדגש את מיקום הסמן באמצעות הנפשה."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "דפדף בטקסט של דפי אינטרנט באמצעות מקשי החצים."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "דפדוף עם סמן"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "אפשרויות דפדוף עם סמן"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "‏הקש על ‎\u003Cspan class='key'>F7\u003C/span>‎ כדי להפעיל דפדוף עם סמן. כדי להשבית, הקש שוב על מקש זה."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "הדגש את מיקום הסמן באמצעות הבהוב מהיר."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "‏\u003Cp>כשאתה מגיע לקישור או לבקרה, מתבצע מיקוד אוטומטי בהם.   הקש על ‎\u003Cspan class='key'>Enter\u003C/span>‎ כדי ללחוץ על קישור או על לחצן. ‎\u003C/p> \u003Cp>‎   כאשר בקרה ממוקדת (כגון תיבת טקסט או תיבת רשימה) לוכדת מקשי חצים, הקש על ‎\u003Cspan class='key'>Esc\u003C/span>‎ ולאחר מכן על מקש החץ שמאלה או ימינה, כדי להמשיך דפדוף עם סמן. ‎\u003C/p> \u003Cp>‎   לחלופין, הקש על ‎\u003Cspan class='key'>Tab\u003C/span>‎ כדי לעבור לבקרה הבאה הניתנת למיקוד. ‎\u003C/p>‎"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "כאשר הסמן קופץ למרחק רב:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "פקודות מקלדת"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "‏לחץ לחיצה ארוכה על ‎\u003Cspan class='key'>‎Option\u003C/span>‎ כדי לעבור לפי מילים."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "‏לחץ לחיצה ארוכה על ‎\u003Cspan class='key'>Control\u003C/span>‎ כדי לעבור לפי מילים."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "‏\u003Cp>השתמש במקשי החצים כדי לדפדף במסמך. ‎\u003C/p>\u003Cp>‎לחץ במקום כלשהו כדי להעביר את הסמן לאותו מיקום. ‎\u003C/p> \u003Cp>‎   הקש על ‎\u003Cspan class='key'>Shift\u003C/span>‎ + מקשי החצים כדי לבחור טקסט.‎\u003C/p>‎"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "אין משוב, פשוט הצג את הסמן."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "תוסף זה מספק סמן הניתן להזזה בדף האינטרנט, כך שתוכל לבחור טקסט באמצעות המקלדת."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "נסה עכשיו - דפדוף עם סמן מופעל תמיד בדף זה!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "משוב חזותי"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "כאשר 'דפדוף עם סמן' מופעל:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "שינוי צבע"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "מסנן צבע הניתן להתאמה המופעל באתרים כדי לשפר את ההבחנה בין צבעים."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "ביטול"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "דרגה"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "האם להפעיל?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "אישור"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "אפס"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "הגדרות"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "הגדרה:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "שלב 2: כוון את המחוון עד שכל הכוכבים יוצגו בשורה שנבחרה"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "כחול"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "שלב 1: בחר את השורה המכילה את הכוכבים העמומים ביותר:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "ירוק"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "אדום"
+   },
+   "HIGHCONTRAST_": {
+      "message": "ערכת צבעים עבור $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "שנה או הפוך את ערכת הצבעים כך שדפי אינטרנט יהיו קלים לקריאה."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "ניגודיות גבוהה"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "ברירת מחדל של ערכת צבעים:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "השבת"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "ניגודיות גבוהה מושבתת"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "הפעל"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "ניגודיות גבוהה מופעלת"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "שכח התאמות אישיות של אתר"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "גווני אפור"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "ניגודיות מוגברת"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "צבע הפוך"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "גווני אפור הפוכים"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "רגיל"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "הגדר כברירת מחדל של ערכת צבעים"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "צהוב או שחור"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "‏הוסף גבול לאלמנטים עם מסגרות aria-describedat או longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "‏לחץ לחיצה ארוכה על כל פריט עם המאפיין \"longdesc\" או \"aria-describedat\" כדי לגשת לתיאור הארוך שלו."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "תיאורים ארוכים בתפריט הקשר"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "פתיחת תיאור ארוך בכרטיסייה חדשה"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "אפשרויות"
+   }
+}

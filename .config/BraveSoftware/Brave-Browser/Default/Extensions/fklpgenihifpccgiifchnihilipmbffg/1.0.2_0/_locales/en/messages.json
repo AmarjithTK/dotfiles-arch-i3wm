@@ -1,0 +1,199 @@
+{
+   "ALT_APPDESC": {
+      "message": "Replace images with their alt text."
+   },
+   "ALT_APPNAME": {
+      "message": "Image Alt Text Viewer"
+   },
+   "ALT_INFOBAR": {
+      "message": "Images have been replaced by their alt text."
+   },
+   "ALT_UNDO": {
+      "message": "Undo"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Allow all animated images."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Run animations only once, or disable animation completely."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animation Policy"
+   },
+   "ANIMATION_NONE": {
+      "message": "Disable all image animation."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Allow animated images, but only once."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animation Policy:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Highlight the cursor position with an animation."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Browse the text of web pages using arrow keys."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Caret Browsing"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Caret Browsing Options"
+   },
+   "CARET_BROWSING_ENABLEDISABLECROS": {
+      "message": "Press \u003Cspan class='key'>Search\u003C/span> + \u003Cimg src='increase_brightness.png'> (the Increase Brightness key, or F7) to turn on Caret Browsing. Press it again to turn it off."
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Press \u003Cspan class='key'>F7\u003C/span> to turn on Caret Browsing. Press it again to turn it off."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Highlight the cursor position with a quick flash."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>When you reach a link or control, it is automatically focused.   Press \u003Cspan class='key'>Enter\u003C/span> to click a link or button. \u003C/p> \u003Cp>   When a focused control (like a text box or a list box) is capturing   arrow keys, press \u003Cspan class='key'>Esc\u003C/span> followed by the   left or right arrow to continue Caret Browsing. \u003C/p> \u003Cp>   Alternatively, press \u003Cspan class='key'>Tab\u003C/span> to move to the   next focusable control. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "When the caret jumps by a large distance:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Keyboard Commands"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Hold down \u003Cspan class='key'>Option\u003C/span> to move by words."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Hold down \u003Cspan class='key'>Control\u003C/span> to move by words."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Use arrow keys to move throughout the document. \u003C/p>\u003Cp>Click anywhere to move the cursor to that location. \u003C/p> \u003Cp>   Press \u003Cspan class='key'>Shift\u003C/span> + arrows to select text.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "No feedback, just show the cursor."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "This extension gives you a movable cursor in the web page, allowing you to select text with the keyboard."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Try it out now - Caret Browsing is always enabled on this page!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Visual Feedback"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "When Caret Browsing is enabled:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Color adjustment"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "A customizable color filter applied to webpages to improve color perception."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Cancel"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Degree"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Enable?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Reset"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Setup"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Setup:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Step 2: Adjust the slider until all of the stars are visible in the\n        selected row"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Blue"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Step 1: Select the row with the faintest stars:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Green"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Red"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Color scheme for $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Change or invert the color scheme to make webpages easier to read."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "High Contrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Default color scheme:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Disable"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "High Contrast is Disabled"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Enable"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "High Contrast is Enabled"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Forget site customizations"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Grayscale"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Increased Contrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Inverted Color"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Inverted Grayscale"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normal"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Set as default scheme"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Yellow on Black"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Add border to elements with aria-describedat or longdesc attributes."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Right-click on anything with a \"longdesc\" or \"aria-describedat\" attribute to access its long description."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Long Descriptions in Context Menu"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Open Long Description In New Tab"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Options"
+   }
+}

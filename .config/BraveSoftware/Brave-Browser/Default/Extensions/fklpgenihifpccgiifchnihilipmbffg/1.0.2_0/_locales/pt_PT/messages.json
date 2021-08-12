@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Substitua imagens pelo respetivo texto alternativo."
+   },
+   "ALT_APPNAME": {
+      "message": "Visualizador do texto \"Alt\" da imagem"
+   },
+   "ALT_INFOBAR": {
+      "message": "As imagens foram substituídas pelos respetivos textos alternativos."
+   },
+   "ALT_UNDO": {
+      "message": "Anular"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Permita todas as imagens animadas."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Execute animações apenas uma vez ou desative completamente a animação."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Política de Animação"
+   },
+   "ANIMATION_NONE": {
+      "message": "Desative todas as animações de imagem."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Permita imagens animadas, mas apenas uma vez."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Política de Animação:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Realce a posição do cursor com uma animação."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Navegue pelo texto das páginas Web com as teclas de seta."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Navegação por cursor"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Opções da Navegação por cursor"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Prima \u003Cspan class='key'>F7\u003C/span> para ativar a Navegação por cursor. Prima novamente para a desativar."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Realce a posição do cursor com um flash rápido."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Quando atinge um link ou um controlo, este é focado automaticamente.   Prima \u003Cspan class='key'>Enter\u003C/span> para clicar num link ou num botão. \u003C/p> \u003Cp>   Quando um controlo focado (como uma caixa de texto ou uma caixa de lista) estiver a capturar   teclas de seta, prima \u003Cspan class='key'>Esc\u003C/span> seguido da   seta para a esquerda ou para a direita para continuar a Navegação por cursor. \u003C/p> \u003Cp>   Em alternativa, prima \u003Cspan class='key'>Tab\u003C/span> para mover para o   próximo controlo que pode ser focado. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Quando o cursor salta uma grande distância:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Comandos do teclado"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Mantenha premido \u003Cspan class='key'>Opção\u003C/span> para mover por palavras."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Mantenha premido \u003Cspan class='key'>Control\u003C/span> para mover por palavras."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Utilize as teclas de seta para se mover ao logo do documento. \u003C/p>\u003Cp>Clique em qualquer local para mover o cursor para essa localização. \u003C/p> \u003Cp>   Prima \u003Cspan class='key'>Shift\u003C/span> + setas para selecionar texto.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Sem comentários, mostrar apenas o cursor."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Esta extensão coloca um cursor móvel na página Web, pelo que pode selecionar o texto com o teclado."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Experimente agora: a Navegação por cursor está sempre ativada nesta página!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Comentários visuais"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Quando a Navegação por cursor está ativada:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Ajuste de cores"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Um filtro de cor personalizado, aplicado a páginas Web para melhorar a perceção das cores."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Cancelar"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Grau"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Ativar?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Repor"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Configuração"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Configuração:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Passo 2: ajustar o controlo de deslize até que todas as estrelas estejam visíveis\n        na linha selecionada"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Azul"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Passo 1: selecionar a linha com as estrelas mais ténues:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Verde"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Vermelho"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Esquema de cores para $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Mude ou inverta o esquema de cores para tornar as páginas Web mais fáceis de ler."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Alto contraste"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Esquema de cores predefinido:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Desactivar"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "O alto contraste está desativado"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Ativar"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "O alto contraste está ativado"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Esquecer personalizações do site"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Tons de cinzento"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Contraste aumentado"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Cor invertida"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Tons de cinzento invertidos"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normal"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Definir como esquema predefinido"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Amarelo sobre preto"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Adicionar limite aos elementos com os atributos \"aria-describedat\" ou \"longdesc\"."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Clique com o botão direito do rato em qualquer item que tenha o atributo \"longdesc\" ou \"aria-describedat\" para aceder à descrição longa."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Descrições longas no menu de contexto"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Abrir a descrição longa num novo separador"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Opções"
+   }
+}

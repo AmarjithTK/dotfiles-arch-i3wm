@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Korvaa kuvat niiden alt-tekstillä."
+   },
+   "ALT_APPNAME": {
+      "message": "Kuvien alt-tekstin katselu"
+   },
+   "ALT_INFOBAR": {
+      "message": "Kuvat on korvattu niiden vaihtoehtoisella tekstillä."
+   },
+   "ALT_UNDO": {
+      "message": "Kumoa"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Salli kaikki animoidut kuvat."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Näytä animaatiot vain kerran, tai poista animaatiot kokonaan käytöstä."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animaatiokäytäntö"
+   },
+   "ANIMATION_NONE": {
+      "message": "Poista kaikki kuva-animaatiot käytöstä."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Salli kuvien animointi, mutta vain kerran."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animaatiokäytäntö:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Korosta osoittimen paikka animaatiolla."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Selaa verkkosivujen tekstiä nuolinäppäimillä."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Näppäimistöselaaminen"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Näppäimistöselaamisen asetukset"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Ota näppäimistöselaaminen käyttöön painamalla \u003Cspan class='key'>F7\u003C/span>. Poista toiminto käytöstä painamalla näppäintä uudelleen."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Korosta osoittimen paikka nopealla välähdyksellä."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Löytämäsi linkki tai käytettävä kohde keskitetään automaattisesti. Klikkaa linkkiä tai painiketta painamalla \u003Cspan class='key'>enter\u003C/span>. \u003C/p> \u003Cp>  Kun keskitetty kohde (kuten tekstikenttä tai luettelokenttä) kuuntelee nuolinäppäimien painalluksia, jatka Näppäimistöselaamisen käyttöä painamalla \u003Cspan class='key'>esc\u003C/span> ja sen jälkeen vasenta tai oikeaa nuolta. \u003C/p> \u003Cp>   Voit myös siirtyä seuraavaan keskitettävään kohteeseen painamalla \u003Cspan class='key'>sarkainta\u003C/span>. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Kun osoitin siirtyy pitkän välimatkan:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Näppäimistökomennot"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Siirry sanojen mukaan painamalla \u003Cspan class='key'>option\u003C/span>-näppäintä pitkään."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Liiku sanojen mukaan painamalla \u003Cspan class='key'>control\u003C/span>-näppäintä pitkään."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Liiku dokumentissa nuolinäppäimillä. \u003C/p>\u003Cp>Siirrä osoitin haluamaasi kohtaan klikkaamalla. \u003C/p> \u003Cp>   Valitse tekstiä painamalla \u003Cspan class='key'>shift\u003C/span> + nuolinäppäimiä.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Ei palautetta, näytä osoitin."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Tämä laajennus lisää verkkosivulle liikuteltavan osoittimen, jonka avulla voit valita tekstiä näppäimistöllä."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Kokeile heti – Näppäimistöselaaminen on aina käytössä tällä sivulla!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Visuaalinen palaute"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Kun Näppäimistöselaaminen on käytössä:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Värien säätö"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Muokattavissa oleva värisuodatin, joka helpottaa värien näkemistä verkkosivuilla."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Peruuta"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Aste"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Otetaanko käyttöön?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Tyhjennä"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Määritä"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Määritys:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Vaihe 2: liikuta liukusäädintä, kunnes kaikki tähdet ovat näkyvissä\n        valitulla rivillä."
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Sininen"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Vaihe 1: valitse rivi, jolla on haaleimmat tähdet:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Vihreä"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Punainen"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Sivuston $1$ väriteema:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Paranna verkkosivujen luettavuutta vaihtamalla tai kääntämällä värimalli."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Korkea kontrasti"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Oletusvärimalli:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Poista käytöstä"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Korkea kontrasti on pois käytöstä"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Ota käyttöön"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Korkea kontrasti on käytössä"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Unohda sivustoon liittyvät muokkaukset"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Harmaasävy"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Lisäkontrasti"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Käänteiset värit"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Käänteinen harmaasävy"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normaali"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Aseta oletusteemaksi"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Keltainen mustalla pohjalla"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Lisää reunus elementteihin, joissa on aria-describedat- tai longdesc-attribuutteja."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Klikkaa hiiren kakkospainikkeella longdesc- tai aria-describedat-attribuutin sisältäviä kohteita, jos haluat nähdä niiden pitkän kuvauksen."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Pitkät kuvaukset kontekstivalikossa"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Avaa pitkä kuvaus uudella välilehdellä"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Asetukset"
+   }
+}

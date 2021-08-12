@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "이미지를 대체 텍스트로 바꿉니다."
+   },
+   "ALT_APPNAME": {
+      "message": "이미지 대체 텍스트 뷰어"
+   },
+   "ALT_INFOBAR": {
+      "message": "이미지를 대체 텍스트로 바꿨습니다."
+   },
+   "ALT_UNDO": {
+      "message": "실행취소"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "모든 애니메이션 이미지를 허용합니다."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "애니메이션을 한 번만 실행하거나 완전히 사용 중지합니다."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "애니메이션 정책"
+   },
+   "ANIMATION_NONE": {
+      "message": "모든 이미지 애니메이션을 사용하지 않습니다."
+   },
+   "ANIMATION_ONCE": {
+      "message": "애니메이션 이미지를 한 번만 허용합니다."
+   },
+   "ANIMATION_POLICY": {
+      "message": "애니메이션 정책:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "애니메이션으로 커서 위치를 강조표시합니다."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "화살표 키를 사용하여 웹페이지 텍스트를 탐색합니다."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "캐럿 브라우징"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "캐럿 브라우징 옵션"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "\u003Cspan class='key'>F7\u003C/span>을 눌러 캐럿 브라우징을 사용 설정합니다. 사용 중지하려면 F7을 다시 누르세요."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "빠르게 깜박이며 커서 위치를 강조표시합니다."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>링크 또는 제어에 도달하면 자동으로 초점이 맞춰집니다. \u003Cspan class='key'>Enter\u003C/span> 키를 누른 다음 링크 또는 버튼을 클릭합니다. \u003C/p> \u003Cp>초점이 맞춰진 제어(예: 입력란, 목록 상자)가 화살표 키를 캡처할 때 \u003Cspan class='key'>Esc\u003C/span>를 누른 다음 왼쪽 또는 오른쪽 화살표를 눌러 캐럿 브라우징을 계속합니다. \u003C/p> \u003Cp>또는 \u003Cspan class='key'>Tab\u003C/span>을 눌러 다음 초점 가능한 제어로 이동합니다. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "캐럿이 멀리 이동하는 경우:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "키보드 명령어"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "\u003Cspan class='key'>옵션\u003C/span>을 눌러 단어별로 이동합니다."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "\u003Cspan class='key'>Control\u003C/span>을 눌러 단어별로 이동합니다."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>화살표 키를 사용하여 문서 내에서 이동합니다. \u003C/p> \u003Cp>아무 곳이나 클릭하여 커서를 원하는 위치로 이동합니다. \u003C/p> \u003Cp>\u003Cspan class='key'>Shift\u003C/span> + 화살표를 눌러 텍스트를 선택합니다.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "피드백 없이 커서만 표시"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "이 확장 프로그램을 사용하면 웹페이지에서 이동 가능한 커서가 표시되어 키보드로 텍스트를 선택할 수 있습니다."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "지금 시도해 보세요. 이 페이지에는 캐럿 브라우징이 항상 사용 설정되어 있습니다."
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "시각적 피드백"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "캐럿 브라우징이 사용 설정된 경우:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "색상 조정"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "웹페이지에 적용하는 맞춤설정이 가능한 색상 필터로 색상 인식도를 높일 수 있습니다."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "색상 개선 도구"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "취소"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "정도"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "사용하기"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "확인"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "초기화"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "설정"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "설정:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "2단계: 모든 별표가 선택한 행에 표시될 때까지\n        슬라이더 조정"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "파란색"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "1단계: 가장 희미한 별표가 있는 행을 선택"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "녹색"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "빨간색"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$의 색구성표:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "색구성표 변경 또는 반전을 통해 웹페이지의 가독성을 높입니다."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "고대비"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "기본 색구성표:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "사용 중지"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "고대비가 사용 중지되었습니다."
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "사용"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "고대비가 사용 설정되었습니다."
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "사이트 맞춤설정 저장 안함"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "회색조"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "대비 강화"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "반전 색상"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "반전 회색조"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "일반"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "기본 스키마로 설정"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "검은색 바탕에 노란색"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat 또는 longdesc 속성을 포함하는 요소에 테두리 추가"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "상세 설명에 액세스하려면 'longdesc' 또는 'aria-describedat' 속성을 포함하는 항목을 마우스 오른쪽 버튼으로 클릭합니다."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "컨텍스트 메뉴의 상세 설명"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "새 탭에서 상세 설명 열기"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "옵션"
+   }
+}

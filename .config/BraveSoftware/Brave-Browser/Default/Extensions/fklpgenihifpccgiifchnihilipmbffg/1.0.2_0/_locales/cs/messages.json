@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Umožňuje nahradit obrázky alternativním textem."
+   },
+   "ALT_APPNAME": {
+      "message": "Image Alt Text Viewer"
+   },
+   "ALT_INFOBAR": {
+      "message": "Obrázky byly nahrazeny textem z atributu alt."
+   },
+   "ALT_UNDO": {
+      "message": "Vrátit zpět"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Povolit všechny animované obrázky"
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Spustit animace pouze jednou nebo animaci zcela zakázat"
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Zásady animací"
+   },
+   "ANIMATION_NONE": {
+      "message": "Vypnout veškeré animace obrázků"
+   },
+   "ANIMATION_ONCE": {
+      "message": "Povolit animované obrázky, ale pouze jednou"
+   },
+   "ANIMATION_POLICY": {
+      "message": "Zásady animací:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Zvýraznit pozici kurzoru pomocí animace"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Umožňuje procházet text webových stránek pomocí kláves s šipkami."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Procházení pomocí kurzoru"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Možnosti procházení pomocí kurzoru"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Stisknutím klávesy \u003Cspan class='key'>F7\u003C/span> aktivujete procházení pomocí kurzoru. Opakovaným stisknutím jej opět vypnete."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Zvýraznit pozici kurzoru rychlým blikáním"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Když přejdete k odkazu nebo ovládacím prvku, bude automaticky zaměřen. Na odkaz nebo tlačítko kliknete stisknutím klávesy \u003Cspan class='key'>Enter\u003C/span>. \u003C/p> \u003Cp> Když zaměřený ovládací prvek (například textové pole nebo pole se seznamem) zachycuje klávesy se šipkami, v procházení pomocí kurzoru můžete pokračovat stisknutím klávesy \u003Cspan class='key'>Esc\u003C/span> a poté klávesy se šipkou vpravo či vlevo. \u003C/p> \u003Cp> Případně můžete pomocí klávesy \u003Cspan class='key'>Tab\u003C/span> přejít na další ovládací prvek, který lze zaměřit. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Když kurzor přeskočí o velkou vzdálenost:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Klávesové příkazy"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Chcete-li se pohybovat po jednotlivých slovech, přidržte klávesu \u003Cspan class='key'>Option\u003C/span>."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Chcete-li se pohybovat po jednotlivých slovech, přidržte klávesu \u003Cspan class='key'>Control\u003C/span>."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>V dokumentu se můžete pohybovat pomocí kláves s šipkami. \u003C/p>\u003Cp>Chcete-li přesunout kurzor, klikněte na libovolné místo. \u003C/p> \u003Cp> Chcete-li vybrat text, stiskněte klávesy se šipkami a přidržte klávesu \u003Cspan class='key'>Shift\u003C/span>.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Žádná zpětná vazba, jen zobrazit kurzor"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Toto rozšíření nabízí pohyblivý kurzor, díky kterému můžete na webových stránkách vybírat text pomocí klávesnice."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Vyzkoušejte to – procházení pomocí kurzoru je na této stránce vždy aktivováno."
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Vizuální zpětná vazba"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Když je aktivováno procházení pomocí kurzoru:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Úprava barev"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Přizpůsobitelný barevný filtr používaný na webové stránky s cílem zlepšit vnímání barev."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Vylepšovač barev"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Zrušit"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Stupeň"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Aktivovat?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Resetovat"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Nastavení"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Nastavit:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Krok 2: Pohybujte posuvníkem, dokud ve vybraném řádku nebudou vidět všechny hvězdičky"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Modrá"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Krok 1: Vyberte řádek s nejméně jasnými hvězdičkami:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Zelená"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Červená"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Barevné schéma webu $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Umožňuje změnit nebo převrátit barevné schéma, aby webové stránky byly lépe čitelné."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Vysoký kontrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Výchozí barevné schéma:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Deaktivovat"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Vysoký kontrast je deaktivován"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Aktivovat"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Vysoký kontrast je aktivován"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Zapomenout přizpůsobení webu"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Stupně šedé"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Zvýšený kontrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Převrácené barvy"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Převrácené stupně šedé"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normální"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Nastavit jako výchozí schéma"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Žlutá na černé"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Přidat k prvkům s atributem aria-describedat nebo longdesc ohraničení."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Kliknutím pravým tlačítkem na libovolný prvek s atributem „longdesc“ nebo „aria-describedat“ získáte jeho dlouhý popis."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Dlouhé popisy v kontextové nabídce"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Otevřít dlouhý popis na nové kartě"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Možnosti"
+   }
+}

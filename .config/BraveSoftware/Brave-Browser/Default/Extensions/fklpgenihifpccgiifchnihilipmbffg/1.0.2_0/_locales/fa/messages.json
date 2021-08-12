@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "تصاویر را با نوشتار جایگزین آن‌ها، جایگزین می‌کند."
+   },
+   "ALT_APPNAME": {
+      "message": "نظاره‌گر نوشتار جایگزین تصویر"
+   },
+   "ALT_INFOBAR": {
+      "message": "‏نوشتار «alt» جایگزین تصاویر مربوطه شد."
+   },
+   "ALT_UNDO": {
+      "message": "لغو"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "همه تصاویر پویانمایی مجاز هستند."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "تنها یک‌بار پویانمایی‌ها اجرا شوند یا پویانمایی کاملاً غیرفعال شود."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "خطمشی پویانمایی"
+   },
+   "ANIMATION_NONE": {
+      "message": "همه پویانمایی‌های تصویر غیرفعال شود."
+   },
+   "ANIMATION_ONCE": {
+      "message": "تصاویر پویانمایی مجاز هستند اما تنها یک‌بار."
+   },
+   "ANIMATION_POLICY": {
+      "message": "خط‌مشی پویانمایی:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "مکان نشانگر با یک تصویر متحرک برجسته شود."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "با استفاده از کلیدهای پیکان، نوشتار صفحه‌های وب را مرور می‌کند."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "مرور هشتک"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "گزینه‌های مرور هشتک"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "‏دکمه \u003Cspan class='key'>F7\u003C/span> را برای روشن کردن «مرور هشتک» فشار دهید. برای خاموش کردن آن را دوباره فشار دهید."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "مکان نشانگر با یک چشمک سریع برجسته شود."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "‏\u003Cp>زمانی که به یک پیوند یا کنترل می‌رسید، به صورت خودکار متمرکز می‌شود. برای کلیک روی یک پیوند یا دکمه، \u003Cspan class='key'>Enter (ورود)\u003C/span> را فشار دهید. \u003C/p> \u003Cp> زمانی که یک کنترل متمرکز شده (مانند کادر نوشتاری یا کادر فهرست) به کلیدهای پیکان رسید، \u003Cspan class='key'>Esc (گریز)\u003C/span> و پس از آن پیکان چپ یا راست را برای ادامه «مرور هشتک» فشار دهید. \u003C/p> \u003Cp>   یا، برای رفتن به کنترل قابل تمرکز بعدی، \u003Cspan class='key'>کلید جهش\u003C/span> را فشار دهید. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "زمانی که هشتک یک فاصله زیاد را رد می‌کند:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "دستورات صفحه‌کلید"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "‏برای جابه‌جایی کلمه به کلمه، \u003Cspan class='key'>Option (گزینه)\u003C/span> s را پایین نگه دارید."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "‏برای جابه‌جایی کلمه به کلمه، \u003Cspan class='key'>Control (کنترل)\u003C/span> را پایین نگه دارید."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "‏\u003Cp>برای جابه‌جایی در داخل سند از کلیدهای پیکان استفاده کنید. \u003C/p>\u003Cp>برای بردن نشانگر به هر مکانی، روی آن مکان کلیک کنید. \u003C/p> \u003Cp>\u003Cspan class='key'>Shift (کلید تبدیل)\u003C/span> + پیکان‌ها را برای انتخاب نوشتار فشار دهید.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "بازخوردی وجود ندارد، فقط نشانگر نشان داده شود."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "این افزونه یک نشانگر متحرک در صفحه وب به شما می‌دهد که با آن می‌توانید نوشتار را با صفحه‌کلید انتخاب کنید."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "اکنون آن را امتحان کنید - «مرور هشتک» همیشه در این صفحه فعال است!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "بازخورد تصویری"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "زمانی که «مرور هشتک» فعال است"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "تنظیم رنگ"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "یک فیلتر رنگ قابل سفارشی کردن به صفحه‌های وب اعمال شد تا ادراک رنگ‌ها بهبود یابد."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "تقویت‌کننده رنگ"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "لغو"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "درجه"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "فعال شود؟"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "قبول"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "بازنشانی"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "راه‌اندازی"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "راه‌اندازی:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "مرحله ۲: لغزنده را به گونه‌ای تنظیم کنید که همه ستاره‌ها در ردیف انتخابی قابل مشاهده باشند"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "آبی"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "مرحله ۱: ردیف دارای کم‌رنگ‌ترین ستاره‌ها را انتخاب کنید:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "سبز"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "قرمز"
+   },
+   "HIGHCONTRAST_": {
+      "message": "طرح رنگ برای $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "طرح رنگ را برای خواندن آسان‌تر صفحه‌های وب تغییر می‌دهد یا معکوس می‌کند."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "کنتراست بالا"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "طرح رنگ پیش‌فرض:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "غیر فعال کردن"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "کنتراست بالا غیرفعال است"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "فعال کردن"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "کنتراست بالا فعال است"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "فراموش کردن سفارشی‌سازی‌های این سایت"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "سیاه‌وسفید"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "کنتراست افزایش یافته"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "رنگ معکوس"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "سیاه‌وسفید معکوس"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "معمولی"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "تنظیم به عنوان طرح پیش‌فرض"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "زرد روی سیاه"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "‏به عناصر دارای ویژگی «aria-describedat» یا «longdesc» حد ومرز اضافه کنید."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "‏روی هر موردی با ویژگی «longdesc» یا «aria-describedat» کلیک راست کنید تا به شرح کامل آن دسترسی پیدا کنید."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "توضیحات طولانی در منوی زمینه"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "باز کردن «توضیح طولانی» در «برگه جدید»"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "گزینه‌ها"
+   }
+}

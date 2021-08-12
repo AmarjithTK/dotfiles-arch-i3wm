@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Kujutiste asendamine nende alternatiivse tekstiga."
+   },
+   "ALT_APPNAME": {
+      "message": "Kujutise Alt-tekstivaatur"
+   },
+   "ALT_INFOBAR": {
+      "message": "Kujutised on asendatud alt-tekstiga."
+   },
+   "ALT_UNDO": {
+      "message": "Võta tagasi"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Luba kõik animeeritud kujutised."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Animatsioone käitatakse ainult ühe korra või keelatakse need täielikult."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animatsioonide eeskirjad"
+   },
+   "ANIMATION_NONE": {
+      "message": "Keela kõik kujutiste animatsioonid."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Luba animeeritud kujutised ainult üks kord."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animatsioonide eeskirjad:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Tõsta kursori asukoht esile animatsiooniga."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Veebilehtedel oleva teksti nooleklahvidega sirvimine."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Sisestusmärgiga sirvimine"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Sisestusmärgiga sirvimise valikud"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Sisestusmärgiga sirvimise sisselülitamiseks vajutage klahvi \u003Cspan class='key'>F7\u003C/span>. Selle väljalülitamiseks vajutage klahvi uuesti."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Tõsta kursori asukoht esile kiire vilkumisega."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Kui jõuate lingi või juhtelemendini, fokuseeritakse see automaatselt.   Lingil või nupul klõpsamiseks vajutage \u003Cspan class='key'>sisestusklahvi\u003C/span>. \u003C/p> \u003Cp>   Kui fokuseeritud juhtelement (näiteks tekstikast või loendikast) jäädvustab   nooleklahvid, vajutage sisestusmärgiga sirvimise jätkamiseks klahvi \u003Cspan class='key'>Esc\u003C/span> ja siis   vasak- või paremnoolt. \u003C/p> \u003Cp>   Teise võimalusena võite vajutada ka \u003Cspan class='key'>tabulaatorit\u003C/span>, et liikuda järgmisele fokuseeritavale juhtelemendile. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Kui sisestusmärk liigub edasi suure vahemaaga:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Klaviatuuri käsud"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Sõnahaaval liikumiseks hoidke all \u003Cspan class='key'>valikuklahvi\u003C/span>."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Sõnahaaval liikumiseks hoidke all \u003Cspan class='key'>juhtklahvi\u003C/span>."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Kogu dokumendis liikumiseks kasutage nooleklahve. \u003C/p>\u003Cp>Kursori liigutamiseks soovitud kohta klõpsake sellel kohal. \u003C/p> \u003Cp>   Teksti valimiseks vajutage \u003Cspan class='key'>tõstuklahvi\u003C/span> ja nooli.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Kuva ainult kursor ilma tagasisideta."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "See laiendus lisab veebilehele liigutatava kursori, mille abil saate klaviatuuriga teksti valida."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Proovige seda kohe – sisestusmärgiga sirvimine on sellel lehel alati lubatud!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Visuaalne tagasiside"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Kui sisestusmärgiga sirvimine on lubatud, saate teha järgmist."
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Värvide korrigeerimine"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Veebilehtedele rakendatav kohandatav värvifilter värvide tajumise täiustamiseks."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Värvide täiustaja"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Tühista"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Aste"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Kas lubada?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Lähtesta"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Seadista"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Seadistamine:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "2. toiming. Reguleerige liugurit, kuni kõik tärnid valitud real\n        on nähtaval"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Sinine"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "1. toiming. Valige vähimate tärnidega rida:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Roheline"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Punane"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Saidi $1$ värviskeem:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Värviskeemi muutmine või vahetamine, et veebilehed oleksid paremini loetavad."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Suur kontrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Vaikevärviskeem:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Keela"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Suur kontrastsus on keelatud"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Luba"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Suur kontrastsus on lubatud"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Unusta saidi kohandused"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Hallskaala"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Suurendatud kontrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Vahetatud värv"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Ümberpööratud hallskaala"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Tavaline"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Määra vaikeskeemiks"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Kollane mustal"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Lisa ääris elementidele, mis kasutavad atribuute aria-describedat või longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Paremklõpsake elemendil, mille atribuut on „longdesc” või „aria-describedat”, et saada juurdepääs selle pikale kirjeldusele."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Pikad kirjeldused kontekstimenüüs"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Ava pikk kirjeldus uuel vahelehel"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Valikud"
+   }
+}

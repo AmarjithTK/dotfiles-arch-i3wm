@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/starship/bloat/wallpapers/wallpaper1.jpg' 

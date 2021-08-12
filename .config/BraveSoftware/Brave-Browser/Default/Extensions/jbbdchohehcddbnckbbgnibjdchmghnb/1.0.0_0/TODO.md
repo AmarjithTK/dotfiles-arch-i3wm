@@ -1,0 +1,3 @@
+- Thumbnails - better solution ...like in FVD Speed Dial
+- Thumbnails - updater
+- Translations

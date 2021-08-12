@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "ምስሎችን በተለዋጭ ጽሑፋቸው ተካ።"
+   },
+   "ALT_APPNAME": {
+      "message": "የምስል ምትክ ጽሑፍ ተመልካች"
+   },
+   "ALT_INFOBAR": {
+      "message": "ምስሌች በተለዋጭ ጽሑፋቸው ተተክተዋል።"
+   },
+   "ALT_UNDO": {
+      "message": "ቀልብስ"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "ሁሉንም እነማ ምስሎች ፍቀድ።"
+   },
+   "ANIMATION_APPDESC": {
+      "message": "አንድ ጊዜ ብቻ እነማዎችን ያስኪዱ፣ ወይም እነማን ሙሉ በሙሉ ያሰናክሉ።"
+   },
+   "ANIMATION_APPNAME": {
+      "message": "የእነማ መመሪያ"
+   },
+   "ANIMATION_NONE": {
+      "message": "ሁሉንም የምስል እነማ አሰናክል።"
+   },
+   "ANIMATION_ONCE": {
+      "message": "እነማ ምስሎችን ፍቀድ፣ ነገር ግን አንድ ጊዜ ብቻ።"
+   },
+   "ANIMATION_POLICY": {
+      "message": "የእነማ መመሪያ፦"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "የጠቋሚውን አቀማመጥ ከተልወስዋሽ ምስል ጋር አድምቅ።"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "የድር ገጾችን ጹሑፍ የቀስት ቁልፎችን በመጠቀም ያስሱ።"
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Caret Browsing"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "የካሬት የአሰሳ አማራጭ"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Caret Browsingን ለማብራት \u003Cspan class='key'>F7\u003C/span>ን ይጫኑ። ለማጥፋት እንደገና ይጫኑት።"
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "የጠቋሚውን አቀማመጥ ከፈጣን ብልጭታ ጋር አድምቅ።"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>አገናኝ ወይም መቆጣጠሪያ ላይ በሚደርሱበት ጊዜ፣ በራስ-ሰር እንዲያተኩር ይሆናል።   አገናኝን ወይም አዝራርን ጠቅ ለማድረግ \u003Cspan class='key'>Enter\u003C/span>ን ይጫኑ። \u003C/p> \u003Cp>   ትኩረት የተደረገበት መቆጣጠሪያ (እንደ የጽሑፍ ሳጥን ወይም የዝርዝር ሳጥን ያለ) የቀስት ቁልፎችን   በሚያነሳበት ጊዜ፣ \u003Cspan class='key'>Esc\u003C/span>ን ይጫኑ እና በማስከተል   የግራ ወይም የቀኝ ቀስትን ወደ Caret Browsing ለመቀጠል ይጫኑ። \u003C/p> \u003Cp>   በአማራጭነት፣ \u003Cspan class='key'>Tab\u003C/span>ን ወደሚቀጥለው ሊተኮርበት የሚችል መቆጣጠሪያ ለማንቀሳቀስ ይጫኑ። \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "caret በሰፊ ርቀት በሚዘልበት ጊዜ፦"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "የቁልፍ ሰሌዳ ትዕዛዞች"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "ቃል በቃል ለማንቀሳቀስ \u003Cspan class='key'>አማራጭ\u003C/span> የሚለውን ይዘው ይቆዩ።"
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "ቃል በቃል ለማንቀሳቀስ \u003Cspan class='key'>Control\u003C/span>ን  ይዘው ይቆዩ።"
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>በሰነዶች መካከል ለመንቀሳቀስ የቀስት ቁልፎችን ይጠቀሙ። \u003C/p>\u003Cp>ጠቋሚውን ወደዛ አካባቢ ለማንቀሳቀስ በማናቸውም ቦታ ላይ ጠቅ ያድርጉ። \u003C/p> \u003Cp>   ጽሑፍን ለመምረጥ \u003Cspan class='key'>Shift\u003C/span> + ቀስቶችን ይጫኑ።\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "ምንም ግብረ መልስ የለም፣ ጠቋሚውን ብቻ አሳይ።"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "ይህ ቅጥያ በቁልፍ ሰሌዳው ላይ ጽሑፍን መመረጥ የሚያስችልዎትን በድር ገጽ ላይ ተንቀሳቃሽ የሆነ ጠቋሚን ይሰጥዎታል።"
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "አሁኑኑ ይሞክሩት - Caret Browsing በዚህ ገጽ ላይ ሁልጊዜ እንደነቃ ነው!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "የሚታይ ግብረመልስ"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Caret Browsing በሚነቃበት ጊዜ፦"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "የቀለም ማስተካከያ"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "የቀለም አቀባበልን ለማሻሻል ብጁ የሆነ የቀለም ማጣሪያ ወደ የድር ገጾች ላይ ተፈጻሚ ሆኗል።"
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "የቀለም ማሻሻያ"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "ይቅር"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "ዲግሪ"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "ይንቃ?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "እሺ"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "ዳግም አስጀምር"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "አዋቅር"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "አዋቅር፦"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "እርምጃ 2፦ በተመረጠው ረድፍ ላይ ሁሉም ኮከቦች ሙሉ በሙሉ እስከሚታዩ ድረስ\n        አንሸራታችን ያስተካክሉ"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "ሰማያዊ"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "እርምጃ 1፦ በጣም ፈዘዝ ካሉ ኮከቦች ጋር ረድፉን ይምረጡ፦"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "አረንጓዴ"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "ቀይ"
+   },
+   "HIGHCONTRAST_": {
+      "message": "የቀለም ገጽታ ለ$1$፦",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "የድር ገጾችን ለማንበብ ቀላል እንዲሆኑ ለማድረግ የቀለም ገጽታውን ይለውጡ ወይም ይገልብጡ።"
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "ከፍተኛ ንፅፅር"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "ነባሪ የቀለም ገጽታ፦"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "አሰናክል"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "ከፍተኛ ንፅፅር ተሰናክሏል"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "አንቃ"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "ከፍተኛ ንፅፅር ነቅቷል"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "የጣቢያ ብጁ ማድረጎችን እርሳ"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "ግራጫማ ምጥጥን"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "የጨመረ ንፅፅር"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "የተገለበጠ ቀለም"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "የተገለበጠ ግራጫማ ምጥጥን"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "መደበኛ"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "እንደ ነባሪ ገጽታ አዘጋጅ"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "ቢጫ በጥቁር"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "የaria-describedat ወይም የlongdesc አይነታዎች ባላቸው አባላት ላይ ክፈፍ አክል"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "ረጅም መግለጫውን ለመድረስ የ«longdesc» ወይም የ«aria-describedat» አይነታ ያለው ማንኛውም ነገር በቀኝ ጠቅ ያድርጉ።"
+   },
+   "LONGDESC_APPNAME": {
+      "message": "በነገር አገባብ ምናሌ ላይ ረዥም ማብራሪያ"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "ረዥም ማብራሪያን በአዲስ ትር ክፈት"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "አማራጮች"
+   }
+}

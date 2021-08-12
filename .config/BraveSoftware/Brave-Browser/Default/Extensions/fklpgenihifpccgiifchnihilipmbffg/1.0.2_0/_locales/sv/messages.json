@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Ersätta bilder med deras alternativa text."
+   },
+   "ALT_APPNAME": {
+      "message": "Visningsprogram för Alt-text"
+   },
+   "ALT_INFOBAR": {
+      "message": "Bilderna har ersatts av deras alt-text."
+   },
+   "ALT_UNDO": {
+      "message": "Ångra"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Tillåt alla animerade bilder."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Kör endast animation en gång eller inaktivera animering helt."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Animeringspolicy"
+   },
+   "ANIMATION_NONE": {
+      "message": "Inaktivera all bildanimering."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Tillåt animerade bilder, men bara en gång."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Animeringspolicy:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Visa markörens position med en animation."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Bläddra igenom texten på webbsidor med piltangenterna."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Textmarkörläge"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Alternativ för textmarkörläget"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Tryck på \u003Cspan class='key'>F7\u003C/span> om du vill aktivera textmarkörläget. Tryck igen om du vill inaktivera det."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Låt markören blinka till för att visa sin position."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>När du når en länk eller kontroll är den automatiskt fokuserad.   Tryck på \u003Cspan class='key'>Retur\u003C/span> för att klicka på en länk eller knapp. \u003C/p> \u003Cp>   När en fokuserad kontroll (som en textruta eller en listruta) visar   piltangenterna trycker du på \u003Cspan class='key'>Esc\u003C/span> följt av   vänster eller höger pil för att fortsätta i textmarkörläget. \u003C/p> \u003Cp>   Du kan även trycka på \u003Cspan class='key'>Tab\u003C/span> för att flytta till   nästa kontroll som kan fokuseras. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "När textmarkören flyttas långt bort:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Tangentbordskommandon"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Tryck länge på \u003Cspan class='key'>Option\u003C/span> för att flytta efter ord."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Tryck länge på \u003Cspan class='key'>Ctrl\u003C/span> för att flytta efter ord."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Använd piltangenterna för att flytta i dokumentet. \u003C/p>\u003Cp>Klicka någonstans för att flytta markören till den platsen. \u003C/p> \u003Cp>   Tryck på \u003Cspan class='key'>Skift\u003C/span> + pilarna för att markera text.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Ingen feedback, visa bara markören."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Med det här tillägget får du en flyttbar markör på webbsidan så att du kan markera text med tangentbordet."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Prova nu – textmarkörläget är alltid aktiverat på den här sidan!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Visuell feedback"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "När textmarkörläget är aktiverat:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Färgjustering"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Ett anpassningsbart färgfilter tillämpas på webbsidor för att förbättra färguppfattningen."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Färgförbättrare"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Avbryt"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Nivå"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Vill du aktivera?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Återställ"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Konfiguration"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Konfiguration:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Steg 2: Justera reglaget tills alla stjärnor syns på den\n        valda raden"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Blå"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Steg 1: Välj raden med de svagaste stjärnorna:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Grön"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Röd"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Färgschema för $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Ändra eller invertera färgschemat för att göra webbsidorna enklare att läsa."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Hög kontrast"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Standardschema för färger:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Inaktivera"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Hög kontrast är inaktiverat"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Aktivera"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Hög kontrast är aktiverat"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Glöm anpassningar av webbplats"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Gråskala"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Ökad kontrast"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Inverterad färg"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Omvänd gråskala"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normal"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Ange som standardschema"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Gult på svart"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Lägg till ramar i element med attributen aria-describedat eller longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Högerklicka på någonting med attributet longdesc eller aria-describedat för att komma åt den långa beskrivningen."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Långa beskrivningar i snabbmenyn"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Öppna lång beskrivning på ny flik"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Alternativ"
+   }
+}

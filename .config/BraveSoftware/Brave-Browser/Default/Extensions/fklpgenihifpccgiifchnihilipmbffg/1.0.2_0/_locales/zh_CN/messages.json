@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "将图片替换成对应的替代文字。"
+   },
+   "ALT_APPNAME": {
+      "message": "图片替代文字查看器"
+   },
+   "ALT_INFOBAR": {
+      "message": "图片已被其 alt 文字取代。"
+   },
+   "ALT_UNDO": {
+      "message": "撤消"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "允许显示所有动画图片。"
+   },
+   "ANIMATION_APPDESC": {
+      "message": "仅运行一次动画，或完全停用动画。"
+   },
+   "ANIMATION_APPNAME": {
+      "message": "动画政策"
+   },
+   "ANIMATION_NONE": {
+      "message": "停用所有图片动画。"
+   },
+   "ANIMATION_ONCE": {
+      "message": "允许显示动画图片（但只能显示一次）。"
+   },
+   "ANIMATION_POLICY": {
+      "message": "动画政策："
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "使用动画突出显示光标位置。"
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "使用箭头键浏览网页中的文字。"
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "光标浏览模式"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "光标浏览模式相关选项"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "按 \u003Cspan class='key'>F7\u003C/span> 可启用光标浏览模式。再按一次可将其停用。"
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "使用快速闪烁突出显示光标位置。"
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>当您遇到链接或控件时，它们会自动成为焦点项。按 \u003Cspan class='key'>Enter\u003C/span> 键可点击链接或按钮。\u003C/p> \u003Cp>使用箭头键移动光标时，如果焦点移到了某个控件（例如文本框或列表框）上，您可以先按 \u003Cspan class='key'>Esc\u003C/span> 键，然后按向左或向右箭头，以便继续使用光标浏览模式。\u003C/p> \u003Cp>或者，您也可以按 \u003Cspan class='key'>Tab\u003C/span> 键，以便移至下一个可成为焦点的控件。\u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "当光标跳转较长距离时："
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "键盘命令"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "按住 \u003Cspan class='key'>Option\u003C/span> 键可逐字移动。"
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "按住 \u003Cspan class='key'>Control\u003C/span> 键可逐字移动。"
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>使用箭头键在文档中移动。\u003C/p>\u003Cp>点击任意位置即可将光标移至相应位置。\u003C/p> \u003Cp>按 \u003Cspan class='key'>Shift\u003C/span> + 箭头键可选择文字。\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "无反馈，仅显示光标。"
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "启用此扩展程序后，网页中会显示一个可移动的光标，让您能够通过键盘选择文字。"
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "您可以立即试用 - 光标浏览模式在此页面上始终处于启用状态！"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "视觉反馈"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "当光标浏览模式处于启用状态时："
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "颜色调整"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "一种可自定义的颜色滤镜，可应用于网页以增强颜色的辨识度。"
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "颜色增强工具"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "取消"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "度数"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "启用？"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "确定"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "重置"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "设置"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "设置："
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "第 2 步：调整滑块，直到所选行中的所有星标都清晰可见"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "蓝色"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "第 1 步：选择星标颜色最弱的行："
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "绿色"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "红色"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$ 的颜色方案：",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "更改或反转颜色方案，使网页更易于阅读。"
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "高对比度模式"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "默认颜色方案："
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "停用"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "高对比度模式已停用"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "启用"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "高对比度模式已启用"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "取消网站自定义设置"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "灰度"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "增加对比度"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "反转颜色"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "反转灰度"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "正常"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "设为默认方案"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "黑底黄字"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "为具有“aria-describedat”或“longdesc”属性的元素添加边框。"
+   },
+   "LONGDESC_APPDESC": {
+      "message": "右键点击任何具有“longdesc”或“aria-describedat”属性的内容，可查看其详细说明。"
+   },
+   "LONGDESC_APPNAME": {
+      "message": "在上下文菜单中显示详细说明选项"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "在新标签页中打开详细说明"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "选项"
+   }
+}

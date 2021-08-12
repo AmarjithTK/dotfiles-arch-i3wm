@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Înlocuiește imaginile cu textul alternativ."
+   },
+   "ALT_APPNAME": {
+      "message": "Vizualizator text pentru imagini Alt"
+   },
+   "ALT_INFOBAR": {
+      "message": "Imaginile au fost înlocuite cu textul „alt”."
+   },
+   "ALT_UNDO": {
+      "message": "Anulează"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Permite toate imaginile animate."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Rulează animațiile numai o singură dată sau dezactivează complet animațiile."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Politica privind animația"
+   },
+   "ANIMATION_NONE": {
+      "message": "Dezactivează toate imaginile animate."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Permite imaginile animate, dar numai o singură dată."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Politica privind animația:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Evidențiază poziția cursorului cu o animație."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Răsfoiește textul paginilor web cu ajutorul tastelor săgeată."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Navigare cu tastatura"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Opțiuni de navigare cu tastatura"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Apasă pe \u003Cspan class='key'>F7\u003C/span> pentru a activa navigarea cu tastatura. Apasă din nou pentru a o dezactiva."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Evidențiază poziția cursorului cu o clipire intermitentă rapidă."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Când ajungi la un link sau la o comandă, este focalizată automat Apasă pe \u003Cspan class='key'>Enter\u003C/span> pentru a da clic pe un link sau pe un buton. \u003C/p> \u003Cp> Când o comandă focalizată (cum ar fi o casetă text sau o casetă listă) folosește tastele săgeată, apasă pe \u003Cspan class='key'>Esc\u003C/span>, apoi pe săgeata spre stânga sau spre dreapta pentru a continua navigarea cu tastatura. \u003C/p> \u003Cp> Alternativ, apasă pe \u003Cspan class='key'>Tab\u003C/span> pentru a te deplasa la următoarea comandă ce poate fi focalizată.\u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Când cursorul sare la o distanță mare:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Comenzi de la tastatură"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Apasă lung pe \u003Cspan class='key'>Opțiune\u003C/span> pentru a te deplasa cuvânt cu cuvânt."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Apasă lung pe \u003Cspan class='key'>Control\u003C/span> pentru a te deplasa cuvânt cu cuvânt."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Folosește tastele săgeată pentru a te deplasa prin document. \u003C/p>\u003Cp>Dă clic oriunde pentru a muta cursorul în locul respectiv. \u003C/p> \u003Cp>   Apasă pe \u003Cspan class='key'>Shift\u003C/span> + săgeți pentru a selecta textul.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Niciun feedback. Arată doar cursorul."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Această extensie îți oferă un cursor ce se poate deplasa în pagina web, cu care poți să selectezi textul cu tastatura."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Încearcă acum. Navigarea cu tastatura este activată întotdeauna în această pagină!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Feedback vizual"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Când navigarea cu tastatura este activată:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Ajustarea culorilor"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Un filtru de culoare care poate fi personalizat și care se aplică paginilor web pentru a îmbunătăți percepția culorilor."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Anulează"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Gradul"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Activezi?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Resetează"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Configurează"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Configurează:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Pasul 2: ajustează glisorul până când toate stelele sunt vizibile în\n        rândul selectat"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Albastru"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Pasul 1: selectează rândul cu stelele cele mai estompate:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Verde"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Roșu"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Schemă de culori pentru $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Modifică sau inversează schema de culori pentru a facilita citirea paginilor web."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Contrast mare"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Schemă de culori prestabilită:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Dezactivează"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Contrastul mare este dezactivat"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Activează"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Contrastul mare este activat"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Șterge personalizările site-ului"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Tonuri de gri"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Contrast mărit"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Culoare inversată"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Tonuri de gri inversate"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Normal"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Setează ca schemă prestabilită"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Galben pe negru"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Adaugă chenare la elementele cu atributele aria-describedat sau longdesc."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Dă clic dreapta pe orice cu un atribut „longdesc” sau „aria-describedat” pentru a accesa descrierea lungă."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Descrieri lungi în meniul contextual"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Deschide descrierea lungă într-o filă nouă"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Opțiuni"
+   }
+}

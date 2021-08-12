@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "ಚಿತ್ರಗಳನ್ನು ಅವುಗಳ ಪರ್ಯಾಯ ಪಠ್ಯದೊಂದಿಗೆ ಬದಲಾಯಿಸಿ."
+   },
+   "ALT_APPNAME": {
+      "message": "ಚಿತ್ರ Alt ಪಠ್ಯ ವೀಕ್ಷಕ"
+   },
+   "ALT_INFOBAR": {
+      "message": "ಚಿತ್ರಗಳನ್ನು ಅದರ ಪರ್ಯಾಯ ಪಠ್ಯದೊಂದಿಗೆ ಮರುಸ್ಥಾನಗೊಳಿಸಲಾಗಿದೆ."
+   },
+   "ALT_UNDO": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "ಅನಿಮೇಟ್ ಮಾಡಿರುವ ಎಲ್ಲಾ ಚಿತ್ರಗಳನ್ನು ಅನುಮತಿಸಿ."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "ಅನಿಮೇಶನ್‌‌ಗಳನ್ನು ಒಮ್ಮೆ ಮಾತ್ರ ರನ್ ಮಾಡಿ ಅಥವಾ ಸಂಪೂರ್ಣವಾಗಿ ಆನಿಮೇಶನ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "ಆನಿಮೇಶನ್ ನೀತಿ"
+   },
+   "ANIMATION_NONE": {
+      "message": "ಎಲ್ಲಾ ಚಿತ್ರ ಆನಿಮೇಶನ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ."
+   },
+   "ANIMATION_ONCE": {
+      "message": "ಆನಿಮೇಟ್ ಮಾಡಿರುವ ಚಿತ್ರಗಳನ್ನು ಅನುಮತಿಸಿ, ಆದರೆ ಒಮ್ಮೆ ಮಾತ್ರ."
+   },
+   "ANIMATION_POLICY": {
+      "message": "ಆನಿಮೇಶನ್ ನೀತಿ:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "ಅನಿಮೇಷನ್ ಜೊತೆಗೆ ಕರ್ಸರ್ ಸ್ಥಾನವನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "ಬಾಣದ ಕೀಗಳನ್ನು ಬಳಸುವ ಮೂಲಕ ವೆಬ್ ಪುಟಗಳ ಪಠ್ಯವನ್ನು ಬ್ರೌಸ್ ಮಾಡಿ."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "ಕೆರೆಟ್ ಬ್ರೌಸಿಂಗ್"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "ಕೆರೆಟ್ ಬ್ರೌಸಿಂಗ್ ಆಯ್ಕೆಗಳು"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "ಕೆರೆಟ್ ಬ್ರೌಸಿಂಗ್ ಆನ್ ಮಾಡಲು \u003Cspan class='key'>F7\u003C/span> ಅನ್ನು ಒತ್ತಿರಿ. ಆಫ್ ಮಾಡಲು ಅದನ್ನು ಪುನಃ ಒತ್ತಿರಿ."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "ತ್ವರಿತ ಫ್ಲಾಶ್ ಜೊತೆಗೆ ಕರ್ಸರ್ ಸ್ಥಾನವನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>ನೀವು ಲಿಂಕ್ ಅಥವಾ ನಿಯಂತ್ರಣವನ್ನು ತಲುಪಿದಾಗ, ಅದನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಕೇಂದ್ರೀಕರಿಸಲಾಗುತ್ತದೆ. ಲಿಂಕ್ ಅಥವಾ ಬಟನ್ ಕ್ಲಿಕ್ ಮಾಡಲು \u003Cspan class='key'>Enter\u003C/span> ಅನ್ನು ಒತ್ತಿ. \u003C/p> \u003Cp>  ಕೆರೆಟ್ ಬ್ರೌಸಿಂಗ್ ಅನ್ನು ಮುಂದುವರಿಸಲು, ಕೇಂದ್ರೀಕರಿಸಲಾದ ನಿಯಂತ್ರಣವು (ಪಠ್ಯ ಬಾಕ್ಸ್ ಅಥವಾ ಪಟ್ಟಿ ಬಾಕ್ಸ್‌ನಂತಹ) ಬಾಣದ ಕೀಗಳನ್ನು ಸೆರೆಹಿಡಿಯುತ್ತಿದ್ದರೆ, \u003Cspan class='key'>Esc\u003C/span>  ಒತ್ತಿರಿ ನಂತರ ಎಡ ಅಥವಾ ಬಲ ಬಾಣವನ್ನು ಒತ್ತಿರಿ. \u003C/p> \u003Cp>   ಪರ್ಯಾಯವಾಗಿ, ಮುಂದಿನ ಕೇಂದ್ರೀಕರಿಸಬಹುದಾದ ನಿಯಂತ್ರಣಕ್ಕೆ ಸರಿಸಲು \u003Cspan class='key'>Esc\u003C/span> ಅನ್ನು ಒತ್ತಿ. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "ದೀರ್ಘವಾದ ಅಂತರದಿಂದ ಕೆರೆಟ್ ಮುಂದಕ್ಕೆ ಸಾಗಿದಾಗ:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "ಕೀಬೋರ್ಡ್ ಆದೇಶಗಳು"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "ಪದಗಳ ಮೂಲಕ ಸರಿಸಲು \u003Cspan class='key'>ಆಯ್ಕೆ\u003C/span> ಅನ್ನು ಹಿಡಿದುಕೊಳ್ಳಿ."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "ಪದಗಳ ಮೂಲಕ ಸರಿಸಲು \u003Cspan class='key'>Control\u003C/span> ಅನ್ನು ಹಿಡಿದುಕೊಳ್ಳಿ."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>ಡಾಕ್ಯುಮೆಂಟ್‌ನಾದ್ಯಂತ ಸರಿಸಲು ಬಾಣದ ಗುರುತುಗಳನ್ನು ಬಳಸಿ. \u003C/p>\u003Cp>ಕರ್ಸರ್ ಅನ್ನು ಆ ಸ್ಥಳಕ್ಕೆ ಸರಿಸಲು ಎಲ್ಲಾದರೂ ಕ್ಲಿಕ್ ಮಾಡಿ. \u003C/p> \u003Cp>   ಪಠ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಲು \u003Cspan class='key'>Shift\u003C/span> + ಬಾಣಗಳನ್ನು ಒತ್ತಿರಿ.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡದೆ, ಕೇವಲ ಕರ್ಸರ್ ಅನ್ನು ತೋರಿಸಿ."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "ಈ ವಿಸ್ತರಣೆಯು ವೆಬ್ ಪುಟದಲ್ಲಿ ಸರಿಸಬಹುದಾದ ಕರ್ಸರ್ ಅನ್ನು ನಿಮಗೆ ನೀಡುತ್ತದೆ, ಕೀಬೋರ್ಡ್ ಮೂಲಕ ಪಠ್ಯವನ್ನು ಆಯ್ಕೆಮಾಡಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "ಈಗಲೇ ಪ್ರಯತ್ನಿಸಿ - ಈ ಪುಟದಲ್ಲಿ ಕೆರೆಟ್ ಬ್ರೌಸಿಂಗ್ ಅನ್ನು ಯಾವಾಗಲೂ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿರುತ್ತದೆ!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "ದೃಶ್ಯಾವಳಿ ಪ್ರತಿಕ್ರಿಯೆ"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "ಕೆರೆಟ್ ಬ್ರೌಸಿಂಗ್ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "ಬಣ್ಣದ ಹೊಂದಾಣಿಕೆ"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "ಬಣ್ಣದ ಗ್ರಹಿಕೆಯನ್ನು ಸುಧಾರಿಸಲು ವೆಬ್‌ಪುಟಗಳಿಗೆ ಕಸ್ಟಮೈಸ್ ಮಾಡಬಹುದಾದ ಬಣ್ಣ ಫಿಲ್ಟರ್ ಅನ್ನು ಅನ್ವಯಿಸಲಾಗಿದೆ."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "ಬಣ್ಣ ವರ್ಧಕ"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "ರದ್ದುಮಾಡಿ"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "ಡಿಗ್ರಿ"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸುವುದೇ?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "ಸರಿ"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "ಮರುಹೊಂದಿಸು"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "ಸೆಟಪ್"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "ಸೆಟಪ್:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "ಹಂತ 2: ಆಯ್ಕೆಮಾಡಿದ ಸಾಲಿನಲ್ಲಿ ಎಲ್ಲಾ ನಕ್ಷತ್ರಗಳು ಗೋಚರಿಸುವವರೆಗೆ ಸ್ಲೈಡರ್\n        ಅನ್ನು ಹೊಂದಿಸಿ"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "ನೀಲಿ"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "ಹಂತ 1: ಮುಸುಕಾದ ನಕ್ಷತ್ರಗಳೊಂದಿಗೆ ಸಾಲನ್ನು ಆಯ್ಕೆಮಾಡಿ:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "ಹಸಿರು"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "ಕೆಂಪು"
+   },
+   "HIGHCONTRAST_": {
+      "message": "$1$ ಗೆ ಬಣ್ಣದ ಯೋಜನೆ:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "ವೆಬ್‌ಪುಟಗಳನ್ನು ಓದಲು ಸುಲಭಗೊಳಿಸಲು ಬಣ್ಣದ ಯೋಜನೆಯನ್ನು ಬದಲಾಯಿಸಿ ಅಥವಾ ತಿರುಗಿಸಿ."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "ಅಧಿಕ ವೈದೃಶ್ಯ"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "ಡೀಫಾಲ್ಟ್ ಬಣ್ಣ ಯೋಜನೆ:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "ಅಧಿಕ ವೈದೃಶ್ಯವನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "ಸಕ್ರಿಯಗೊಳಿಸು"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "ಅಧಿಕ ವೈದೃಶ್ಯವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "ಸೈಟ್ ಕಸ್ಟಮೈಸ್ ಮಾಡುವಿಕೆಯನ್ನು ಮರೆತುಬಿಡಿ"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "ಗ್ರೇಸ್ಕೇಲ್"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "ಹೆಚ್ಚಿಸಿದ ವೈದೃಶ್ಯ"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "ತಿರುಗುಮುರುಗಾದ ಬಣ್ಣ"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "ತಿರುಗುಮುರುಗಾದ ಗ್ರೇಸ್ಕೇಲ್"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "ಸಾಮಾನ್ಯ"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "ಡಿಫಾಲ್ಟ್ ಯೋಜನೆಯಂತೆ ಹೊಂದಿಸಿ"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "ಕಪ್ಪು ಬಣ್ಣದ ಮೇಲೆ ಹಳದಿ"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "aria-describedat ಅಥವಾ longdesc ಗುಣಲಕ್ಷಣಗಳ ಜೊತೆಗೆ ಅಂಶಗಳಿಗೆ ಅಂಚು ಸೇರಿಸಿ."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "ಅದರ ದೀರ್ಘ ವಿವರಣೆಯನ್ನು ಪ್ರವೇಶಿಸಲು \"longdesc\" ಅಥವಾ \"aria-describedat\" ಗುಣಲಕ್ಷಣದೊಂದಿಗೆ ಯಾವುದರ ಮೇಲಾದರೂ ರೈಟ್-ಕ್ಲಿಕ್ ಮಾಡಿ."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "ಸಂದರ್ಭ ಮೆನುವಿನಲ್ಲಿ ದೀರ್ಘ ವಿವರಣೆಗಳು"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "ದೀರ್ಘ ವಿವರಣೆಯನ್ನು ಹೊಸ ಟ್ಯಾಬ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "ಆಯ್ಕೆಗಳು"
+   }
+}

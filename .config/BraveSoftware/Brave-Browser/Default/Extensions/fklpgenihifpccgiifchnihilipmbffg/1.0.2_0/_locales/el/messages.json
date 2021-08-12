@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Αντικατάσταση εικόνων με το εναλλακτικό κείμενό τους."
+   },
+   "ALT_APPNAME": {
+      "message": "Πρόγραμμα προβολής εναλλακτικού κειμένου εικόνων"
+   },
+   "ALT_INFOBAR": {
+      "message": "Οι εικόνες έχουν αντικατασταθεί από το \"alt\" κείμενό τους."
+   },
+   "ALT_UNDO": {
+      "message": "Αναίρεση"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Να επιτρέπονται όλες οι κινούμενες εικόνες."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Εκτέλεση κινούμενων εικόνων μόνο μία φορά ή πλήρης απενεργοποίησή τους."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Πολιτική κινούμενων εικόνων"
+   },
+   "ANIMATION_NONE": {
+      "message": "Απενεργοποίηση όλων των κινουμένων εικόνων."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Εμφάνιση κινούμενων εικόνων μόνο μία φορά."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Πολιτική εμφάνισης κινούμενων εικόνων:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Επισήμανση της θέσης του δρομέα με μια κινούμενη εικόνα."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Περιήγηση στο κείμενο των ιστοσελίδων με τα πλήκτρα βέλους."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Περιήγηση με σύμβολα προσθήκης"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Επιλογές περιήγησης με σύμβολα προσθήκης"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Πατήστε \u003Cspan class='key'>F7\u003C/span> για να ενεργοποιήσετε την Περιήγηση με σύμβολα προσθήκης. Πατήστε ξανά για να την απενεργοποιήσετε."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Επισήμανση της θέσης του κέρσορα με γρήγορο φλας."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Όταν φτάνετε σε κάποιον σύνδεσμο ή σε κάποιο στοιχείο ελέγχου, πραγματοποιείται αυτόματα εστίαση.   Πατήστε \u003Cspan class='key'>Enter\u003C/span> για να κάνετε κλικ σε κάποιον σύνδεσμο ή σε κάποιο κουμπί. \u003C/p> \u003Cp>   Όταν κάποιο στοιχείο ελέγχου εστίασης (όπως ένα πλαίσιο κειμένου ή ένα πλαίσιο λίστας) υιοθετεί   πλήκτρα βέλους, πατήστε \u003Cspan class='key'>Esc\u003C/span> και το   αριστερό ή το δεξιό βέλος για να συνεχίσετε την Περιήγηση με σύμβολα προσθήκης. \u003C/p> \u003Cp>   Εναλλακτικά, πατήστε \u003Cspan class='key'>Tab\u003C/span> για να μετακινηθείτε στο   επόμενο στοιχείο ελέγχου με δυνατότητα εστίασης. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Όταν το σύμβολο προσθήκης μεταπηδά σε μεγάλη απόσταση:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Εντολές πληκτρολογίου"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Κρατήστε πατημένο το στοιχείο \u003Cspan class='key'>Επιλογή\u003C/span> για να μετακινηθείτε κατά λέξη."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Κρατήστε πατημένο το στοιχείο \u003Cspan class='key'>Επιλογή\u003C/span> για να μετακινηθείτε κατά λέξη."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Χρησιμοποιήστε τα πλήκτρα βέλους για να μετακινηθείτε στο έγγραφο. \u003C/p>\u003Cp>Κάντε κλικ οπουδήποτε για να μετακινήσετε τον δρομέα στη συγκεκριμένη τοποθεσία. \u003C/p> \u003Cp>   Πατήστε \u003Cspan class='key'>Shift\u003C/span> + βέλη για να επιλέξετε το κείμενο που επιθυμείτε.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Χωρίς ιδιαίτερη παρουσία. Εμφάνιση μόνο του δρομέα."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Αυτή η επέκταση σάς παρέχει έναν δρομέα με δυνατότητα μετακίνησης στην ιστοσελίδα, ο οποίος σας επιτρέπει να επιλέγετε κείμενο με το πληκτρολόγιο."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Δοκιμάστε το τώρα - Η Περιήγηση με σύμβολα προσθήκης είναι πάντα ενεργοποιημένη σε αυτήν τη σελίδα!"
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Οπτική παρουσία"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Όταν η Περιήγηση με σύμβολα προσθήκης είναι ενεργή:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Προσαρμογή χρώματος"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "Ένα προσαρμόσιμο φίλτρο χρώματος που εφαρμόζεται σε ιστοσελίδες για τη βελτίωση της αντίληψης χρώματος."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Ακύρωση"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Βαθμός"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Ενεργοποίηση;"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Επαναφορά"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Ρυθμίσεις"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Ρύθμιση:"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Βήμα 2: Προσαρμογή ρυθμιστικού μέχρι όλα τα αστέρια να είναι ορατά στην\n        επιλεγμένη σειρά"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Μπλε"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Βήμα 1: Επιλογή της σειράς με τα πιο αχνά αστέρια:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Πράσινο"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Κόκκινο"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Συνδυασμός χρωμάτων για τον ιστότοπο $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Αλλάξτε ή αντιστρέψτε τον συνδυασμό χρωμάτων για να είναι πιο ευανάγνωστες οι ιστοσελίδες."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Υψηλή αντίθεση"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Προεπιλεγμένος συνδυασμός χρωμάτων:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Απενεργοποίηση"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Η υψηλή αντίθεση είναι απενεργοποιημένη"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Ενεργοποίηση"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Η υψηλή αντίθεση είναι ενεργοποιημένη"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Απαλοιφή προσαρμογών ιστότοπου"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Κλίμακα του γκρι"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Αυξημένη αντίθεση"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Ανεστραμμένο χρώμα"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Ανεστραμμένη κλίμακα του γκρι"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Κανονική λειτουργία"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Ορισμός ως συνδυασμού χρωμάτων"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Κίτρινο σε μαύρο"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Προσθήκη περιθωρίου σε στοιχεία με χαρακτηριστικά \"aria-describedat\" ή \"longdesc\"."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Κάντε δεξί κλικ σε οποιοδήποτε στοιχείο με ένα χαρακτηριστικό \"longdesc\" ή \"aria-describedat\" για να αποκτήσετε πρόσβαση στην πλήρη περιγραφή του."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Αναλυτικές περιγραφές στο μενού περιβάλλοντος"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Άνοιγμα της αναλυτικής περιγραφής σε νέα καρτέλα"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Επιλογές"
+   }
+}

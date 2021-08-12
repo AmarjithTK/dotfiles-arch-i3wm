@@ -1,0 +1,196 @@
+{
+   "ALT_APPDESC": {
+      "message": "Заміна зображень альтернативним текстом."
+   },
+   "ALT_APPNAME": {
+      "message": "Вікно альтернативного тексту зображення"
+   },
+   "ALT_INFOBAR": {
+      "message": "Зображення замінено текстом заміщення."
+   },
+   "ALT_UNDO": {
+      "message": "Відмінити"
+   },
+   "ANIMATION_ALLOWED": {
+      "message": "Дозволити анімовані зображення."
+   },
+   "ANIMATION_APPDESC": {
+      "message": "Показувати анімовані зображення лише раз або вимкнути анімацію."
+   },
+   "ANIMATION_APPNAME": {
+      "message": "Правила анімації"
+   },
+   "ANIMATION_NONE": {
+      "message": "Вимкнути анімацію зображень."
+   },
+   "ANIMATION_ONCE": {
+      "message": "Дозволити анімовані зображення лише раз."
+   },
+   "ANIMATION_POLICY": {
+      "message": "Правила анімації:"
+   },
+   "CARET_BROWSING_ANIMATION": {
+      "message": "Виділити положення курсора анімацією."
+   },
+   "CARET_BROWSING_APPDESC": {
+      "message": "Перегляд тексту веб-сторінок за допомогою клавіш зі стрілками."
+   },
+   "CARET_BROWSING_APPNAME": {
+      "message": "Клавішна навігація"
+   },
+   "CARET_BROWSING_CARETBROWSINGOPTIONS": {
+      "message": "Параметри клавішної навігації"
+   },
+   "CARET_BROWSING_ENABLEDISABLENONCROS": {
+      "message": "Натисніть \u003Cspan class='key'>F7\u003C/span>, щоб увімкнути клавішну навігацію. Натисніть її знову, щоб вимкнути цю функцію."
+   },
+   "CARET_BROWSING_FLASH": {
+      "message": "Виділити положення курсора швидким блиманням."
+   },
+   "CARET_BROWSING_FOCUSHELP": {
+      "message": "\u003Cp>Коли ви відкриваєте посилання або елемент керування, вони автоматично фокусуються.   Щоб вибрати посилання чи кнопку, натисніть клавішу \u003Cspan class='key'>Enter\u003C/span>. \u003C/p> \u003Cp>   Якщо сфокусований елемент керування (як-от текстове поле чи вікно списку) містить   клавіші зі стрілками, натисніть \u003Cspan class='key'>Esc\u003C/span> і клавішу зі стрілкою ліворуч або праворуч, щоб перейти до клавішної навігації. \u003C/p> \u003Cp>   Також можна натиснути клавішу \u003Cspan class='key'>Tab\u003C/span>, щоб перейти до   наступного сфокусованого елемента керування. \u003C/p>"
+   },
+   "CARET_BROWSING_JUMP": {
+      "message": "Коли курсор переходить на велику відстань:"
+   },
+   "CARET_BROWSING_KEYBOARDCOMMANDS": {
+      "message": "Команди клавіатури"
+   },
+   "CARET_BROWSING_MOVEBYWORDSMAC": {
+      "message": "Щоб переходити між словами, утримуйте клавішу \u003Cspan class='key'>Option\u003C/span>."
+   },
+   "CARET_BROWSING_MOVEBYWORDSNONMAC": {
+      "message": "Щоб переходити між словами, утримуйте клавішу \u003Cspan class='key'>Control\u003C/span>."
+   },
+   "CARET_BROWSING_NAVHELP": {
+      "message": "\u003Cp>Використовуйте клавіші зі стрілками, щоб переходити в документі. \u003C/p>\u003Cp>Натисніть будь-де, щоб перемістити курсор у потрібне місце. \u003C/p> \u003Cp>   Щоб виділити текст, натисніть клавішу \u003Cspan class='key'>Shift\u003C/span> і потрібні клавіші зі стрілками.\u003C/p>"
+   },
+   "CARET_BROWSING_NOFEEDBACK": {
+      "message": "Просто показати курсор."
+   },
+   "CARET_BROWSING_SUBHEADING1": {
+      "message": "Завдяки цьому розширенню можна використовувати курсор, щоб виділяти текст на веб-сторінках за допомогою клавіатури."
+   },
+   "CARET_BROWSING_SUBHEADING2": {
+      "message": "Спробуйте. На цій сторінці клавішну навігацію завжди ввімкнено."
+   },
+   "CARET_BROWSING_VISUALFEEDBACK": {
+      "message": "Візуальна реакція"
+   },
+   "CARET_BROWSING_WHENENABLED": {
+      "message": "Коли клавішну навігацію ввімкнено:"
+   },
+   "COLOR_ENHANCER_ADJUSTMENT_FACTOR": {
+      "message": "Налаштування кольору"
+   },
+   "COLOR_ENHANCER_APPDESC": {
+      "message": "До сторінок застосовується спеціальний фільтр, щоб покращити сприйняття кольорів."
+   },
+   "COLOR_ENHANCER_APPNAME": {
+      "message": "Color Enhancer"
+   },
+   "COLOR_ENHANCER_CANCEL": {
+      "message": "Скасувати"
+   },
+   "COLOR_ENHANCER_DEGREE": {
+      "message": "Градус"
+   },
+   "COLOR_ENHANCER_ENABLE": {
+      "message": "Увімкнути?"
+   },
+   "COLOR_ENHANCER_OK": {
+      "message": "OK"
+   },
+   "COLOR_ENHANCER_RESET": {
+      "message": "Скинути"
+   },
+   "COLOR_ENHANCER_SETUP_BUTTON": {
+      "message": "Налаштування"
+   },
+   "COLOR_ENHANCER_SETUP_HEADING": {
+      "message": "Налаштування"
+   },
+   "COLOR_ENHANCER_SEVERITY": {
+      "message": "Крок 2. Пересуньте повзунок так, щоб було видно всі зірочки у\n        вибраному рядку"
+   },
+   "COLOR_ENHANCER_TYPE_BLUE": {
+      "message": "Синій"
+   },
+   "COLOR_ENHANCER_TYPE_CHOICE": {
+      "message": "Крок 1. Виберіть рядок із найблідішими зірочками:"
+   },
+   "COLOR_ENHANCER_TYPE_GREEN": {
+      "message": "Зелений"
+   },
+   "COLOR_ENHANCER_TYPE_RED": {
+      "message": "Червоний"
+   },
+   "HIGHCONTRAST_": {
+      "message": "Схема кольорів для веб-сайту $1$:",
+      "placeholders": {
+         "1": {
+            "content": "$1"
+         }
+      }
+   },
+   "HIGHCONTRAST_APPDESC": {
+      "message": "Змінюйте або інвертуйте схему кольорів, щоб полегшити читання веб-сторінок."
+   },
+   "HIGHCONTRAST_APPNAME": {
+      "message": "Високий контраст"
+   },
+   "HIGHCONTRAST_DEFAULT": {
+      "message": "Схема кольорів за умовчанням:"
+   },
+   "HIGHCONTRAST_DISABLE": {
+      "message": "Вимкнути"
+   },
+   "HIGHCONTRAST_DISABLED": {
+      "message": "Високий контраст вимкнено"
+   },
+   "HIGHCONTRAST_ENABLE": {
+      "message": "Увімкнути"
+   },
+   "HIGHCONTRAST_ENABLED": {
+      "message": "Високий контраст увімкнено"
+   },
+   "HIGHCONTRAST_FORGET": {
+      "message": "Видалити налаштування сайтів"
+   },
+   "HIGHCONTRAST_GRAYSCALE": {
+      "message": "Відтінки сірого"
+   },
+   "HIGHCONTRAST_INCREASED_CONTRAST": {
+      "message": "Збільшений контраст"
+   },
+   "HIGHCONTRAST_INVERTED_COLOR": {
+      "message": "Інвертований колір"
+   },
+   "HIGHCONTRAST_INVERTED_GRAYSCALE": {
+      "message": "Інвертовані відтінки сірого"
+   },
+   "HIGHCONTRAST_MODE_NORMAL": {
+      "message": "Звичайний"
+   },
+   "HIGHCONTRAST_SETDEFAULT": {
+      "message": "Зробити схемою за умовчанням"
+   },
+   "HIGHCONTRAST_YELLOW_ON_BLACK": {
+      "message": "Жовтий на чорному"
+   },
+   "LONGDESC_ADD_BORDER_CHECKBOX": {
+      "message": "Додавайте контур до елементів за допомогою атрибутів \"aria-describedat\" або \"longdesc\"."
+   },
+   "LONGDESC_APPDESC": {
+      "message": "Натисніть правою кнопкою миші будь-який вміст з атрибутом \"longdesc\" або \"aria-describedat\", щоб перейти до його докладного опису."
+   },
+   "LONGDESC_APPNAME": {
+      "message": "Докладні описи в контекстному меню"
+   },
+   "LONGDESC_CONTEXT_MENU_ITEM": {
+      "message": "Відкрити докладний опис у новій вкладці"
+   },
+   "LONGDESC_OPTIONS": {
+      "message": "Параметри"
+   }
+}
