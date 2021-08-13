@@ -118,9 +118,9 @@ set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
 
-assign [class="Brave-browser"] $ws1
-assign [class="TelegramDesktop"] $ws5
-assign [class="Thunar"] $ws4
+#assign [class="Brave-browser"] $ws1
+#assign [class="TelegramDesktop"] $ws5
+#assign [class="Thunar"] $ws4
 #assign [class="Gnome-terminal"] $ws2
 
 
@@ -199,8 +199,8 @@ bar {
 for_window [class=".*"] border pixel 0
 
 
-gaps inner 7
-gaps outer 5
+gaps inner 10
+gaps outer 2
 
 
 # Only enable gaps on a workspace when there is at least one container
@@ -214,13 +214,15 @@ floating_maximum_size 720 x640
 #floating_minimum_size 75 x 50
 hide_edge_borders both
 
-exec redshifter 2500 0.85
-exec_always --no-startup-id exec bash $HOME/.fehbg
+exec redshifter 2500 0.85 &
+exec_always --no-startup-id exec bash $HOME/.fehbg &
 
 bindsym $mod+shift+x exec i3lock
-
+exec conky &
 exec brave
-exec alacritty
+
+
+
 
 
 
