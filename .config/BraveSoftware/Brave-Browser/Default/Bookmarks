@@ -1,5 +1,5 @@
 {
-   "checksum": "3de32f239b52d7e636a22798dcbde764",
+   "checksum": "67f39934d3b0fffaedf6296a9ab964cb",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -47,14 +47,21 @@
                "url": "https://web.whatsapp.com/"
             } ],
             "date_added": "13273171210801964",
-            "date_modified": "13273241411059442",
+            "date_modified": "13273397375291666",
             "guid": "23402d17-faff-4586-9815-407d21179ca4",
             "id": "16",
             "name": "Speedial",
             "type": "folder"
+         }, {
+            "date_added": "13273397375291666",
+            "guid": "dbfaa84d-2635-405d-8b61-b79fa9a76a0d",
+            "id": "21",
+            "name": "Online Colorscheme Configurator for i3, i3status, dmenu",
+            "type": "url",
+            "url": "https://thomashunter.name/i3-configurator/"
          } ],
          "date_added": "13273157949094144",
-         "date_modified": "13273171210802521",
+         "date_modified": "13273397378808118",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Bookmarks",
