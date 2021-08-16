@@ -14,11 +14,11 @@ set $mod Mod4
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-font pango:monospace 8
+#font pango:monospace 8
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-#font pango:DejaVu Sans Mono 8
+font pango:Montserrat Semi-Bold 10 
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
@@ -107,21 +107,22 @@ bindsym $mod+a focus parent
 
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
-set $ws1 "Brave"
-set $ws2 "Terminals"
-set $ws3 "3"
-set $ws4 "Thunar"
-set $ws5 "Telegram"
-set $ws6 "6"
-set $ws7 "7"
+set $ws1 "  Browser"
+set $ws2 "  Terminal"
+set $ws3 "  Code Editor"
+set $ws4 "  Thunar"
+set $ws5 "  Telegram Desktop"
+set $ws6 "  Text Editor"
+set $ws7 " Raspberry Editor"
 set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
 
-#assign [class="Brave-browser"] $ws1
-#assign [class="TelegramDesktop"] $ws5
-#assign [class="Thunar"] $ws4
-#assign [class="Gnome-terminal"] $ws2
+assign [class="Thunar"] $ws4
+assign [class="TelegramDesktop"] $ws5
+assign [class="VSCodium"] $ws3
+
+
 
 
 
@@ -139,16 +140,16 @@ bindsym $mod+9 workspace $ws9
 bindsym $mod+0 workspace $ws10
 
 # move focused container to workspace
-bindsym $mod+Shift+1 move container to workspace number $ws1
-bindsym $mod+Shift+2 move container to workspace number $ws2
-bindsym $mod+Shift+3 move container to workspace number $ws3
-bindsym $mod+Shift+4 move container to workspace number $ws4
-bindsym $mod+Shift+5 move container to workspace number $ws5
-bindsym $mod+Shift+6 move container to workspace number $ws6
-bindsym $mod+Shift+7 move container to workspace number $ws7
-bindsym $mod+Shift+8 move container to workspace number $ws8
-bindsym $mod+Shift+9 move container to workspace number $ws9
-bindsym $mod+Shift+0 move container to workspace number $ws10
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5
+bindsym $mod+Shift+6 move container to workspace $ws6
+bindsym $mod+Shift+7 move container to workspace $ws7
+bindsym $mod+Shift+8 move container to workspace $ws8
+bindsym $mod+Shift+9 move container to workspace $ws9
+bindsym $mod+Shift+0 move container to workspace $ws10
 
 
 
@@ -188,27 +189,28 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-font pango:Montserrat Bold 10
 
-client.focused #4c7899 #6c7b87 #ffffff #2e9ef4  #285577
+
+client.unfocused #4c7899 #011627 #acb4c2 #2e9ef4  #285577
+client.focused #4c7899 #09304f #acb4c2 #2e9ef4 #285577
 
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {
-       position top
+       position bottom
        status_command i3status
          
 
 	 tray_output none
 
 	  colors {
-                background #1F2D3A
-                statusline #1ABC9C
-                separator #1ABC9C
+                background #011627
+                statusline #acb4c2
+                separator #FFFFFF
                 # colorclass       <border> <background> <text>
-                focused_workspace  #1ABC9C  #1ABC9C     #1F2D3A
-                inactive_workspace #1F2D3A  #1F2D3A     #1ABC9C
+                focused_workspace  #011627  #09304f     #FFFFFF
+#                inactive_workspace #1F2D3A  #011627     #FFFFFF
 
         }
 
@@ -237,18 +239,16 @@ smart_gaps on
 smart_gaps inverse_outer
 
 
-floating_maximum_size 720 x640
+floating_maximum_size 640x320
 #floating_minimum_size 75 x 50
 hide_edge_borders both
 
 exec redshifter 2500 0.85 &
 exec_always --no-startup-id exec bash $HOME/.fehbg &
 
-bindsym $mod+shift+x exec i3lock
+bindsym $mod+shift+z exec i3lock
 exec conky &
 
-
-exec --no-startup-id "i3-msg 'workspace Terminals; append_layout /home/starship/.i3/terminals.json'"
 
 # Create Log out, Reboot, Poweroff bindings
 mode "(S)uspend, (L)ogout, (R)eboot, (P)oweroff" {
@@ -263,6 +263,17 @@ mode "(S)uspend, (L)ogout, (R)eboot, (P)oweroff" {
 }
 
 bindsym $mod+Shift+e mode "(S)uspend, (L)ogout, (R)eboot, (P)oweroff"
+
+exec brave
+exec vscodium
+
+
+
+
+
+
+
+
 
 
 

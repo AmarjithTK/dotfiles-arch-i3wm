@@ -1,0 +1,17 @@
+[2021-08-16 09:09:59.140] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-08-16 09:09:59.143] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210815T214656'
+[2021-08-16 09:10:19.140] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-08-16 09:10:19.141] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-08-16 09:10:29.141] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-08-16 09:16:11.165] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2021-08-16 09:16:29.922] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/starship/.config/VSCodium/CachedExtensionVSIXs/esbenp.prettier-vscode-8.1.0
+[2021-08-16 09:16:30.881] [sharedprocess] [info] Extracted extension to /home/starship/.vscode-oss/extensions/.838ef063-6378-4594-8080-65ef30f43215: esbenp.prettier-vscode
+[2021-08-16 09:16:30.941] [sharedprocess] [info] Renamed to /home/starship/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0
+[2021-08-16 09:16:30.947] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2021-08-16 09:16:31.003] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2021-08-16 09:19:10.134] [sharedprocess] [info] Installing extension: ms-vscode.live-server
+[2021-08-16 09:19:21.065] [sharedprocess] [info] Downloaded extension: ms-vscode.live-server /home/starship/.config/VSCodium/CachedExtensionVSIXs/ms-vscode.live-server-0.2.8
+[2021-08-16 09:19:21.149] [sharedprocess] [info] Extracted extension to /home/starship/.vscode-oss/extensions/.4489f533-12a4-4a17-8cbc-ebda791796a8: ms-vscode.live-server
+[2021-08-16 09:19:21.198] [sharedprocess] [info] Renamed to /home/starship/.vscode-oss/extensions/ms-vscode.live-server-0.2.8
+[2021-08-16 09:19:21.202] [sharedprocess] [info] Extracting completed. ms-vscode.live-server
+[2021-08-16 09:19:21.282] [sharedprocess] [info] Extension installed successfully: ms-vscode.live-server

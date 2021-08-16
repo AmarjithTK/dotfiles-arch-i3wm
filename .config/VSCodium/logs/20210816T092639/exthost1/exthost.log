@@ -1,0 +1,91 @@
+[2021-08-16 09:26:43.892] [exthost] [info] extension host started
+[2021-08-16 09:26:43.893] [exthost] [info] Skipping acquiring lock for /home/starship/.config/VSCodium/User/workspaceStorage/552a2e3f5935cde74b5e4ca55038665e.
+[2021-08-16 09:26:44.261] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2021-08-16 09:26:44.261] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-16 09:26:44.311] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-08-16 09:26:44.311] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-08-16 09:26:44.384] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.live-server {"startup":false,"extensionId":{"value":"ms-vscode.live-server","_lower":"ms-vscode.live-server"},"activationEvent":"onLanguage:html"}
+[2021-08-16 09:26:44.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/starship/.vscode-oss/extensions/ms-vscode.live-server-0.2.8/out/extension.js
+[2021-08-16 09:26:44.411] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-16 09:26:44.411] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-16 09:26:44.417] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-16 09:26:44.417] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2021-08-16 09:26:44.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-16 09:26:44.975] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/github/dist/extension.js
+[2021-08-16 09:26:45.044] [exthost] [info] eager extensions activated
+[2021-08-16 09:26:45.152] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-16 09:26:45.153] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-16 09:26:45.678] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-16 09:26:45.678] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-16 09:26:45.688] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-16 09:26:45.688] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/starship/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-16 09:26:45.903] [exthost] [info] ExtensionService#_doActivateExtension Sudhan.neondark-theme {"startup":false,"extensionId":{"value":"Sudhan.neondark-theme","_lower":"sudhan.neondark-theme"},"activationEvent":"onStartupFinished"}
+[2021-08-16 09:26:45.903] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/starship/.vscode-oss/extensions/sudhan.neondark-theme-1.1.1/src/index.js
+[2021-08-16 09:26:47.078] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2021-08-16 09:32:57.219] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-08-16 09:32:57.220] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-08-16 09:32:57.248] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-08-16 09:32:57.249] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-08-16 09:32:57.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-08-16 09:32:57.260] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-08-16 09:32:57.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-08-16 09:32:57.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/npm/dist/npmMain
+[2021-08-16 09:32:58.222] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-08-16 09:32:58.283] [exthost] [error] TypeError: Cannot read property 'close' of undefined
+	at u.close (/home/starship/.vscode-oss/extensions/ms-vscode.live-server-0.2.8/out/extension.js:1:226287)
+	at d.closeServer (/home/starship/.vscode-oss/extensions/ms-vscode.live-server-0.2.8/out/extension.js:1:231240)
+	at f.dispose (/home/starship/.vscode-oss/extensions/ms-vscode.live-server-0.2.8/out/extension.js:1:221350)
+	at Object.e.deactivate (/home/starship/.vscode-oss/extensions/ms-vscode.live-server-0.2.8/out/extension.js:1:304887)
+	at v._deactivate (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:11286)
+	at /usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:10000
+	at Array.map (<anonymous>)
+	at v.deactivateAll (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:90:9988)
+	at A.terminate (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:725)
+	at h (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+	at Socket.<anonymous> (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-08-16 09:32:58.301] [exthost] [error] Activating extension vscode.npm failed due to an error:
+[2021-08-16 09:32:58.301] [exthost] [error] Canceled: Canceled
+	at Object.i [as canceled] (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:5:1157)
+	at /usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8181
+	at Array.forEach (<anonymous>)
+	at h.dispose (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:89:8129)
+	at A.terminate (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:684)
+	at h (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:32088)
+	at Socket.<anonymous> (/usr/share/vscodium-bin/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:104:29731)
+	at Socket.emit (events.js:327:22)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-08-16 09:32:59.285] [exthost] [info] exiting with code 0
+[2021-08-16 09:32:59.448] [exthost] [info] extension host started
+[2021-08-16 09:32:59.448] [exthost] [info] Skipping acquiring lock for /home/starship/.config/VSCodium/User/workspaceStorage/f698142fba3d2788d6e419e23a0a8b45.
+[2021-08-16 09:32:59.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2021-08-16 09:32:59.547] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-08-16 09:32:59.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-08-16 09:32:59.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/html-language-features/client/dist/node/htmlClientMain
+[2021-08-16 09:32:59.603] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.live-server {"startup":false,"extensionId":{"value":"ms-vscode.live-server","_lower":"ms-vscode.live-server"},"activationEvent":"onLanguage:html"}
+[2021-08-16 09:32:59.604] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/starship/.vscode-oss/extensions/ms-vscode.live-server-0.2.8/out/extension.js
+[2021-08-16 09:32:59.625] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-08-16 09:32:59.625] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-08-16 09:32:59.890] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":false,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-08-16 09:32:59.890] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-08-16 09:32:59.895] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-16 09:32:59.895] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/git/dist/main
+[2021-08-16 09:32:59.946] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2021-08-16 09:32:59.946] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-08-16 09:32:59.955] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2021-08-16 09:32:59.955] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-08-16 09:32:59.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2021-08-16 09:32:59.996] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-08-16 09:33:00.042] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2021-08-16 09:33:00.042] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/npm/dist/npmMain
+[2021-08-16 09:33:00.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-08-16 09:33:00.426] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/github/dist/extension.js
+[2021-08-16 09:33:00.508] [exthost] [info] eager extensions activated
+[2021-08-16 09:33:00.549] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-08-16 09:33:00.549] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/vscodium-bin/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-08-16 09:33:00.555] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":false,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"onStartupFinished"}
+[2021-08-16 09:33:00.556] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/starship/.vscode-oss/extensions/esbenp.prettier-vscode-8.1.0/dist/extension
+[2021-08-16 09:33:00.786] [exthost] [info] ExtensionService#_doActivateExtension Sudhan.neondark-theme {"startup":false,"extensionId":{"value":"Sudhan.neondark-theme","_lower":"sudhan.neondark-theme"},"activationEvent":"onStartupFinished"}
+[2021-08-16 09:33:00.786] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/starship/.vscode-oss/extensions/sudhan.neondark-theme-1.1.1/src/index.js
+[2021-08-16 09:33:02.241] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000

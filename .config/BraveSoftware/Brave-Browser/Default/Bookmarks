@@ -1,5 +1,5 @@
 {
-   "checksum": "67f39934d3b0fffaedf6296a9ab964cb",
+   "checksum": "97095ca4d418d148e1e6128343252fae",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -59,9 +59,23 @@
             "name": "Online Colorscheme Configurator for i3, i3status, dmenu",
             "type": "url",
             "url": "https://thomashunter.name/i3-configurator/"
+         }, {
+            "date_added": "13273429975175772",
+            "guid": "bed67d68-4a14-4c0b-a301-25f9c95b748e",
+            "id": "23",
+            "name": "Accuracy over speed",
+            "type": "url",
+            "url": "https://www.keybr.com/"
+         }, {
+            "date_added": "13273493995413217",
+            "guid": "1ca7140b-fca6-46b2-8785-8e46a9dd1894",
+            "id": "25",
+            "name": "GitHub Learning Lab",
+            "type": "url",
+            "url": "https://lab.github.com/"
          } ],
          "date_added": "13273157949094144",
-         "date_modified": "13273397378808118",
+         "date_modified": "13273493995413217",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Bookmarks",

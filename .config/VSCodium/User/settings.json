@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "'Fira Code', 'Source Code Pro', 'Droid Sans Fallback'",
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
