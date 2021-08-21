@@ -1,2 +1,0 @@
-[2021-08-16 09:33:03.691] [renderer1] [warning] {}
-[2021-08-16 09:33:06.732] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 44% of 813.453ms, saved PROFILE here: 'file:///tmp/exthost-61d8dd.cpuprofile' [{"id":"gc","total":48709,"percentage":6},{"id":"program","total":210893,"percentage":26},{"id":"self","total":128775,"percentage":16},{"id":"vscode.git","total":360600,"percentage":44},{"id":"vscode.html-language-features","total":62503,"percentage":8},{"id":"vscode.merge-conflict","total":1649,"percentage":0}]

@@ -42,9 +42,7 @@
   * Midori
   * Git
   * Nightfly alacritty and vscodium theme
-  *
-  *
-  *
+  
 
 
 

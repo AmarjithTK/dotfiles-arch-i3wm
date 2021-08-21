@@ -18,7 +18,7 @@ set $mod Mod4
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-font pango:Montserrat Semi-Bold 10 
+font pango:Montserrat Bold 10 
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
@@ -118,6 +118,11 @@ set $ws8 "8"
 set $ws9 "9"
 set $ws10 "10"
 
+
+set $colorprimary #4893B3
+set $colorsecondary #5F686B
+set $colortertiary #405F7A
+
 assign [class="Thunar"] $ws4
 assign [class="TelegramDesktop"] $ws5
 assign [class="VSCodium"] $ws3
@@ -191,8 +196,8 @@ bindsym $mod+r mode "resize"
 
 
 
-client.unfocused #4c7899 #011627 #acb4c2 #2e9ef4  #285577
-client.focused #4c7899 #09304f #acb4c2 #2e9ef4 #285577
+client.unfocused $colorprimary $colorsecondary #FFFFF #2e9ef4  #285577
+client.focused $colorprimary $colorprimary #FFFFFF #2e9ef4 #285577
 
 
 # Start i3bar to display a workspace bar (plus the system information i3status
@@ -200,17 +205,18 @@ client.focused #4c7899 #09304f #acb4c2 #2e9ef4 #285577
 bar {
        position bottom
        status_command i3status
+       
          
 
-	 tray_output none
+	
 
 	  colors {
-                background #011627
-                statusline #acb4c2
+                background $colortertiary
+                statusline #FFFFFF
                 separator #FFFFFF
                 # colorclass       <border> <background> <text>
-                focused_workspace  #011627  #09304f     #FFFFFF
-#                inactive_workspace #1F2D3A  #011627     #FFFFFF
+                focused_workspace  $colorprimary  $colorprimary  #FFFFFF
+                inactive_workspace $colorsecondary  $colorsecondary #FFFFFF
 
         }
 
@@ -265,7 +271,10 @@ mode "(S)uspend, (L)ogout, (R)eboot, (P)oweroff" {
 bindsym $mod+Shift+e mode "(S)uspend, (L)ogout, (R)eboot, (P)oweroff"
 
 exec brave
-exec vscodium
+
+
+
+
 
 
 

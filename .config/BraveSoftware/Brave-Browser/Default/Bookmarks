@@ -1,5 +1,5 @@
 {
-   "checksum": "97095ca4d418d148e1e6128343252fae",
+   "checksum": "a6ec3f2ca5e55acbf5ceab0add0f07c0",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -73,9 +73,16 @@
             "name": "GitHub Learning Lab",
             "type": "url",
             "url": "https://lab.github.com/"
+         }, {
+            "date_added": "13274010811114194",
+            "guid": "60ac0fdd-6330-4617-9a06-b12d7c165e04",
+            "id": "27",
+            "name": "Just a moment...",
+            "type": "url",
+            "url": "https://freecoursesite.com/"
          } ],
          "date_added": "13273157949094144",
-         "date_modified": "13273493995413217",
+         "date_modified": "13274010811114194",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Bookmarks",

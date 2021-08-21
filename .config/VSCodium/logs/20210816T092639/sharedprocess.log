@@ -1,8 +1,0 @@
-[2021-08-16 09:26:53.310] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
-[2021-08-16 09:26:53.312] [sharedprocess] [info] [logs cleanup]: Removing log folders '20210815T214847'
-[2021-08-16 09:26:59.823] [sharedprocess] [info] Uninstalling extension: sudhan.neondark-theme
-[2021-08-16 09:27:00.166] [sharedprocess] [info] Detected extension removed from another source sudhan.neondark-theme
-[2021-08-16 09:27:00.239] [sharedprocess] [info] Successfully uninstalled extension: sudhan.neondark-theme
-[2021-08-16 09:27:13.311] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
-[2021-08-16 09:27:13.312] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
-[2021-08-16 09:27:23.311] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
