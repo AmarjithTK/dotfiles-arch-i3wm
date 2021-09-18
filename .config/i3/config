@@ -10,7 +10,41 @@
 #
 # Please see https://i3wm.org/docs/userguide.html for a complete reference!
 
+
+
+
+#  -------------------	Variables Declaration here  -------------------	
+
+
+
 set $mod Mod4
+
+
+
+set $ws1 "  Browser"
+set $ws2 "  Terminal"
+set $ws3 "  Code Editor"
+set $ws4 "  Thunar"
+set $ws5 "  Telegram Desktop"
+set $ws6 "  Text Editor"
+set $ws7 " Raspberry Editor"
+set $ws8 "8"
+set $ws9 "9"
+set $ws10 "10"
+
+
+set $colorprimary #11324D
+set $colorsecondary #6B7AA1
+set $colortertiary #012443
+
+
+
+
+
+
+#  -------------------	Fonts  -------------------	
+
+
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
@@ -18,7 +52,10 @@ set $mod Mod4
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-font pango:Montserrat Bold 10 
+font pango:Montserrat SemiBold 10 
+
+
+
 
 # The combination of xss-lock, nm-applet and pactl is a popular choice, so
 # they are included here as an example. Modify as you see fit.
@@ -31,6 +68,11 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
 
+
+# -------------------	Pulse Audio manager  -------------------	
+
+
+
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
 bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
@@ -38,11 +80,27 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
+
+
+# -------------------	Program Launcher  -------------------	
+
 # Use Mouse+$mod to drag floating windows to their wanted position
 floating_modifier $mod
 
 # start a terminal
 bindsym $mod+Return exec alacritty
+
+
+# Basic app launchers
+
+
+bindsym Mod1+b exec brave
+bindsym Mod1+v exec vscodium
+bindsym Mod1+f exec thunar
+bindsym Mod1+g exec gedit
+bindsym Mod1+t exec telegram-desktop
+
+
 
 # kill focused window
 bindsym $mod+x kill
@@ -54,6 +112,9 @@ bindsym $mod+d exec --no-startup-id rofi -show run
 # There also is i3-dmenu-desktop which only displays applications shipping a
 # .desktop file. It is a wrapper around dmenu, so you need that installed.
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
+
+
+#  -------------------	Navigation and layout settings  -------------------	
 
 # change focus
 bindsym $mod+j focus left
@@ -105,30 +166,13 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
-# Define names for default workspaces for which we configure key bindings later on.
-# We use variables to avoid repeating the names in multiple places.
-set $ws1 "  Browser"
-set $ws2 "  Terminal"
-set $ws3 "  Code Editor"
-set $ws4 "  Thunar"
-set $ws5 "  Telegram Desktop"
-set $ws6 "  Text Editor"
-set $ws7 " Raspberry Editor"
-set $ws8 "8"
-set $ws9 "9"
-set $ws10 "10"
-
-
-set $colorprimary #4893B3
-set $colorsecondary #5F686B
-set $colortertiary #405F7A
-
-assign [class="Thunar"] $ws4
-assign [class="TelegramDesktop"] $ws5
-assign [class="VSCodium"] $ws3
 
 
 
+
+
+
+#  -------------------	Workspace Definition and assignments  -------------------	
 
 
 
@@ -157,15 +201,27 @@ bindsym $mod+Shift+9 move container to workspace $ws9
 bindsym $mod+Shift+0 move container to workspace $ws10
 
 
+assign [class="Thunar"] $ws4
+assign [class="TelegramDesktop"] $ws5
+assign [class="VSCodium"] $ws3
+assign [class="realvnc-vncviewer"] $ws7
+assign [class="Gnome-terminal"] $ws6
 
 
+
+
+#  -------------------	Restart and reload  -------------------	
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
+
+
 # restart i3 inplace (preserves your layout/session, can be used to upgrade i3)
 bindsym $mod+Shift+r restart
-# exit i3 (logs you out of your X session)
-#bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'You pressed the exit shortcut. Do you really want to exit i3? This will #end your X session.' -B 'Yes, exit i3' 'i3-msg exit'"
+
+
+#  -------------------	Resize Mode  -------------------	
+
 
 # resize window (you can also use the mouse for that)
 mode "resize" {
@@ -196,26 +252,34 @@ bindsym $mod+r mode "resize"
 
 
 
-client.unfocused $colorprimary $colorsecondary #FFFFF #2e9ef4  #285577
+#  -------------------	Theming and colors  -------------------	
+
+client.unfocused $colorprimary $colorsecondary #FFFFFF #2e9ef4  #285577
 client.focused $colorprimary $colorprimary #FFFFFF #2e9ef4 #285577
 
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-       position bottom
-       status_command i3status
-       
-         
 
+
+bar {
+       position top
+       status_command i3status
+       mode hide
+       hidden_state hide
+       modifier Mod1
+    
+         
+	font pango:Montserrat ExtraBold 10 
+	
 	
 
 	  colors {
-                background $colortertiary
+                background $colorprimary
                 statusline #FFFFFF
                 separator #FFFFFF
                 # colorclass       <border> <background> <text>
-                focused_workspace  $colorprimary  $colorprimary  #FFFFFF
+                focused_workspace  $colortertiary  $colorprimary  #FFFFFF
                 inactive_workspace $colorsecondary  $colorsecondary #FFFFFF
 
         }
@@ -227,33 +291,7 @@ bar {
 
 
 
-
-# You can also use any non-zero value if you'd like to have a border
-for_window [class=".*"] border pixel 0
-
-
-
-
-gaps inner 5
-gaps outer 5
-
-
-# Only enable gaps on a workspace when there is at least one container
-smart_gaps on
-
-# Only enable outer gaps when there is exactly one container
-smart_gaps inverse_outer
-
-
-floating_maximum_size 640x320
-#floating_minimum_size 75 x 50
-hide_edge_borders both
-
-exec redshifter 2500 0.85 &
-exec_always --no-startup-id exec bash $HOME/.fehbg &
-
-bindsym $mod+shift+z exec i3lock
-exec conky &
+#  -------------------	Power menu  -------------------	
 
 
 # Create Log out, Reboot, Poweroff bindings
@@ -270,7 +308,39 @@ mode "(S)uspend, (L)ogout, (R)eboot, (P)oweroff" {
 
 bindsym $mod+Shift+e mode "(S)uspend, (L)ogout, (R)eboot, (P)oweroff"
 
-exec brave
+
+
+# ------------------- Misc configs and settings  -------------------	
+
+
+# You can also use any non-zero value if you'd like to have a border
+for_window [class=".*"] border pixel 0
+
+
+
+gaps inner 15
+gaps outer 5
+gaps top 10
+gaps bottom 0
+
+
+# Only enable gaps on a workspace when there is at least one container
+#smart_gaps on
+
+# Only enable outer gaps when there is exactly one container
+#smart_gaps inverse_outer
+
+
+floating_maximum_size 640x320
+#floating_minimum_size 75 x 50
+hide_edge_borders both
+
+exec redshifter 2500 0.5 &
+exec_always feh --bg-fill --randomize ~/.wallpapers/feh/* &
+
+
+
+bindsym Mod1+z exec betterlockscreen -u ~/.wallpapers/i3lock/background.jpg --lock blur
 
 
 
