@@ -116,3 +116,10 @@ export workthree="  Code Editor"
 
 
 export PATH="$PATH:/home/$USER/.local/bin"
+
+
+export EDITOR=/usr/bin/nano
+
+alias etcher="sudo ~/bin/flasher.AppImage"
+alias changepage="python ~/automateJobs/cron__changepage/main.py"
+alias pyenv="source ~/bin/pyenv/bin/activate"

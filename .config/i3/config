@@ -299,7 +299,7 @@ mode "(S)uspend, (L)ogout, (R)eboot, (P)oweroff" {
         bindsym r exec --no-startup-id systemctl reboot
         bindsym s exec --no-startup-id systemctl suspend; mode "default"
         bindsym l exit
-        bindsym p exec --no-startup-id systemctl poweroff
+        bindsym p exec --no-startup-id  shutdown now
 
         # back to normal: Enter or Escape
         bindsym Return mode "default"
@@ -335,7 +335,7 @@ floating_maximum_size 640x320
 #floating_minimum_size 75 x 50
 hide_edge_borders both
 
-exec redshifter 2500 0.5 &
+exec redshifter 2000 0.65 &
 exec_always feh --bg-fill --randomize ~/.wallpapers/feh/* &
 
 
