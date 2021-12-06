@@ -106,7 +106,7 @@ bindsym Mod1+t exec telegram-desktop
 bindsym $mod+x kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id rofi -show run
+bindsym $mod+d exec --no-startup-id rofi -show drun
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -205,7 +205,27 @@ assign [class="Thunar"] $ws4
 assign [class="TelegramDesktop"] $ws5
 assign [class="VSCodium"] $ws3
 assign [class="realvnc-vncviewer"] $ws7
-assign [class="Gnome-terminal"] $ws6
+# assign [class="Gnome-terminal"] $ws6
+
+
+
+
+# floating windows auto fixed size ----------------------------------
+
+
+for_window [class="Sharik"] floating enable
+for_window [class="Sharik"] resize set 300 600
+
+
+
+for_window [class="TelegramDesktop"] floating enable
+for_window [class="TelegramDesktop"] resize set 300 600
+
+for_window [class="Gnome-terminal"] floating enable
+for_window [class="Gnome-Terminal"] resize set 500 500
+
+
+
 
 
 
@@ -325,17 +345,20 @@ gaps bottom 0
 
 
 # Only enable gaps on a workspace when there is at least one container
-#smart_gaps on
+smart_gaps on
 
 # Only enable outer gaps when there is exactly one container
-#smart_gaps inverse_outer
+smart_gaps inverse_outer
 
 
-floating_maximum_size 640x320
+floating_maximum_size 1200x600
 #floating_minimum_size 75 x 50
 hide_edge_borders both
 
-exec redshifter 2000 0.65 &
+
+
+# redshifter set 
+exec redshifter 2700 1 &
 exec_always feh --bg-fill --randomize ~/.wallpapers/feh/* &
 
 
