@@ -2,10 +2,10 @@
 
 
 
-![alt text](gitfiles/photo3.png)
-![alt text](gitfiles/photo2.png)
-![alt text](gitfiles/photo1.png)
-![alt text](gitfiles/photo4.png)
+![alt text](resources/photo3.png)
+![alt text](resources/photo2.png)
+![alt text](resources/photo1.png)
+![alt text](resources/photo4.png)
 
 
 
