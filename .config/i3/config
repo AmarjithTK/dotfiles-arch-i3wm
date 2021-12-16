@@ -167,7 +167,7 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 
-
+bindsym alt+shift+s exec flameshot
 
 
 
