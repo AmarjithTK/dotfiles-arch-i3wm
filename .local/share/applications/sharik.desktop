@@ -4,6 +4,6 @@ Version=1.0
 Terminal=false
 Type=Application
 Name=Sharik
-Exec=/home/buran/bin/sharik.AppImage
+Exec=sh -c "$HOME/bin/sharik.AppImage"
 Icon=chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default
 StartupWMClass=Sharik
