@@ -3,7 +3,7 @@
 Version=1.0
 Terminal=false
 Type=Application
-Name=Sharik
-Exec=sh -c "$HOME/bin/sharik.AppImage"
+Name=Sharik PC
+Exec=sh -c "$HOME/bin/sharik.AppImage "
 Icon=chrome-bikioccmkafdpakkkcpdbppfkghcmihk-Default
 StartupWMClass=Sharik

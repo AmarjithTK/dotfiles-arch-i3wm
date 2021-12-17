@@ -3,7 +3,7 @@
 /*
 
 !.config
-!.local/share/applications/*
+!.local/share/applications
 !.fonts
 !resources
 
